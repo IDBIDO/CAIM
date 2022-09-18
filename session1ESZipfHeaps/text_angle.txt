@@ -1,0 +1,228 @@
+ID= Byb4IoMB8d3s9MT9t0lV PATH=./20_newsgroups/sci.electronics/0012980
+ ->  TXT=detect the <em>angle</em>
+ID= Tyb4IoMB8d3s9MT9uEoK PATH=./20_newsgroups/sci.electronics/0012018
+ ->  TXT=a shallow <em>angle</em>
+ID= jyb4IoMB8d3s9MT9uEoK PATH=./20_newsgroups/sci.electronics/0012925
+ ->  TXT=detect the <em>angle</em>
+ID= ESb4IoMB8d3s9MT9uEsK PATH=./20_newsgroups/sci.electronics/0012186
+ ->  TXT=drill
+	(right-<em>angle</em>
+ID= Kyb4IoMB8d3s9MT9uVBB PATH=./20_newsgroups/comp.graphics/0001844
+ ->  TXT=arbitrary <em>angle</em>
+ID= qSb4IoMB8d3s9MT9uVBB PATH=./20_newsgroups/comp.graphics/0001669
+ ->  TXT=counting and <em>angle</em>
+ID= 5yb4IoMB8d3s9MT9uVBB PATH=./20_newsgroups/comp.graphics/0001214
+ ->  TXT=counts, and <em>angle</em>
+ ->  TXT=provides <em>angle</em>
+ ->  TXT=specified <em>angle</em>
+ID= OCb4IoMB8d3s9MT9uVFB PATH=./20_newsgroups/comp.graphics/0001903
+ ->  TXT=is an AI <em>angle</em>
+ID= Qib4IoMB8d3s9MT9uVFB PATH=./20_newsgroups/comp.graphics/0001690
+ ->  TXT=counts, and <em>angle</em>
+ ->  TXT=provides <em>angle</em>
+ ->  TXT=specified <em>angle</em>
+ID= gyb4IoMB8d3s9MT9uVKm PATH=./20_newsgroups/comp.graphics/0001177
+ ->  TXT=at a right <em>angle</em>
+ ->  TXT=what the <em>angle</em>
+ID= iSb4IoMB8d3s9MT9uVKm PATH=./20_newsgroups/comp.graphics/0001616
+ ->  TXT=arbitrary <em>angle</em>
+ ->  TXT=arbitrary <em>angle</em>
+ID= Xyb4IoMB8d3s9MT9uVOn PATH=./20_newsgroups/comp.graphics/0001979
+ ->  TXT=follows:
+>T(1)= <em>angle</em>
+ ->  TXT=p2
+>T(2)= <em>angle</em>
+ ->  TXT=p3
+>T(n)= <em>angle</em>
+ ->  TXT=as: -PI < <em>angle</em>
+ ->  TXT=If ANY <em>angle</em>
+ID= nib4IoMB8d3s9MT9uVOn PATH=./20_newsgroups/comp.graphics/0001760
+ ->  TXT=for a given
+<em>angle</em>
+ID= 6ib4IoMB8d3s9MT9ulMJ PATH=./20_newsgroups/talk.religion.misc/0019980
+ ->  TXT=on why the <em>Angle</em>
+ID= 7yb4IoMB8d3s9MT9ulV4 PATH=./20_newsgroups/talk.religion.misc/0019915
+ ->  TXT=political <em>angle</em>
+ID= Byb4IoMB8d3s9MT9uljn PATH=./20_newsgroups/rec.sport.hockey/0010321
+ ->  TXT=a narrow
+ <em>angle</em>
+ID= Wib4IoMB8d3s9MT9uljn PATH=./20_newsgroups/rec.sport.hockey/0010783
+ ->  TXT=almost no <em>angle</em>
+ID= xyb4IoMB8d3s9MT9uljn PATH=./20_newsgroups/rec.sport.hockey/0010222
+ ->  TXT=from a sharp
+<em>angle</em>
+ID= oib4IoMB8d3s9MT9u1lK PATH=./20_newsgroups/rec.sport.hockey/0010078
+ ->  TXT=the camera <em>angle</em>
+ID= tCb4IoMB8d3s9MT9u1pL PATH=./20_newsgroups/rec.sport.hockey/0010997
+ ->  TXT=with a sharp <em>angle</em>
+ID= zib4IoMB8d3s9MT9vF4- PATH=./20_newsgroups/talk.politics.mideast/0017677
+ ->  TXT=down at an <em>angle</em>
+ID= 0ib4IoMB8d3s9MT9vF_c PATH=./20_newsgroups/comp.windows.x/0005029
+ ->  TXT=predefined <em>angle</em>
+ ->  TXT=text at any <em>angle</em>
+ID= -yb4IoMB8d3s9MT9vF_c PATH=./20_newsgroups/comp.windows.x/0005700
+ ->  TXT=strings at any <em>angle</em>
+ID= 7ib4IoMB8d3s9MT9vGDd PATH=./20_newsgroups/comp.windows.x/0005038
+ ->  TXT=non-horizontal <em>angle</em>
+ID= sib4IoMB8d3s9MT9vWFT PATH=./20_newsgroups/comp.windows.x/0005187
+ ->  TXT=strings at any <em>angle</em>
+ID= cCb4IoMB8d3s9MT9vWOu PATH=./20_newsgroups/comp.windows.x/0005477
+ ->  TXT=strings at any <em>angle</em>
+ID= lib4IoMB8d3s9MT9vWOu PATH=./20_newsgroups/sci.space/0014082
+ ->  TXT=the tourism <em>angle</em>
+ ->  TXT=business
+<em>angle</em>
+ID= qSb4IoMB8d3s9MT9vWOu PATH=./20_newsgroups/sci.space/0014361
+ ->  TXT=different sun <em>angle</em>
+ID= 4ib4IoMB8d3s9MT9vWOu PATH=./20_newsgroups/sci.space/0014350
+ ->  TXT=anything on this <em>angle</em>
+ID= Qib4IoMB8d3s9MT9vWSv PATH=./20_newsgroups/sci.space/0014758
+ ->  TXT=increasing 
+<em>angle</em>
+ID= jyb4IoMB8d3s9MT9vWSv PATH=./20_newsgroups/sci.space/0014273
+ ->  TXT=anything on this <em>angle</em>
+ID= xSb4IoMB8d3s9MT9vWSv PATH=./20_newsgroups/sci.space/0014294
+ ->  TXT=anything on this <em>angle</em>
+ID= 6Cb4IoMB8d3s9MT9vWSv PATH=./20_newsgroups/sci.space/0014504
+ ->  TXT=the 
+zenith <em>angle</em>
+ID= GSb4IoMB8d3s9MT9vWWv PATH=./20_newsgroups/sci.space/0014912
+ ->  TXT=30 degree
+<em>angle</em>
+ID= Myb4IoMB8d3s9MT9vmYJ PATH=./20_newsgroups/sci.space/0014356
+ ->  TXT=different sun <em>angle</em>
+ID= ZSb4IoMB8d3s9MT9vmYJ PATH=./20_newsgroups/sci.space/0014083
+ ->  TXT=change their <em>angle</em>
+ID= kCb4IoMB8d3s9MT9vmYJ PATH=./20_newsgroups/sci.space/0014001
+ ->  TXT=change of <em>angle</em>
+ID= vSb4IoMB8d3s9MT9vmYJ PATH=./20_newsgroups/sci.space/0014620
+ ->  TXT=difference in <em>angle</em>
+ ->  TXT=measure the <em>angle</em>
+ ->  TXT=measures the <em>angle</em>
+ID= yib4IoMB8d3s9MT9vmYJ PATH=./20_newsgroups/sci.space/0014744
+ ->  TXT=subtends an <em>angle</em>
+ID= ECb4IoMB8d3s9MT9vmcJ PATH=./20_newsgroups/sci.space/0014010
+ ->  TXT=that the <em>angle</em>
+ ->  TXT=negative <em>angle</em>
+ ->  TXT=keeping
+    the <em>angle</em>
+ID= Qyb4IoMB8d3s9MT9vmds PATH=./20_newsgroups/sci.space/0014545
+ ->  TXT=difference in <em>angle</em>
+ ->  TXT=measure the <em>angle</em>
+ ->  TXT=measures the <em>angle</em>
+ID= CCb4IoMB8d3s9MT9vmhs PATH=./20_newsgroups/rec.motorcycles/0008855
+ ->  TXT=the same <em>angle</em>
+ID= GCb4IoMB8d3s9MT9vmhs PATH=./20_newsgroups/rec.motorcycles/0008302
+ ->  TXT=changing the <em>angle</em>
+ID= Gib4IoMB8d3s9MT9vmhs PATH=./20_newsgroups/rec.motorcycles/0008558
+ ->  TXT=to its low <em>angle</em>
+ID= MCb4IoMB8d3s9MT9vmhs PATH=./20_newsgroups/rec.motorcycles/0008432
+ ->  TXT=70 degree <em>angle</em>
+ID= RCb4IoMB8d3s9MT9vmhs PATH=./20_newsgroups/rec.motorcycles/0008845
+ ->  TXT=a NARROW <em>ANGLE</em>
+ID= vib4IoMB8d3s9MT9vmhs PATH=./20_newsgroups/rec.motorcycles/0008039
+ ->  TXT=Neglecting solid <em>angle</em>
+ID= 8Sb4IoMB8d3s9MT9vmhs PATH=./20_newsgroups/rec.motorcycles/0008001
+ ->  TXT=aerodynamics, three-<em>angle</em>
+ID= JCb4IoMB8d3s9MT9vmlt PATH=./20_newsgroups/rec.motorcycles/0008594
+ ->  TXT=your
+lean <em>angle</em>
+ ->  TXT=your
+lean <em>angle</em>
+ID= fyb4IoMB8d3s9MT9vmm4 PATH=./20_newsgroups/rec.motorcycles/0008893
+ ->  TXT=silver if the <em>angle</em>
+ID= CSb4IoMB8d3s9MT9vmq4 PATH=./20_newsgroups/rec.motorcycles/0008661
+ ->  TXT=backrest <em>angle</em>
+ID= Hib4IoMB8d3s9MT9vmq4 PATH=./20_newsgroups/rec.motorcycles/0008571
+ ->  TXT=handlebar <em>angle</em>
+ID= OCb4IoMB8d3s9MT9vmq4 PATH=./20_newsgroups/rec.motorcycles/0008125
+ ->  TXT=steering <em>angle</em>
+ID= Yib4IoMB8d3s9MT9vmq5 PATH=./20_newsgroups/rec.motorcycles/0008607
+ ->  TXT=at a 90deg <em>angle</em>
+ID= Eyb4IoMB8d3s9MT9v3Cv PATH=./20_newsgroups/talk.politics.guns/0016116
+ ->  TXT=downward <em>angle</em>
+ID= QCb4IoMB8d3s9MT9v3Cv PATH=./20_newsgroups/talk.politics.guns/0016544
+ ->  TXT=child abuse <em>angle</em>
+ID= xCb4IoMB8d3s9MT9v3Cv PATH=./20_newsgroups/talk.politics.guns/0016535
+ ->  TXT=separatist
+<em>angle</em>
+ID= 4yb4IoMB8d3s9MT9wHEq PATH=./20_newsgroups/talk.politics.guns/0016193
+ ->  TXT=the right <em>angle</em>
+ID= rib4IoMB8d3s9MT9wHIq PATH=./20_newsgroups/talk.politics.guns/0016159
+ ->  TXT=stated so, one <em>angle</em>
+ID= 7yb4IoMB8d3s9MT9wHIq PATH=./20_newsgroups/talk.politics.guns/0016190
+ ->  TXT=downward <em>angle</em>
+ID= 0Sb4IoMB8d3s9MT9wXho PATH=./20_newsgroups/talk.politics.misc/0018518
+ ->  TXT=left) camera <em>angle</em>
+ID= WCb4IoMB8d3s9MT9wXnw PATH=./20_newsgroups/talk.politics.misc/0019915
+ ->  TXT=political <em>angle</em>
+ID= Zib4IoMB8d3s9MT9wnxh PATH=./20_newsgroups/rec.sport.baseball/0009802
+ ->  TXT=the field <em>angle</em>
+ID= dSb4IoMB8d3s9MT9w4Jb PATH=./20_newsgroups/comp.sys.mac.hardware/0004314
+ ->  TXT=attaching <em>angle</em>
+ID= bSb4IoMB8d3s9MT9w4Ok PATH=./20_newsgroups/sci.med/0013819
+ ->  TXT=from EACH <em>angle</em>
+ID= 9yb4IoMB8d3s9MT9w4Ok PATH=./20_newsgroups/sci.med/0013792
+ ->  TXT=from EACH <em>angle</em>
+ID= -Sb4IoMB8d3s9MT9w4Ok PATH=./20_newsgroups/sci.med/0013059
+ ->  TXT=clubbing the
+<em>angle</em>
+ ->  TXT=clubbing, the <em>angle</em>
+ID= Lib4IoMB8d3s9MT9w4Sk PATH=./20_newsgroups/sci.med/0013546
+ ->  TXT=90 degree <em>angle</em>
+ ->  TXT=45 degree <em>angle</em>
+ID= kCb4IoMB8d3s9MT9w4X9 PATH=./20_newsgroups/sci.med/0013114
+ ->  TXT=at a fixed <em>angle</em>
+ID= CSb4IoMB8d3s9MT9w4b9 PATH=./20_newsgroups/sci.med/0013893
+ ->  TXT=the other <em>angle</em>
+ID= Vyb4IoMB8d3s9MT9w4b9 PATH=./20_newsgroups/sci.med/0013118
+ ->  TXT=height, back <em>angle</em>
+ID= Dib4IoMB8d3s9MT9xIdc PATH=./20_newsgroups/rec.autos/0007169
+ ->  TXT=45 degree <em>angle</em>
+ ->  TXT=45 degree <em>angle</em>
+ ->  TXT=the slip <em>angle</em>
+ ->  TXT=greater slip <em>angle</em>
+ ->  TXT=slip <em>angle</em>
+ID= LSb4IoMB8d3s9MT9xIdc PATH=./20_newsgroups/rec.autos/0007717
+ ->  TXT=pedal,
+the <em>angle</em>
+ID= RCb4IoMB8d3s9MT9xIdc PATH=./20_newsgroups/rec.autos/0007322
+ ->  TXT=intended <em>angle</em>
+ID= UCb4IoMB8d3s9MT9xIdd PATH=./20_newsgroups/rec.autos/0007192
+ ->  TXT=particular <em>angle</em>
+ID= Zyb4IoMB8d3s9MT9xIdd PATH=./20_newsgroups/rec.autos/0007929
+ ->  TXT=very narrow <em>angle</em>
+ID= eib4IoMB8d3s9MT9xIdd PATH=./20_newsgroups/rec.autos/0007945
+ ->  TXT=45 degree <em>angle</em>
+ID= yib4IoMB8d3s9MT9xIdd PATH=./20_newsgroups/rec.autos/0007141
+ ->  TXT=steering <em>angle</em>
+ID= HCb4IoMB8d3s9MT9xIhd PATH=./20_newsgroups/rec.autos/0007084
+ ->  TXT=45 degree <em>angle</em>
+ ->  TXT=45 degree <em>angle</em>
+ID= WSb4IoMB8d3s9MT9xIhd PATH=./20_newsgroups/rec.autos/0007904
+ ->  TXT=very narrow <em>angle</em>
+ID= vCb4IoMB8d3s9MT9xIip PATH=./20_newsgroups/rec.autos/0007934
+ ->  TXT=degree vee <em>angle</em>
+ID= jyb4IoMB8d3s9MT9xYoA PATH=./20_newsgroups/rec.autos/0007980
+ ->  TXT=degree vee <em>angle</em>
+ID= qyb4IoMB8d3s9MT9xY7k PATH=./20_newsgroups/soc.religion.christian/0015885
+ ->  TXT=writes (single <em>angle</em>
+ID= pCb4IoMB8d3s9MT9xY_k PATH=./20_newsgroups/misc.forsale/0006351
+ ->  TXT=with wide <em>angle</em>
+ID= -yb4IoMB8d3s9MT9xY_l PATH=./20_newsgroups/misc.forsale/0006411
+ ->  TXT=extra wide <em>angle</em>
+ID= Wyb4IoMB8d3s9MT9xpA3 PATH=./20_newsgroups/misc.forsale/0006414
+ ->  TXT=extra wide <em>angle</em>
+ID= jyb4IoMB8d3s9MT9xpE3 PATH=./20_newsgroups/misc.forsale/0006530
+ ->  TXT=with wide <em>angle</em>
+ID= TSb4IoMB8d3s9MT9xpJ6 PATH=./20_newsgroups/misc.forsale/0006808
+ ->  TXT=with wide <em>angle</em>
+ID= UCb4IoMB8d3s9MT9xpJ6 PATH=./20_newsgroups/misc.forsale/0006539
+ ->  TXT=camera, wide <em>angle</em>
+ID= LCb4IoMB8d3s9MT9xpR8 PATH=./20_newsgroups/alt.atheism/0000312
+ ->  TXT=degree of <em>angle</em>
+ID= Yyb4IoMB8d3s9MT9xpXf PATH=./20_newsgroups/alt.atheism/0000917
+ ->  TXT=degree of <em>angle</em>
+ID= zyb4IoMB8d3s9MT9xpXf PATH=./20_newsgroups/alt.atheism/0000432
+ ->  TXT=the sarcasm <em>angle</em>
+92 Documents

@@ -1,0 +1,2 @@
+python3 IndexFiles.py --index novels15 --path /home/he/Desktop/caim/session1ESZipfHeaps/novels1
+python3 CountWords.py --index novels15 > novels15.txt

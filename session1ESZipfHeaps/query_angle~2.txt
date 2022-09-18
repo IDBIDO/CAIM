@@ -1,0 +1,1562 @@
+ID=Bib4IoMB8d3s9MT9t0hU TXT=In article PATH=./20_newsgroups/sci.electronics/0012463
+ID=DCb4IoMB8d3s9MT9t0hU TXT=In article PATH=./20_newsgroups/sci.electronics/0012281
+ID=Gyb4IoMB8d3s9MT9t0hU TXT=In article PATH=./20_newsgroups/sci.electronics/0012583
+ID=OCb4IoMB8d3s9MT9t0hU TXT=Brian Day  PATH=./20_newsgroups/sci.electronics/0012399
+ID=QSb4IoMB8d3s9MT9t0hU TXT=Does anyon PATH=./20_newsgroups/sci.electronics/0012606
+ID=RSb4IoMB8d3s9MT9t0hU TXT=I have a t PATH=./20_newsgroups/sci.electronics/0012227
+ID=SSb4IoMB8d3s9MT9t0hU TXT=>>	I was w PATH=./20_newsgroups/sci.electronics/0012289
+ID=TSb4IoMB8d3s9MT9t0hU TXT=Inkjet and PATH=./20_newsgroups/sci.electronics/0012788
+ID=UCb4IoMB8d3s9MT9t0hU TXT=In article PATH=./20_newsgroups/sci.electronics/0012521
+ID=WCb4IoMB8d3s9MT9t0hU TXT=In article PATH=./20_newsgroups/sci.electronics/0012533
+ID=aib4IoMB8d3s9MT9t0hV TXT=In article PATH=./20_newsgroups/sci.electronics/0012839
+ID=fib4IoMB8d3s9MT9t0hV TXT=I recently PATH=./20_newsgroups/sci.electronics/0012313
+ID=jCb4IoMB8d3s9MT9t0hV TXT=Hi all,
+I  PATH=./20_newsgroups/sci.electronics/0012858
+ID=nib4IoMB8d3s9MT9t0hV TXT={Dale Ulan PATH=./20_newsgroups/sci.electronics/0012547
+ID=-Cb4IoMB8d3s9MT9t0hV TXT=nagle@netc PATH=./20_newsgroups/sci.electronics/0012339
+ID=_ib4IoMB8d3s9MT9t0hV TXT=In article PATH=./20_newsgroups/sci.electronics/0012146
+ID=Byb4IoMB8d3s9MT9t0lV TXT=jvannes@vm PATH=./20_newsgroups/sci.electronics/0012980
+ID=Dib4IoMB8d3s9MT9t0lV TXT=In article PATH=./20_newsgroups/sci.electronics/0012772
+ID=Fyb4IoMB8d3s9MT9t0lV TXT=Recently,  PATH=./20_newsgroups/sci.electronics/0012032
+ID=WSb4IoMB8d3s9MT9t0lW TXT=In article PATH=./20_newsgroups/sci.electronics/0012826
+ID=dyb4IoMB8d3s9MT9t0lW TXT=In article PATH=./20_newsgroups/sci.electronics/0012136
+ID=nSb4IoMB8d3s9MT9t0lW TXT=In article PATH=./20_newsgroups/sci.electronics/0012176
+ID=uSb4IoMB8d3s9MT9t0lX TXT=I would li PATH=./20_newsgroups/sci.electronics/0012450
+ID=0yb4IoMB8d3s9MT9t0lX TXT=In article PATH=./20_newsgroups/sci.electronics/0012539
+ID=3Sb4IoMB8d3s9MT9t0lX TXT=sburton@dr PATH=./20_newsgroups/sci.electronics/0012555
+ID=Tyb4IoMB8d3s9MT9uEoK TXT=In article PATH=./20_newsgroups/sci.electronics/0012018
+ID=aCb4IoMB8d3s9MT9uEoK TXT=In article PATH=./20_newsgroups/sci.electronics/0012821
+ID=byb4IoMB8d3s9MT9uEoK TXT=: While dr PATH=./20_newsgroups/sci.electronics/0012510
+ID=dSb4IoMB8d3s9MT9uEoK TXT=In article PATH=./20_newsgroups/sci.electronics/0012157
+ID=iyb4IoMB8d3s9MT9uEoK TXT=Dean Annes PATH=./20_newsgroups/sci.electronics/0012373
+ID=jyb4IoMB8d3s9MT9uEoK TXT=In article PATH=./20_newsgroups/sci.electronics/0012925
+ID=pCb4IoMB8d3s9MT9uEoK TXT=rubin@cis. PATH=./20_newsgroups/sci.electronics/0012300
+ID=tyb4IoMB8d3s9MT9uEoK TXT=ulan@ee.ua PATH=./20_newsgroups/sci.electronics/0012969
+ID=xSb4IoMB8d3s9MT9uEoK TXT=acollins@u PATH=./20_newsgroups/sci.electronics/0012239
+ID=7ib4IoMB8d3s9MT9uEoK TXT=Wayne Alan PATH=./20_newsgroups/sci.electronics/0012287
+ID=8yb4IoMB8d3s9MT9uEoK TXT={Dale Ulan PATH=./20_newsgroups/sci.electronics/0012550
+ID=9Sb4IoMB8d3s9MT9uEoK TXT=In article PATH=./20_newsgroups/sci.electronics/0012749
+ID=_Sb4IoMB8d3s9MT9uEoK TXT=lihan@ccwf PATH=./20_newsgroups/sci.electronics/0012809
+ID=ESb4IoMB8d3s9MT9uEsK TXT=Since elec PATH=./20_newsgroups/sci.electronics/0012186
+ID=PCb4IoMB8d3s9MT9uEsK TXT=In article PATH=./20_newsgroups/sci.electronics/0012518
+ID=PSb4IoMB8d3s9MT9uEsK TXT={Jason Hai PATH=./20_newsgroups/sci.electronics/0012323
+ID=lib4IoMB8d3s9MT9uEsK TXT=In article PATH=./20_newsgroups/sci.electronics/0012049
+ID=vCb4IoMB8d3s9MT9uEsL TXT=In <1r3mmn PATH=./20_newsgroups/sci.electronics/0012655
+ID=zSb4IoMB8d3s9MT9uEsL TXT=While driv PATH=./20_newsgroups/sci.electronics/0012437
+ID=0Cb4IoMB8d3s9MT9uEsL TXT=schaefer@i PATH=./20_newsgroups/sci.electronics/0012631
+ID=5Cb4IoMB8d3s9MT9uEsL TXT=( Below is PATH=./20_newsgroups/sci.crypt/0011271
+ID=8Sb4IoMB8d3s9MT9uEtl TXT=In article PATH=./20_newsgroups/sci.crypt/0011886
+ID=Eyb4IoMB8d3s9MT9uExl TXT=  You're d PATH=./20_newsgroups/sci.crypt/0011272
+ID=GSb4IoMB8d3s9MT9uExl TXT=jebright@m PATH=./20_newsgroups/sci.crypt/0011570
+ID=Hib4IoMB8d3s9MT9uExl TXT=In article PATH=./20_newsgroups/sci.crypt/0011408
+ID=ISb4IoMB8d3s9MT9uExl TXT=In article PATH=./20_newsgroups/sci.crypt/0011855
+ID=Nib4IoMB8d3s9MT9uExl TXT=In article PATH=./20_newsgroups/sci.crypt/0011185
+ID=Vib4IoMB8d3s9MT9uExl TXT=In article PATH=./20_newsgroups/sci.crypt/0011809
+ID=cCb4IoMB8d3s9MT9uExm TXT=Archive-na PATH=./20_newsgroups/sci.crypt/0011034
+ID=dCb4IoMB8d3s9MT9uExm TXT=Archive-na PATH=./20_newsgroups/sci.crypt/0011112
+ID=eCb4IoMB8d3s9MT9uExm TXT=In article PATH=./20_newsgroups/sci.crypt/0011683
+ID=eyb4IoMB8d3s9MT9uExm TXT=mathew <ma PATH=./20_newsgroups/sci.crypt/0011423
+ID=mib4IoMB8d3s9MT9uExm TXT=In article PATH=./20_newsgroups/sci.crypt/0011546
+ID=nCb4IoMB8d3s9MT9uExm TXT=In article PATH=./20_newsgroups/sci.crypt/0011439
+ID=oCb4IoMB8d3s9MT9uExm TXT=In <nagleC PATH=./20_newsgroups/sci.crypt/0011585
+ID=sib4IoMB8d3s9MT9uExm TXT=In article PATH=./20_newsgroups/sci.crypt/0011724
+ID=wib4IoMB8d3s9MT9uExm TXT=In article PATH=./20_newsgroups/sci.crypt/0011880
+ID=3Cb4IoMB8d3s9MT9uExm TXT=In article PATH=./20_newsgroups/sci.crypt/0011896
+ID=4yb4IoMB8d3s9MT9uExm TXT=In article PATH=./20_newsgroups/sci.crypt/0011192
+ID=5yb4IoMB8d3s9MT9uExm TXT=bena@dec05 PATH=./20_newsgroups/sci.crypt/0011498
+ID=-Sb4IoMB8d3s9MT9uExm TXT=Though som PATH=./20_newsgroups/sci.crypt/0011059
+ID=Ayb4IoMB8d3s9MT9uE1m TXT=In article PATH=./20_newsgroups/sci.crypt/0011899
+ID=ISb4IoMB8d3s9MT9uE1m TXT=strnlght@n PATH=./20_newsgroups/sci.crypt/0011255
+ID=Pyb4IoMB8d3s9MT9uE1m TXT=In article PATH=./20_newsgroups/sci.crypt/0011967
+ID=Qyb4IoMB8d3s9MT9uE1m TXT=In article PATH=./20_newsgroups/sci.crypt/0011306
+ID=YCb4IoMB8d3s9MT9uE1m TXT= > Maybe s PATH=./20_newsgroups/sci.crypt/0011642
+ID=aCb4IoMB8d3s9MT9uE1m TXT=tcmay@netc PATH=./20_newsgroups/sci.crypt/0011145
+ID=gSb4IoMB8d3s9MT9uE1m TXT=In article PATH=./20_newsgroups/sci.crypt/0011456
+ID=gyb4IoMB8d3s9MT9uE1m TXT=In article PATH=./20_newsgroups/sci.crypt/0011196
+ID=jib4IoMB8d3s9MT9uE1m TXT=In article PATH=./20_newsgroups/sci.crypt/0011116
+ID=myb4IoMB8d3s9MT9uE1m TXT=In article PATH=./20_newsgroups/sci.crypt/0011437
+ID=nyb4IoMB8d3s9MT9uE1m TXT=smb@resear PATH=./20_newsgroups/sci.crypt/0011428
+ID=oyb4IoMB8d3s9MT9uE1m TXT=In article PATH=./20_newsgroups/sci.crypt/0011134
+ID=qyb4IoMB8d3s9MT9uE1m TXT=In article PATH=./20_newsgroups/sci.crypt/0011763
+ID=xib4IoMB8d3s9MT9uE1m TXT=In article PATH=./20_newsgroups/sci.crypt/0011518
+ID=xyb4IoMB8d3s9MT9uE1m TXT=Brad Templ PATH=./20_newsgroups/sci.crypt/0011107
+ID=HSb4IoMB8d3s9MT9uE7Z TXT=pmetzger@s PATH=./20_newsgroups/sci.crypt/0011644
+ID=KCb4IoMB8d3s9MT9uE7Z TXT=Archive-na PATH=./20_newsgroups/sci.crypt/0011035
+ID=MSb4IoMB8d3s9MT9uE7Z TXT=In <1r47l1 PATH=./20_newsgroups/sci.crypt/0011503
+ID=Qyb4IoMB8d3s9MT9uE7Z TXT=artmel@wel PATH=./20_newsgroups/sci.crypt/0011830
+ID=YSb4IoMB8d3s9MT9uE7Z TXT=angel@Fogh PATH=./20_newsgroups/sci.crypt/0011976
+ID=ayb4IoMB8d3s9MT9uE7Z TXT=Archive-na PATH=./20_newsgroups/sci.crypt/0011103
+ID=cyb4IoMB8d3s9MT9uE7Z TXT=In article PATH=./20_newsgroups/sci.crypt/0011619
+ID=mSb4IoMB8d3s9MT9uE7Z TXT=        CR PATH=./20_newsgroups/sci.crypt/0011443
+ID=pib4IoMB8d3s9MT9uE7Z TXT=In article PATH=./20_newsgroups/sci.crypt/0011127
+ID=vib4IoMB8d3s9MT9uE7Z TXT=Archive-na PATH=./20_newsgroups/sci.crypt/0011033
+ID=yCb4IoMB8d3s9MT9uE7Z TXT=In article PATH=./20_newsgroups/sci.crypt/0011929
+ID=yib4IoMB8d3s9MT9uE7Z TXT=Please not PATH=./20_newsgroups/sci.crypt/0011955
+ID=9Cb4IoMB8d3s9MT9uE7a TXT=In article PATH=./20_newsgroups/sci.crypt/0011913
+ID=_Cb4IoMB8d3s9MT9uE7a TXT=In article PATH=./20_newsgroups/sci.crypt/0011487
+ID=Dib4IoMB8d3s9MT9uE_a TXT=Andrew Ric PATH=./20_newsgroups/sci.crypt/0011181
+ID=Eyb4IoMB8d3s9MT9uE_a TXT=In article PATH=./20_newsgroups/sci.crypt/0011137
+ID=GCb4IoMB8d3s9MT9uE_a TXT=In article PATH=./20_newsgroups/sci.crypt/0011712
+ID=Iyb4IoMB8d3s9MT9uE_a TXT=tcmay@netc PATH=./20_newsgroups/sci.crypt/0011117
+ID=Lyb4IoMB8d3s9MT9uE_a TXT=       Sin PATH=./20_newsgroups/sci.crypt/0011590
+ID=Yib4IoMB8d3s9MT9uE_a TXT=In article PATH=./20_newsgroups/sci.crypt/0011190
+ID=hyb4IoMB8d3s9MT9uE_a TXT=In article PATH=./20_newsgroups/sci.crypt/0011195
+ID=mSb4IoMB8d3s9MT9uE_a TXT=rlward1@af PATH=./20_newsgroups/sci.crypt/0011318
+ID=nCb4IoMB8d3s9MT9uE_a TXT=In article PATH=./20_newsgroups/sci.crypt/0011156
+ID=pyb4IoMB8d3s9MT9uE_a TXT=In article PATH=./20_newsgroups/sci.crypt/0011413
+ID=7ib4IoMB8d3s9MT9uU9B TXT=I am looki PATH=./20_newsgroups/comp.graphics/0001425
+ID=_Cb4IoMB8d3s9MT9uU9B TXT=Hi,
+David  PATH=./20_newsgroups/comp.graphics/0001866
+ID=Dib4IoMB8d3s9MT9uVBB TXT=what about PATH=./20_newsgroups/comp.graphics/0001606
+ID=Kyb4IoMB8d3s9MT9uVBB TXT=   I am ha PATH=./20_newsgroups/comp.graphics/0001844
+ID=USb4IoMB8d3s9MT9uVBB TXT=In article PATH=./20_newsgroups/comp.graphics/0001445
+ID=aCb4IoMB8d3s9MT9uVBB TXT=The HumBio PATH=./20_newsgroups/comp.graphics/0001008
+ID=aSb4IoMB8d3s9MT9uVBB TXT=add@scienc PATH=./20_newsgroups/comp.graphics/0001434
+ID=fib4IoMB8d3s9MT9uVBB TXT=	+ ....... PATH=./20_newsgroups/comp.graphics/0001415
+ID=iib4IoMB8d3s9MT9uVBB TXT=In article PATH=./20_newsgroups/comp.graphics/0001266
+ID=jyb4IoMB8d3s9MT9uVBB TXT=Archive-na PATH=./20_newsgroups/comp.graphics/0001691
+ID=oSb4IoMB8d3s9MT9uVBB TXT=In article PATH=./20_newsgroups/comp.graphics/0001202
+ID=pCb4IoMB8d3s9MT9uVBB TXT=In article PATH=./20_newsgroups/comp.graphics/0001043
+ID=qSb4IoMB8d3s9MT9uVBB TXT=Dear Nette PATH=./20_newsgroups/comp.graphics/0001669
+ID=5yb4IoMB8d3s9MT9uVBB TXT=Archive-na PATH=./20_newsgroups/comp.graphics/0001214
+ID=7Cb4IoMB8d3s9MT9uVBB TXT=Usually, y PATH=./20_newsgroups/comp.graphics/0001778
+ID=8yb4IoMB8d3s9MT9uVBB TXT=Archive-na PATH=./20_newsgroups/comp.graphics/0001242
+ID=ACb4IoMB8d3s9MT9uVFB TXT=	Sphinx is PATH=./20_newsgroups/comp.graphics/0001530
+ID=ASb4IoMB8d3s9MT9uVFB TXT=Remember t PATH=./20_newsgroups/comp.graphics/0001605
+ID=Ayb4IoMB8d3s9MT9uVFB TXT=Hello,
+I'v PATH=./20_newsgroups/comp.graphics/0001757
+ID=OCb4IoMB8d3s9MT9uVFB TXT=From artic PATH=./20_newsgroups/comp.graphics/0001903
+ID=Pyb4IoMB8d3s9MT9uVFB TXT=       I'm PATH=./20_newsgroups/comp.graphics/0001976
+ID=Qib4IoMB8d3s9MT9uVFB TXT=Archive-na PATH=./20_newsgroups/comp.graphics/0001690
+ID=Sib4IoMB8d3s9MT9uVFB TXT=I am worki PATH=./20_newsgroups/comp.graphics/0001220
+ID=YCb4IoMB8d3s9MT9uVFC TXT=In article PATH=./20_newsgroups/comp.graphics/0001544
+ID=dib4IoMB8d3s9MT9uVFC TXT=Could some PATH=./20_newsgroups/comp.graphics/0001561
+ID=lSb4IoMB8d3s9MT9uVFC TXT=In article PATH=./20_newsgroups/comp.graphics/0001223
+ID=mCb4IoMB8d3s9MT9uVFC TXT=Oops, what PATH=./20_newsgroups/comp.graphics/0001832
+ID=zyb4IoMB8d3s9MT9uVGm TXT=In article PATH=./20_newsgroups/comp.graphics/0001532
+ID=2yb4IoMB8d3s9MT9uVGm TXT=In article PATH=./20_newsgroups/comp.graphics/0001088
+ID=8ib4IoMB8d3s9MT9uVGm TXT=Hi! Everyo PATH=./20_newsgroups/comp.graphics/0001313
+ID=CSb4IoMB8d3s9MT9uVKm TXT=VINCI (fil PATH=./20_newsgroups/comp.graphics/0001989
+ID=VSb4IoMB8d3s9MT9uVKm TXT=In article PATH=./20_newsgroups/comp.graphics/0001540
+ID=gyb4IoMB8d3s9MT9uVKm TXT=Hi to all  PATH=./20_newsgroups/comp.graphics/0001177
+ID=iSb4IoMB8d3s9MT9uVKm TXT=Archive-na PATH=./20_newsgroups/comp.graphics/0001616
+ID=jSb4IoMB8d3s9MT9uVKm TXT=Archive-na PATH=./20_newsgroups/comp.graphics/0001954
+ID=uCb4IoMB8d3s9MT9uVKm TXT=In article PATH=./20_newsgroups/comp.graphics/0001323
+ID=vSb4IoMB8d3s9MT9uVKm TXT=Archive-na PATH=./20_newsgroups/comp.graphics/0001215
+ID=yCb4IoMB8d3s9MT9uVKm TXT=How does t PATH=./20_newsgroups/comp.graphics/0001988
+ID=2Sb4IoMB8d3s9MT9uVKm TXT=Research P PATH=./20_newsgroups/comp.graphics/0001620
+ID=3yb4IoMB8d3s9MT9uVKm TXT=In article PATH=./20_newsgroups/comp.graphics/0001289
+ID=7yb4IoMB8d3s9MT9uVKm TXT=andrey@cco PATH=./20_newsgroups/comp.graphics/0001038
+ID=9ib4IoMB8d3s9MT9uVKm TXT=Kenneth Ng PATH=./20_newsgroups/comp.graphics/0001188
+ID=-ib4IoMB8d3s9MT9uVKm TXT=In article PATH=./20_newsgroups/comp.graphics/0001178
+ID=BSb4IoMB8d3s9MT9uVOm TXT=First off: PATH=./20_newsgroups/comp.graphics/0001290
+ID=DSb4IoMB8d3s9MT9uVOm TXT=In article PATH=./20_newsgroups/comp.graphics/0001510
+ID=Eib4IoMB8d3s9MT9uVOm TXT=tsa@cellar PATH=./20_newsgroups/comp.graphics/0001210
+ID=FCb4IoMB8d3s9MT9uVOm TXT=olson@anch PATH=./20_newsgroups/comp.graphics/0001836
+ID=FSb4IoMB8d3s9MT9uVOm TXT=The HumBio PATH=./20_newsgroups/comp.graphics/0013011
+ID=Iyb4IoMB8d3s9MT9uVOm TXT=d9hh@dtek. PATH=./20_newsgroups/comp.graphics/0001005
+ID=LSb4IoMB8d3s9MT9uVOm TXT=molecules  PATH=./20_newsgroups/comp.graphics/0001686
+ID=Mib4IoMB8d3s9MT9uVOm TXT=In article PATH=./20_newsgroups/comp.graphics/0001372
+ID=Qyb4IoMB8d3s9MT9uVOm TXT=Archive-na PATH=./20_newsgroups/comp.graphics/0001915
+ID=Uyb4IoMB8d3s9MT9uVOm TXT=In article PATH=./20_newsgroups/comp.graphics/0001731
+ID=Xyb4IoMB8d3s9MT9uVOn TXT=Andrew Lew PATH=./20_newsgroups/comp.graphics/0001979
+ID=Yib4IoMB8d3s9MT9uVOn TXT=In article PATH=./20_newsgroups/comp.graphics/0001161
+ID=fyb4IoMB8d3s9MT9uVOn TXT=Get the ge PATH=./20_newsgroups/comp.graphics/0001831
+ID=nib4IoMB8d3s9MT9uVOn TXT=I'm lookin PATH=./20_newsgroups/comp.graphics/0001760
+ID=oSb4IoMB8d3s9MT9uVOn TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019885
+ID=qSb4IoMB8d3s9MT9uVOn TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019985
+ID=uyb4IoMB8d3s9MT9ulMJ TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019753
+ID=1Sb4IoMB8d3s9MT9ulMJ TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019705
+ID=3ib4IoMB8d3s9MT9ulMJ TXT=Malcolm Le PATH=./20_newsgroups/talk.religion.misc/0019710
+ID=4yb4IoMB8d3s9MT9ulMJ TXT=arromdee@j PATH=./20_newsgroups/talk.religion.misc/0019567
+ID=5Cb4IoMB8d3s9MT9ulMJ TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019857
+ID=6ib4IoMB8d3s9MT9ulMJ TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019980
+ID=Byb4IoMB8d3s9MT9ulQJ TXT=skinner@sp PATH=./20_newsgroups/talk.religion.misc/0019435
+ID=ICb4IoMB8d3s9MT9ulQJ TXT=I responde PATH=./20_newsgroups/talk.religion.misc/0019502
+ID=Jyb4IoMB8d3s9MT9ulQJ TXT=Someone wr PATH=./20_newsgroups/talk.religion.misc/0019004
+ID=NCb4IoMB8d3s9MT9ulQJ TXT=ece_0028@b PATH=./20_newsgroups/talk.religion.misc/0019260
+ID=Nib4IoMB8d3s9MT9ulQJ TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019611
+ID=TSb4IoMB8d3s9MT9ulQJ TXT=I am pleas PATH=./20_newsgroups/talk.religion.misc/0019979
+ID=aCb4IoMB8d3s9MT9ulQJ TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019082
+ID=bib4IoMB8d3s9MT9ulQJ TXT=>> There a PATH=./20_newsgroups/talk.religion.misc/0019452
+ID=cCb4IoMB8d3s9MT9ulQJ TXT=In article PATH=./20_newsgroups/talk.religion.misc/0000645
+ID=mCb4IoMB8d3s9MT9ulQJ TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019877
+ID=ryb4IoMB8d3s9MT9ulQJ TXT=Can a thei PATH=./20_newsgroups/talk.religion.misc/0019779
+ID=sCb4IoMB8d3s9MT9ulQJ TXT=caldwell@f PATH=./20_newsgroups/talk.religion.misc/0019621
+ID=sib4IoMB8d3s9MT9ulQJ TXT=Let me beg PATH=./20_newsgroups/talk.religion.misc/0019931
+ID=9Sb4IoMB8d3s9MT9ulQJ TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019615
+ID=FSb4IoMB8d3s9MT9ulUK TXT=In respons PATH=./20_newsgroups/talk.religion.misc/0019754
+ID=Fyb4IoMB8d3s9MT9ulUK TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019688
+ID=Sib4IoMB8d3s9MT9ulUK TXT=In article PATH=./20_newsgroups/talk.religion.misc/0018998
+ID=YCb4IoMB8d3s9MT9ulUK TXT=wws@robert PATH=./20_newsgroups/talk.religion.misc/0019259
+ID=aib4IoMB8d3s9MT9ulUK TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019646
+ID=jSb4IoMB8d3s9MT9ulUK TXT=The follow PATH=./20_newsgroups/talk.religion.misc/0019148
+ID=lib4IoMB8d3s9MT9ulUK TXT=In <1ren9a PATH=./20_newsgroups/talk.religion.misc/0019810
+ID=oib4IoMB8d3s9MT9ulUK TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019843
+ID=oyb4IoMB8d3s9MT9ulUK TXT=Monday Apr PATH=./20_newsgroups/talk.religion.misc/0019017
+ID=sSb4IoMB8d3s9MT9ulV4 TXT=: In my mi PATH=./20_newsgroups/talk.religion.misc/0019950
+ID=tyb4IoMB8d3s9MT9ulV4 TXT=>For a whi PATH=./20_newsgroups/talk.religion.misc/0019006
+ID=xCb4IoMB8d3s9MT9ulV4 TXT=Was Subjec PATH=./20_newsgroups/talk.religion.misc/0019162
+ID=2Cb4IoMB8d3s9MT9ulV4 TXT= (U28698@u PATH=./20_newsgroups/talk.religion.misc/0019420
+ID=3Cb4IoMB8d3s9MT9ulV4 TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019239
+ID=7yb4IoMB8d3s9MT9ulV4 TXT=f_gautjw@c PATH=./20_newsgroups/talk.religion.misc/0019915
+ID=9ib4IoMB8d3s9MT9ulV4 TXT=stuff dele PATH=./20_newsgroups/talk.religion.misc/0019752
+ID=BCb4IoMB8d3s9MT9ulZ4 TXT=Bruce Sale PATH=./20_newsgroups/talk.religion.misc/0019557
+ID=FCb4IoMB8d3s9MT9ulZ4 TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019717
+ID=Nyb4IoMB8d3s9MT9ulZ5 TXT=John E. Ki PATH=./20_newsgroups/talk.religion.misc/0000855
+ID=SSb4IoMB8d3s9MT9ulZ5 TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019283
+ID=UCb4IoMB8d3s9MT9ulZ5 TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019881
+ID=cSb4IoMB8d3s9MT9ulZ5 TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019322
+ID=dCb4IoMB8d3s9MT9ulZ5 TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019011
+ID=nyb4IoMB8d3s9MT9ulZ5 TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019487
+ID=pib4IoMB8d3s9MT9ulZ5 TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019267
+ID=tSb4IoMB8d3s9MT9ulZ5 TXT=What an ex PATH=./20_newsgroups/talk.religion.misc/0019798
+ID=zyb4IoMB8d3s9MT9ulZ5 TXT=Brian Kend PATH=./20_newsgroups/talk.religion.misc/0019589
+ID=3Sb4IoMB8d3s9MT9ulZ5 TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019671
+ID=8ib4IoMB8d3s9MT9ulZ5 TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019751
+ID=9yb4IoMB8d3s9MT9ulZ5 TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019405
+ID=-Cb4IoMB8d3s9MT9ulZ5 TXT=Here is so PATH=./20_newsgroups/talk.religion.misc/0019524
+ID=-yb4IoMB8d3s9MT9ulZ5 TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019383
+ID=BSb4IoMB8d3s9MT9uld5 TXT=beb@pt.com PATH=./20_newsgroups/talk.religion.misc/0019670
+ID=Dyb4IoMB8d3s9MT9uld5 TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019319
+ID=Eyb4IoMB8d3s9MT9uld5 TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019506
+ID=GSb4IoMB8d3s9MT9uld5 TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019341
+ID=Oyb4IoMB8d3s9MT9uld5 TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019085
+ID=PSb4IoMB8d3s9MT9uld5 TXT=Bruce Sale PATH=./20_newsgroups/talk.religion.misc/0000728
+ID=Qyb4IoMB8d3s9MT9uld5 TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019781
+ID=USb4IoMB8d3s9MT9uld5 TXT=So we have PATH=./20_newsgroups/talk.religion.misc/0019480
+ID=Uib4IoMB8d3s9MT9uld5 TXT=	Viewing f PATH=./20_newsgroups/talk.religion.misc/0019324
+ID=Zib4IoMB8d3s9MT9uld5 TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019715
+ID=Zyb4IoMB8d3s9MT9uld5 TXT=	I was sli PATH=./20_newsgroups/talk.religion.misc/0019618
+ID=cib4IoMB8d3s9MT9uld5 TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019442
+ID=gyb4IoMB8d3s9MT9uld5 TXT=    In the PATH=./20_newsgroups/talk.religion.misc/0019987
+ID=iCb4IoMB8d3s9MT9uld5 TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019785
+ID=kyb4IoMB8d3s9MT9uld5 TXT=In article PATH=./20_newsgroups/talk.religion.misc/0019738
+ID=mSb4IoMB8d3s9MT9uld5 TXT=I wrote:
+> PATH=./20_newsgroups/talk.religion.misc/0019532
+ID=rib4IoMB8d3s9MT9ulfn TXT=In <1qksc2 PATH=./20_newsgroups/talk.religion.misc/0019245
+ID=5Cb4IoMB8d3s9MT9ulfn TXT=[ NOTE: ta PATH=./20_newsgroups/talk.religion.misc/0019811
+ID=6Cb4IoMB8d3s9MT9ulfn TXT=In article PATH=./20_newsgroups/talk.religion.misc/0000520
+ID=7yb4IoMB8d3s9MT9ulfn TXT=II SAMUEL  PATH=./20_newsgroups/talk.religion.misc/0019339
+ID=ASb4IoMB8d3s9MT9uljn TXT=In article PATH=./20_newsgroups/rec.sport.hockey/0010060
+ID=Byb4IoMB8d3s9MT9uljn TXT= Played in PATH=./20_newsgroups/rec.sport.hockey/0010321
+ID=MSb4IoMB8d3s9MT9uljn TXT=Nothing wr PATH=./20_newsgroups/rec.sport.hockey/0010590
+ID=NSb4IoMB8d3s9MT9uljn TXT=In <tervio PATH=./20_newsgroups/rec.sport.hockey/0010322
+ID=PCb4IoMB8d3s9MT9uljn TXT=It was a g PATH=./20_newsgroups/rec.sport.hockey/0010781
+ID=Pyb4IoMB8d3s9MT9uljn TXT=>Hi guys.. PATH=./20_newsgroups/rec.sport.hockey/0010635
+ID=RCb4IoMB8d3s9MT9uljn TXT=>Post: 512 PATH=./20_newsgroups/rec.sport.hockey/0010302
+ID=Wib4IoMB8d3s9MT9uljn TXT=The FLYERS PATH=./20_newsgroups/rec.sport.hockey/0010783
+ID=YCb4IoMB8d3s9MT9uljn TXT=United Sta PATH=./20_newsgroups/rec.sport.hockey/0010304
+ID=byb4IoMB8d3s9MT9uljn TXT=In article PATH=./20_newsgroups/rec.sport.hockey/0010827
+ID=eyb4IoMB8d3s9MT9uljn TXT=Okay, the  PATH=./20_newsgroups/rec.sport.hockey/0010928
+ID=kSb4IoMB8d3s9MT9uljn TXT=gballent@h PATH=./20_newsgroups/rec.sport.hockey/0010427
+ID=nSb4IoMB8d3s9MT9uljn TXT=The FLYERS PATH=./20_newsgroups/rec.sport.hockey/0010183
+ID=qSb4IoMB8d3s9MT9uljn TXT=The FLYERS PATH=./20_newsgroups/rec.sport.hockey/0010064
+ID=rib4IoMB8d3s9MT9uljn TXT=Philadelph PATH=./20_newsgroups/rec.sport.hockey/0010461
+ID=sSb4IoMB8d3s9MT9uljn TXT=In article PATH=./20_newsgroups/rec.sport.hockey/0010258
+ID=vib4IoMB8d3s9MT9uljn TXT=In article PATH=./20_newsgroups/rec.sport.hockey/0010597
+ID=xyb4IoMB8d3s9MT9uljn TXT=  The Blue PATH=./20_newsgroups/rec.sport.hockey/0010222
+ID=yib4IoMB8d3s9MT9uljn TXT=1992-93 Lo PATH=./20_newsgroups/rec.sport.hockey/0010356
+ID=1Cb4IoMB8d3s9MT9uljn TXT=By Dave Lu PATH=./20_newsgroups/rec.sport.hockey/0010454
+ID=3ib4IoMB8d3s9MT9uljn TXT=     Dale  PATH=./20_newsgroups/rec.sport.hockey/0010495
+ID=5Cb4IoMB8d3s9MT9uljn TXT=	On Tuesda PATH=./20_newsgroups/rec.sport.hockey/0010524
+ID=Bib4IoMB8d3s9MT9ulnn TXT=	          PATH=./20_newsgroups/rec.sport.hockey/0010693
+ID=Byb4IoMB8d3s9MT9ulnn TXT=In article PATH=./20_newsgroups/rec.sport.hockey/0010131
+ID=Cyb4IoMB8d3s9MT9ulnn TXT=In article PATH=./20_newsgroups/rec.sport.hockey/0010458
+ID=HSb4IoMB8d3s9MT9ulno TXT=In article PATH=./20_newsgroups/rec.sport.hockey/0010480
+ID=Oyb4IoMB8d3s9MT9ulno TXT=In article PATH=./20_newsgroups/rec.sport.hockey/0010003
+ID=Rib4IoMB8d3s9MT9ulno TXT= NJ        PATH=./20_newsgroups/rec.sport.hockey/0010872
+ID=SCb4IoMB8d3s9MT9ulno TXT=Archive-na PATH=./20_newsgroups/rec.sport.hockey/0010120
+ID=Wib4IoMB8d3s9MT9ulno TXT=Okay, here PATH=./20_newsgroups/rec.sport.hockey/0010287
+ID=Wyb4IoMB8d3s9MT9ulno TXT=MLINDROOS@ PATH=./20_newsgroups/rec.sport.hockey/0010159
+ID=ZCb4IoMB8d3s9MT9ulno TXT=As I promi PATH=./20_newsgroups/rec.sport.hockey/0010330
+ID=cyb4IoMB8d3s9MT9ulno TXT=Thanks for PATH=./20_newsgroups/rec.sport.hockey/0010206
+ID=dib4IoMB8d3s9MT9ulno TXT=In article PATH=./20_newsgroups/rec.sport.hockey/0010433
+ID=kCb4IoMB8d3s9MT9ulno TXT=In <1993Ap PATH=./20_newsgroups/rec.sport.hockey/0010943
+ID=mCb4IoMB8d3s9MT9u1lK TXT=In article PATH=./20_newsgroups/rec.sport.hockey/0010885
+ID=mSb4IoMB8d3s9MT9u1lK TXT=rickc@wrig PATH=./20_newsgroups/rec.sport.hockey/0010168
+ID=myb4IoMB8d3s9MT9u1lK TXT=In article PATH=./20_newsgroups/rec.sport.hockey/0010573
+ID=oib4IoMB8d3s9MT9u1lK TXT=daveb@thew PATH=./20_newsgroups/rec.sport.hockey/0010078
+ID=syb4IoMB8d3s9MT9u1lK TXT=I just ove PATH=./20_newsgroups/rec.sport.hockey/0010530
+ID=xCb4IoMB8d3s9MT9u1lK TXT= NJ        PATH=./20_newsgroups/rec.sport.hockey/0010777
+ID=4Sb4IoMB8d3s9MT9u1lK TXT=In article PATH=./20_newsgroups/rec.sport.hockey/0010500
+ID=9Cb4IoMB8d3s9MT9u1lL TXT=Gerald Olc PATH=./20_newsgroups/rec.sport.hockey/0010644
+ID=_ib4IoMB8d3s9MT9u1lL TXT=In article PATH=./20_newsgroups/rec.sport.hockey/0010847
+ID=DSb4IoMB8d3s9MT9u1pL TXT=assist@ori PATH=./20_newsgroups/rec.sport.hockey/0010096
+ID=Hib4IoMB8d3s9MT9u1pL TXT=In article PATH=./20_newsgroups/rec.sport.hockey/0010974
+ID=KCb4IoMB8d3s9MT9u1pL TXT=In article PATH=./20_newsgroups/rec.sport.hockey/0010449
+ID=USb4IoMB8d3s9MT9u1pL TXT=: In artic PATH=./20_newsgroups/rec.sport.hockey/0010832
+ID=WSb4IoMB8d3s9MT9u1pL TXT=In article PATH=./20_newsgroups/rec.sport.hockey/0010560
+ID=Xyb4IoMB8d3s9MT9u1pL TXT=As the Sha PATH=./20_newsgroups/rec.sport.hockey/0010313
+ID=YSb4IoMB8d3s9MT9u1pL TXT=In article PATH=./20_newsgroups/rec.sport.hockey/0010027
+ID=cyb4IoMB8d3s9MT9u1pL TXT=New Jersey PATH=./20_newsgroups/rec.sport.hockey/0010526
+ID=eSb4IoMB8d3s9MT9u1pL TXT=Well, than PATH=./20_newsgroups/rec.sport.hockey/0010218
+ID=fyb4IoMB8d3s9MT9u1pL TXT=United Sta PATH=./20_newsgroups/rec.sport.hockey/0010556
+ID=jib4IoMB8d3s9MT9u1pL TXT=jpc@philab PATH=./20_newsgroups/rec.sport.hockey/0010765
+ID=lyb4IoMB8d3s9MT9u1pL TXT=In article PATH=./20_newsgroups/rec.sport.hockey/0010400
+ID=myb4IoMB8d3s9MT9u1pL TXT=Well, I ha PATH=./20_newsgroups/rec.sport.hockey/0010252
+ID=nib4IoMB8d3s9MT9u1pL TXT=Everybody. PATH=./20_newsgroups/rec.sport.hockey/0010160
+ID=tCb4IoMB8d3s9MT9u1pL TXT=	The Jets  PATH=./20_newsgroups/rec.sport.hockey/0010997
+ID=yyb4IoMB8d3s9MT9u1pL TXT=In article PATH=./20_newsgroups/rec.sport.hockey/0010297
+ID=0Cb4IoMB8d3s9MT9u1pL TXT=Smythe Div PATH=./20_newsgroups/rec.sport.hockey/0010162
+ID=0Sb4IoMB8d3s9MT9u1pL TXT=Again I as PATH=./20_newsgroups/rec.sport.hockey/0010877
+ID=7Sb4IoMB8d3s9MT9u1pL TXT=News:
+For  PATH=./20_newsgroups/rec.sport.hockey/0010942
+ID=ASb4IoMB8d3s9MT9u1tL TXT=: you ment PATH=./20_newsgroups/rec.sport.hockey/0010190
+ID=Fib4IoMB8d3s9MT9u1tL TXT=1992-93 Lo PATH=./20_newsgroups/rec.sport.hockey/0010510
+ID=Gib4IoMB8d3s9MT9u1tL TXT=In article PATH=./20_newsgroups/rec.sport.hockey/0010876
+ID=KCb4IoMB8d3s9MT9u1tM TXT=In article PATH=./20_newsgroups/rec.sport.hockey/0010879
+ID=LSb4IoMB8d3s9MT9u1tM TXT=In article PATH=./20_newsgroups/rec.sport.hockey/0010406
+ID=Sib4IoMB8d3s9MT9u1tM TXT=>However,  PATH=./20_newsgroups/rec.sport.hockey/0010704
+ID=Tib4IoMB8d3s9MT9u1tM TXT=So if Potv PATH=./20_newsgroups/rec.sport.hockey/0010659
+ID=Tyb4IoMB8d3s9MT9u1tM TXT=Robert Ang PATH=./20_newsgroups/rec.sport.hockey/0010144
+ID=Uib4IoMB8d3s9MT9u1tM TXT=In article PATH=./20_newsgroups/rec.sport.hockey/0010067
+ID=Vyb4IoMB8d3s9MT9u1tM TXT=>        - PATH=./20_newsgroups/rec.sport.hockey/0010741
+ID=dyb4IoMB8d3s9MT9u1tM TXT=I would ap PATH=./20_newsgroups/rec.sport.hockey/0010543
+ID=eyb4IoMB8d3s9MT9u1tM TXT=>[Various  PATH=./20_newsgroups/rec.sport.hockey/0010682
+ID=gSb4IoMB8d3s9MT9u1tM TXT=1992-93 Lo PATH=./20_newsgroups/rec.sport.hockey/0010858
+ID=jib4IoMB8d3s9MT9u1u1 TXT=x - Clinch PATH=./20_newsgroups/rec.sport.hockey/0010475
+ID=jyb4IoMB8d3s9MT9u1u1 TXT=I was thin PATH=./20_newsgroups/rec.sport.hockey/0010021
+ID=kSb4IoMB8d3s9MT9u1u1 TXT=Actually,  PATH=./20_newsgroups/rec.sport.hockey/0010501
+ID=uCb4IoMB8d3s9MT9u1u1 TXT=Tampa Bay  PATH=./20_newsgroups/rec.sport.hockey/0010010
+ID=uib4IoMB8d3s9MT9u1u1 TXT=In article PATH=./20_newsgroups/rec.sport.hockey/0010564
+ID=uyb4IoMB8d3s9MT9u1u1 TXT=I would ap PATH=./20_newsgroups/rec.sport.hockey/0010542
+ID=1Cb4IoMB8d3s9MT9u1u1 TXT=In <C5ztK0 PATH=./20_newsgroups/talk.politics.mideast/0017591
+ID=1ib4IoMB8d3s9MT9u1u1 TXT=cpr@igc.ap PATH=./20_newsgroups/talk.politics.mideast/0017247
+ID=3Cb4IoMB8d3s9MT9u1u1 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017946
+ID=5Cb4IoMB8d3s9MT9u1u1 TXT=From: Cent PATH=./20_newsgroups/talk.politics.mideast/0017348
+ID=9ib4IoMB8d3s9MT9u1u1 TXT=rj3s@Virgi PATH=./20_newsgroups/talk.politics.mideast/0017740
+ID=Aib4IoMB8d3s9MT9u1y1 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017104
+ID=DSb4IoMB8d3s9MT9u1y1 TXT=hm@cs.brow PATH=./20_newsgroups/talk.politics.mideast/0017724
+ID=Hib4IoMB8d3s9MT9u1y1 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017167
+ID=Iib4IoMB8d3s9MT9u1y1 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017779
+ID=Lyb4IoMB8d3s9MT9u1y1 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017046
+ID=Pyb4IoMB8d3s9MT9u1y1 TXT=arf@genesi PATH=./20_newsgroups/talk.politics.mideast/0017679
+ID=RSb4IoMB8d3s9MT9u1y1 TXT=ab4z@Virgi PATH=./20_newsgroups/talk.politics.mideast/0017565
+ID=Rib4IoMB8d3s9MT9u1y1 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017799
+ID=Sib4IoMB8d3s9MT9u1y1 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017928
+ID=XSb4IoMB8d3s9MT9u1y2 TXT=Ilyess sez PATH=./20_newsgroups/talk.politics.mideast/0017973
+ID=bSb4IoMB8d3s9MT9u1y2 TXT=04/19/1993 PATH=./20_newsgroups/talk.politics.mideast/0017184
+ID=bib4IoMB8d3s9MT9u1y2 TXT=bakken@cs. PATH=./20_newsgroups/talk.politics.mideast/0017950
+ID=cyb4IoMB8d3s9MT9u1y2 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017429
+ID=fyb4IoMB8d3s9MT9u1y2 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017960
+ID=jCb4IoMB8d3s9MT9u1y2 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017566
+ID=mib4IoMB8d3s9MT9u1y2 TXT=arens@ISI. PATH=./20_newsgroups/talk.politics.mideast/0017121
+ID=nSb4IoMB8d3s9MT9u1y2 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017611
+ID=qSb4IoMB8d3s9MT9u1y2 TXT=In <C6r5Gn PATH=./20_newsgroups/talk.politics.mideast/0017750
+ID=uyb4IoMB8d3s9MT9u1y2 TXT=arf@genesi PATH=./20_newsgroups/talk.politics.mideast/0017044
+ID=zSb4IoMB8d3s9MT9u1y2 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017432
+ID=1Sb4IoMB8d3s9MT9u1y2 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017370
+ID=8Sb4IoMB8d3s9MT9u1y2 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017937
+ID=-Cb4IoMB8d3s9MT9u1y2 TXT=Elias Davi PATH=./20_newsgroups/talk.politics.mideast/0017803
+ID=ACb4IoMB8d3s9MT9u122 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017333
+ID=ASb4IoMB8d3s9MT9u122 TXT=From: Cent PATH=./20_newsgroups/talk.politics.mideast/0017347
+ID=GSb4IoMB8d3s9MT9u122 TXT=I always b PATH=./20_newsgroups/talk.politics.mideast/0017930
+ID=Jyb4IoMB8d3s9MT9u122 TXT=rj3s@Virgi PATH=./20_newsgroups/talk.politics.mideast/0017629
+ID=Lyb4IoMB8d3s9MT9u122 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017693
+ID=bSb4IoMB8d3s9MT9u122 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017498
+ID=cCb4IoMB8d3s9MT9u122 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017630
+ID=cyb4IoMB8d3s9MT9u122 TXT=> Bull shi PATH=./20_newsgroups/talk.politics.mideast/0017623
+ID=dSb4IoMB8d3s9MT9u122 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017156
+ID=dib4IoMB8d3s9MT9u122 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017889
+ID=iCb4IoMB8d3s9MT9vF09 TXT=tankut@IAS PATH=./20_newsgroups/talk.politics.mideast/0017137
+ID=myb4IoMB8d3s9MT9vF09 TXT=hm@cs.brow PATH=./20_newsgroups/talk.politics.mideast/0017622
+ID=nib4IoMB8d3s9MT9vF09 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017818
+ID=oib4IoMB8d3s9MT9vF09 TXT=Los Angele PATH=./20_newsgroups/talk.politics.mideast/0017790
+ID=pSb4IoMB8d3s9MT9vF09 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017614
+ID=qSb4IoMB8d3s9MT9vF09 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017163
+ID=sSb4IoMB8d3s9MT9vF09 TXT=Turkish Hi PATH=./20_newsgroups/talk.politics.mideast/0017811
+ID=uyb4IoMB8d3s9MT9vF09 TXT=I said:
+   PATH=./20_newsgroups/talk.politics.mideast/0017329
+ID=xCb4IoMB8d3s9MT9vF09 TXT=[It looks  PATH=./20_newsgroups/talk.politics.mideast/0017066
+ID=1ib4IoMB8d3s9MT9vF09 TXT=In early F PATH=./20_newsgroups/talk.politics.mideast/0017933
+ID=2Sb4IoMB8d3s9MT9vF09 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0018920
+ID=3Cb4IoMB8d3s9MT9vF09 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017956
+ID=3ib4IoMB8d3s9MT9vF09 TXT=     Accou PATH=./20_newsgroups/talk.politics.mideast/0017572
+ID=3yb4IoMB8d3s9MT9vF09 TXT=           PATH=./20_newsgroups/talk.politics.mideast/0017830
+ID=4Sb4IoMB8d3s9MT9vF09 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017981
+ID=5ib4IoMB8d3s9MT9vF09 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017223
+ID=-ib4IoMB8d3s9MT9vF09 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017646
+ID=ACb4IoMB8d3s9MT9vF49 TXT=ilyess@boh PATH=./20_newsgroups/talk.politics.mideast/0017959
+ID=Hib4IoMB8d3s9MT9vF49 TXT=From: Cent PATH=./20_newsgroups/talk.politics.mideast/0017312
+ID=Iib4IoMB8d3s9MT9vF49 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017602
+ID=LSb4IoMB8d3s9MT9vF49 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017383
+ID=MCb4IoMB8d3s9MT9vF49 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017303
+ID=Nib4IoMB8d3s9MT9vF49 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017683
+ID=Qyb4IoMB8d3s9MT9vF49 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017002
+ID=Rib4IoMB8d3s9MT9vF49 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017125
+ID=USb4IoMB8d3s9MT9vF49 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017922
+ID=VCb4IoMB8d3s9MT9vF49 TXT=Los Angele PATH=./20_newsgroups/talk.politics.mideast/0017314
+ID=XSb4IoMB8d3s9MT9vF49 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017650
+ID=ZCb4IoMB8d3s9MT9vF49 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017729
+ID=Zyb4IoMB8d3s9MT9vF49 TXT=hm@cs.brow PATH=./20_newsgroups/talk.politics.mideast/0017725
+ID=aSb4IoMB8d3s9MT9vF49 TXT=eshneken@u PATH=./20_newsgroups/talk.politics.mideast/0017528
+ID=aib4IoMB8d3s9MT9vF49 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017719
+ID=ayb4IoMB8d3s9MT9vF49 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017795
+ID=dCb4IoMB8d3s9MT9vF49 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017165
+ID=eib4IoMB8d3s9MT9vF49 TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017539
+ID=hyb4IoMB8d3s9MT9vF4- TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017102
+ID=iSb4IoMB8d3s9MT9vF4- TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017888
+ID=myb4IoMB8d3s9MT9vF4- TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017984
+ID=pyb4IoMB8d3s9MT9vF4- TXT=tichauer@v PATH=./20_newsgroups/talk.politics.mideast/0017555
+ID=rCb4IoMB8d3s9MT9vF4- TXT=hasan@McRC PATH=./20_newsgroups/talk.politics.mideast/0017035
+ID=uib4IoMB8d3s9MT9vF4- TXT=From: Cent PATH=./20_newsgroups/talk.politics.mideast/0017785
+ID=xCb4IoMB8d3s9MT9vF4- TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017238
+ID=zib4IoMB8d3s9MT9vF4- TXT=     Accou PATH=./20_newsgroups/talk.politics.mideast/0017677
+ID=0ib4IoMB8d3s9MT9vF4- TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017228
+ID=0yb4IoMB8d3s9MT9vF4- TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017936
+ID=3ib4IoMB8d3s9MT9vF4- TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017328
+ID=_Cb4IoMB8d3s9MT9vF4- TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017627
+ID=Cyb4IoMB8d3s9MT9vF8- TXT=Can someon PATH=./20_newsgroups/talk.politics.mideast/0017563
+ID=DSb4IoMB8d3s9MT9vF8- TXT=Providing  PATH=./20_newsgroups/talk.politics.mideast/0017949
+ID=Dyb4IoMB8d3s9MT9vF8- TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017331
+ID=Eyb4IoMB8d3s9MT9vF8- TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017194
+ID=Fyb4IoMB8d3s9MT9vF8- TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017877
+ID=JSb4IoMB8d3s9MT9vF8- TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017490
+ID=MCb4IoMB8d3s9MT9vF8- TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017645
+ID=OCb4IoMB8d3s9MT9vF8- TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017798
+ID=Tib4IoMB8d3s9MT9vF8- TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017771
+ID=UCb4IoMB8d3s9MT9vF8- TXT=           PATH=./20_newsgroups/talk.politics.mideast/0017172
+ID=cCb4IoMB8d3s9MT9vF8- TXT=Elias Davi PATH=./20_newsgroups/talk.politics.mideast/0017947
+ID=kCb4IoMB8d3s9MT9vF_c TXT=     Accou PATH=./20_newsgroups/talk.politics.mideast/0017571
+ID=nCb4IoMB8d3s9MT9vF_c TXT=     Accou PATH=./20_newsgroups/talk.politics.mideast/0017659
+ID=pCb4IoMB8d3s9MT9vF_c TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017278
+ID=sCb4IoMB8d3s9MT9vF_c TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017110
+ID=sSb4IoMB8d3s9MT9vF_c TXT=In article PATH=./20_newsgroups/talk.politics.mideast/0017588
+ID=sib4IoMB8d3s9MT9vF_c TXT=arf@genesi PATH=./20_newsgroups/talk.politics.mideast/0017711
+ID=0ib4IoMB8d3s9MT9vF_c TXT=Archive-na PATH=./20_newsgroups/comp.windows.x/0005029
+ID=9ib4IoMB8d3s9MT9vF_c TXT=In article PATH=./20_newsgroups/comp.windows.x/0005447
+ID=-yb4IoMB8d3s9MT9vF_c TXT=Now availa PATH=./20_newsgroups/comp.windows.x/0005700
+ID=Dyb4IoMB8d3s9MT9vGDc TXT=We have re PATH=./20_newsgroups/comp.windows.x/0005014
+ID=LSb4IoMB8d3s9MT9vGDc TXT=I am on th PATH=./20_newsgroups/comp.windows.x/0005557
+ID=MCb4IoMB8d3s9MT9vGDc TXT=In article PATH=./20_newsgroups/comp.windows.x/0005881
+ID=NSb4IoMB8d3s9MT9vGDc TXT=Hi,
+is the PATH=./20_newsgroups/comp.windows.x/0005703
+ID=USb4IoMB8d3s9MT9vGDc TXT=Enclosed a PATH=./20_newsgroups/comp.windows.x/0005000
+ID=Xyb4IoMB8d3s9MT9vGDc TXT=In article PATH=./20_newsgroups/comp.windows.x/0005539
+ID=Zyb4IoMB8d3s9MT9vGDc TXT=In article PATH=./20_newsgroups/comp.windows.x/0005327
+ID=bCb4IoMB8d3s9MT9vGDc TXT=$Id: open- PATH=./20_newsgroups/comp.windows.x/0005779
+ID=cCb4IoMB8d3s9MT9vGDc TXT=In article PATH=./20_newsgroups/comp.windows.x/0005376
+ID=pSb4IoMB8d3s9MT9vGDc TXT=Get Xarchi PATH=./20_newsgroups/comp.windows.x/0005572
+ID=qib4IoMB8d3s9MT9vGDc TXT=Archive-na PATH=./20_newsgroups/comp.windows.x/0005780
+ID=ryb4IoMB8d3s9MT9vGDc TXT=In article PATH=./20_newsgroups/comp.windows.x/0005078
+ID=tCb4IoMB8d3s9MT9vGDc TXT=Enclosed a PATH=./20_newsgroups/comp.windows.x/0005001
+ID=vib4IoMB8d3s9MT9vGDc TXT=We have re PATH=./20_newsgroups/comp.windows.x/0005013
+ID=yCb4IoMB8d3s9MT9vGDd TXT=Hi,
+xtici  PATH=./20_newsgroups/comp.windows.x/0005064
+ID=1Sb4IoMB8d3s9MT9vGDd TXT=EPS _IS_ p PATH=./20_newsgroups/comp.windows.x/0005715
+ID=1yb4IoMB8d3s9MT9vGDd TXT=Hi,
+I've t PATH=./20_newsgroups/comp.windows.x/0005988
+ID=7ib4IoMB8d3s9MT9vGDd TXT=Archive-na PATH=./20_newsgroups/comp.windows.x/0005038
+ID=Fib4IoMB8d3s9MT9vGHd TXT=Archive-na PATH=./20_newsgroups/comp.windows.x/0005027
+ID=Myb4IoMB8d3s9MT9vGHd TXT=In article PATH=./20_newsgroups/comp.windows.x/0005686
+ID=Qib4IoMB8d3s9MT9vGHd TXT=Will there PATH=./20_newsgroups/comp.windows.x/0005705
+ID=SCb4IoMB8d3s9MT9vGHd TXT=In article PATH=./20_newsgroups/comp.windows.x/0005033
+ID=ZCb4IoMB8d3s9MT9vGHd TXT=In article PATH=./20_newsgroups/comp.windows.x/0005820
+ID=lSb4IoMB8d3s9MT9vWFT TXT=There will PATH=./20_newsgroups/comp.windows.x/0005863
+ID=sib4IoMB8d3s9MT9vWFT TXT=Now availa PATH=./20_newsgroups/comp.windows.x/0005187
+ID=xCb4IoMB8d3s9MT9vWFT TXT=Greetings, PATH=./20_newsgroups/comp.windows.x/0005449
+ID=xyb4IoMB8d3s9MT9vWFT TXT=In article PATH=./20_newsgroups/comp.windows.x/0005207
+ID=Cyb4IoMB8d3s9MT9vWJT TXT=In article PATH=./20_newsgroups/comp.windows.x/0005121
+ID=Dyb4IoMB8d3s9MT9vWJT TXT=Try this:
+ PATH=./20_newsgroups/comp.windows.x/0005040
+ID=Eib4IoMB8d3s9MT9vWJT TXT=Frequently PATH=./20_newsgroups/comp.windows.x/0005778
+ID=PCb4IoMB8d3s9MT9vWJU TXT=>markw@psp PATH=./20_newsgroups/comp.windows.x/0005821
+ID=TCb4IoMB8d3s9MT9vWJU TXT=In article PATH=./20_newsgroups/comp.windows.x/0005208
+ID=aib4IoMB8d3s9MT9vWJU TXT=Version 1. PATH=./20_newsgroups/comp.windows.x/0005369
+ID=myb4IoMB8d3s9MT9vWJU TXT=Is there a PATH=./20_newsgroups/comp.windows.x/0005242
+ID=qib4IoMB8d3s9MT9vWJU TXT=In article PATH=./20_newsgroups/comp.windows.x/0005646
+ID=GCb4IoMB8d3s9MT9vWNU TXT=Archive-na PATH=./20_newsgroups/comp.windows.x/0005075
+ID=Lib4IoMB8d3s9MT9vWNU TXT=Yet again, PATH=./20_newsgroups/comp.windows.x/0005522
+ID=Myb4IoMB8d3s9MT9vWNU TXT=In article PATH=./20_newsgroups/comp.windows.x/0005325
+ID=NCb4IoMB8d3s9MT9vWNU TXT=In article PATH=./20_newsgroups/comp.windows.x/0005714
+ID=YCb4IoMB8d3s9MT9vWOu TXT=In article PATH=./20_newsgroups/comp.windows.x/0005032
+ID=cCb4IoMB8d3s9MT9vWOu TXT=Now availa PATH=./20_newsgroups/comp.windows.x/0005477
+ID=eCb4IoMB8d3s9MT9vWOu TXT=In article PATH=./20_newsgroups/comp.windows.x/0005074
+ID=kib4IoMB8d3s9MT9vWOu TXT=From: <tom PATH=./20_newsgroups/sci.space/0014565
+ID=lib4IoMB8d3s9MT9vWOu TXT=The follow PATH=./20_newsgroups/sci.space/0014082
+ID=qSb4IoMB8d3s9MT9vWOu TXT=In article PATH=./20_newsgroups/sci.space/0014361
+ID=uSb4IoMB8d3s9MT9vWOu TXT=Archive-na PATH=./20_newsgroups/sci.space/0014013
+ID=1Sb4IoMB8d3s9MT9vWOu TXT=ANNOUNCEME PATH=./20_newsgroups/sci.space/0014684
+ID=4ib4IoMB8d3s9MT9vWOu TXT=In article PATH=./20_newsgroups/sci.space/0014350
+ID=Nyb4IoMB8d3s9MT9vWSv TXT=In article PATH=./20_newsgroups/sci.space/0014530
+ID=OSb4IoMB8d3s9MT9vWSv TXT=In article PATH=./20_newsgroups/sci.space/0014405
+ID=Pib4IoMB8d3s9MT9vWSv TXT=In article PATH=./20_newsgroups/sci.space/0014554
+ID=Pyb4IoMB8d3s9MT9vWSv TXT=In article PATH=./20_newsgroups/sci.space/0014697
+ID=Qib4IoMB8d3s9MT9vWSv TXT=In article PATH=./20_newsgroups/sci.space/0014758
+ID=Rib4IoMB8d3s9MT9vWSv TXT=Has someon PATH=./20_newsgroups/sci.space/0014922
+ID=Xib4IoMB8d3s9MT9vWSv TXT=Posted to  PATH=./20_newsgroups/sci.space/0014237
+ID=dib4IoMB8d3s9MT9vWSv TXT=keithley@a PATH=./20_newsgroups/sci.space/0014516
+ID=jyb4IoMB8d3s9MT9vWSv TXT=prb@access PATH=./20_newsgroups/sci.space/0014273
+ID=xSb4IoMB8d3s9MT9vWSv TXT=In article PATH=./20_newsgroups/sci.space/0014294
+ID=xib4IoMB8d3s9MT9vWSv TXT=Apologies  PATH=./20_newsgroups/sci.space/0014165
+ID=6Cb4IoMB8d3s9MT9vWSv TXT=      Ethn PATH=./20_newsgroups/sci.space/0014504
+ID=7ib4IoMB8d3s9MT9vWSv TXT=           PATH=./20_newsgroups/sci.space/0014125
+ID=GSb4IoMB8d3s9MT9vWWv TXT=In article PATH=./20_newsgroups/sci.space/0014912
+ID=LCb4IoMB8d3s9MT9vWWv TXT=In article PATH=./20_newsgroups/sci.space/0014436
+ID=OCb4IoMB8d3s9MT9vWWv TXT=khayash@hs PATH=./20_newsgroups/sci.space/0014919
+ID=TCb4IoMB8d3s9MT9vWWv TXT=Archive-na PATH=./20_newsgroups/sci.space/0014014
+ID=dyb4IoMB8d3s9MT9vmUJ TXT=In article PATH=./20_newsgroups/sci.space/0014000
+ID=hyb4IoMB8d3s9MT9vmUJ TXT=henry@zoo. PATH=./20_newsgroups/sci.space/0014695
+ID=iCb4IoMB8d3s9MT9vmUJ TXT=In article PATH=./20_newsgroups/sci.space/0014749
+ID=wib4IoMB8d3s9MT9vmUJ TXT=Archive-na PATH=./20_newsgroups/sci.space/0014017
+ID=2Cb4IoMB8d3s9MT9vmUJ TXT=Okay, lets PATH=./20_newsgroups/sci.space/0014189
+ID=-yb4IoMB8d3s9MT9vmUJ TXT=Archive-na PATH=./20_newsgroups/sci.space/0014002
+ID=Dyb4IoMB8d3s9MT9vmYJ TXT=   FOR IMM PATH=./20_newsgroups/sci.space/0014143
+ID=Myb4IoMB8d3s9MT9vmYJ TXT=In article PATH=./20_newsgroups/sci.space/0014356
+ID=ZSb4IoMB8d3s9MT9vmYJ TXT=On Tue, 6  PATH=./20_newsgroups/sci.space/0014083
+ID=dib4IoMB8d3s9MT9vmYJ TXT=jgladu@bcm PATH=./20_newsgroups/sci.space/0014793
+ID=kCb4IoMB8d3s9MT9vmYJ TXT=Archive-na PATH=./20_newsgroups/sci.space/0014001
+ID=mSb4IoMB8d3s9MT9vmYJ TXT=Archive-na PATH=./20_newsgroups/sci.space/0014016
+ID=vSb4IoMB8d3s9MT9vmYJ TXT=belgarath@ PATH=./20_newsgroups/sci.space/0014620
+ID=yib4IoMB8d3s9MT9vmYJ TXT=kwp@wag.ca PATH=./20_newsgroups/sci.space/0014744
+ID=-Sb4IoMB8d3s9MT9vmYJ TXT=Come on, t PATH=./20_newsgroups/sci.space/0014659
+ID=Cib4IoMB8d3s9MT9vmcJ TXT=In article PATH=./20_newsgroups/sci.space/0014368
+ID=Cyb4IoMB8d3s9MT9vmcJ TXT=In article PATH=./20_newsgroups/sci.space/0014289
+ID=ECb4IoMB8d3s9MT9vmcJ TXT=Archive-na PATH=./20_newsgroups/sci.space/0014010
+ID=Nib4IoMB8d3s9MT9vmcK TXT=There is a PATH=./20_newsgroups/sci.space/0014191
+ID=Pyb4IoMB8d3s9MT9vmcK TXT=In article PATH=./20_newsgroups/sci.space/0014944
+ID=Qyb4IoMB8d3s9MT9vmds TXT=In article PATH=./20_newsgroups/sci.space/0014545
+ID=eSb4IoMB8d3s9MT9vmds TXT=In a previ PATH=./20_newsgroups/rec.motorcycles/0008564
+ID=jib4IoMB8d3s9MT9vmds TXT=inde7wv@Ro PATH=./20_newsgroups/rec.motorcycles/0008902
+ID=pCb4IoMB8d3s9MT9vmds TXT=In article PATH=./20_newsgroups/rec.motorcycles/0008694
+ID=wCb4IoMB8d3s9MT9vmds TXT=In article PATH=./20_newsgroups/rec.motorcycles/0008737
+ID=2ib4IoMB8d3s9MT9vmds TXT=In article PATH=./20_newsgroups/rec.motorcycles/0008619
+ID=ASb4IoMB8d3s9MT9vmhs TXT=In article PATH=./20_newsgroups/rec.motorcycles/0008419
+ID=CCb4IoMB8d3s9MT9vmhs TXT=In article PATH=./20_newsgroups/rec.motorcycles/0008855
+ID=GCb4IoMB8d3s9MT9vmhs TXT=In article PATH=./20_newsgroups/rec.motorcycles/0008302
+ID=Gib4IoMB8d3s9MT9vmhs TXT=In article PATH=./20_newsgroups/rec.motorcycles/0008558
+ID=Jyb4IoMB8d3s9MT9vmhs TXT=In article PATH=./20_newsgroups/rec.motorcycles/0008573
+ID=MCb4IoMB8d3s9MT9vmhs TXT=DS>From: v PATH=./20_newsgroups/rec.motorcycles/0008432
+ID=RCb4IoMB8d3s9MT9vmhs TXT= Grr. Hate PATH=./20_newsgroups/rec.motorcycles/0008845
+ID=Tib4IoMB8d3s9MT9vmhs TXT=rwert@well PATH=./20_newsgroups/rec.motorcycles/0008628
+ID=iib4IoMB8d3s9MT9vmhs TXT=blaisec@sr PATH=./20_newsgroups/rec.motorcycles/0008499
+ID=iyb4IoMB8d3s9MT9vmhs TXT=I don't kn PATH=./20_newsgroups/rec.motorcycles/0008035
+ID=jyb4IoMB8d3s9MT9vmhs TXT=There's al PATH=./20_newsgroups/rec.motorcycles/0008643
+ID=kyb4IoMB8d3s9MT9vmhs TXT=In article PATH=./20_newsgroups/rec.motorcycles/0008244
+ID=uib4IoMB8d3s9MT9vmhs TXT=In article PATH=./20_newsgroups/rec.motorcycles/0008704
+ID=vib4IoMB8d3s9MT9vmhs TXT=In article PATH=./20_newsgroups/rec.motorcycles/0008039
+ID=2Sb4IoMB8d3s9MT9vmhs TXT=In article PATH=./20_newsgroups/rec.motorcycles/0008020
+ID=5ib4IoMB8d3s9MT9vmhs TXT="cjackson" PATH=./20_newsgroups/rec.motorcycles/0008386
+ID=8Sb4IoMB8d3s9MT9vmhs TXT=This is a  PATH=./20_newsgroups/rec.motorcycles/0008001
+ID=_Sb4IoMB8d3s9MT9vmhs TXT=egreen@eas PATH=./20_newsgroups/rec.motorcycles/0008337
+ID=JCb4IoMB8d3s9MT9vmlt TXT=In article PATH=./20_newsgroups/rec.motorcycles/0008594
+ID=aib4IoMB8d3s9MT9vmm4 TXT=What worke PATH=./20_newsgroups/rec.motorcycles/0008612
+ID=cyb4IoMB8d3s9MT9vmm4 TXT=In article PATH=./20_newsgroups/rec.motorcycles/0008759
+ID=dCb4IoMB8d3s9MT9vmm4 TXT=>Can someo PATH=./20_newsgroups/rec.motorcycles/0008255
+ID=fyb4IoMB8d3s9MT9vmm4 TXT=I got a sa PATH=./20_newsgroups/rec.motorcycles/0008893
+ID=iSb4IoMB8d3s9MT9vmm4 TXT=In article PATH=./20_newsgroups/rec.motorcycles/0008484
+ID=kSb4IoMB8d3s9MT9vmm4 TXT=In article PATH=./20_newsgroups/rec.motorcycles/0008062
+ID=tyb4IoMB8d3s9MT9vmm4 TXT=I've never PATH=./20_newsgroups/rec.motorcycles/0008767
+ID=5Sb4IoMB8d3s9MT9vmm4 TXT=In article PATH=./20_newsgroups/rec.motorcycles/0008879
+ID=5ib4IoMB8d3s9MT9vmm4 TXT=In article PATH=./20_newsgroups/rec.motorcycles/0008106
+ID=6Cb4IoMB8d3s9MT9vmm4 TXT=In article PATH=./20_newsgroups/rec.motorcycles/0008856
+ID=9Cb4IoMB8d3s9MT9vmm4 TXT=In article PATH=./20_newsgroups/rec.motorcycles/0008744
+ID=-Sb4IoMB8d3s9MT9vmm4 TXT=Folks,
+I a PATH=./20_newsgroups/rec.motorcycles/0008375
+ID=BCb4IoMB8d3s9MT9vmq4 TXT=In article PATH=./20_newsgroups/rec.motorcycles/0008493
+ID=BSb4IoMB8d3s9MT9vmq4 TXT=The Angel  PATH=./20_newsgroups/rec.motorcycles/0008644
+ID=CSb4IoMB8d3s9MT9vmq4 TXT=Unable to  PATH=./20_newsgroups/rec.motorcycles/0008661
+ID=Dyb4IoMB8d3s9MT9vmq4 TXT=mjs@sys.ue PATH=./20_newsgroups/rec.motorcycles/0008512
+ID=Hib4IoMB8d3s9MT9vmq4 TXT=In article PATH=./20_newsgroups/rec.motorcycles/0008571
+ID=Hyb4IoMB8d3s9MT9vmq4 TXT=aa963@Free PATH=./20_newsgroups/rec.motorcycles/0008901
+ID=ISb4IoMB8d3s9MT9vmq4 TXT=In article PATH=./20_newsgroups/rec.motorcycles/0008184
+ID=JCb4IoMB8d3s9MT9vmq4 TXT=egreen@eas PATH=./20_newsgroups/rec.motorcycles/0008928
+ID=Jib4IoMB8d3s9MT9vmq4 TXT=Charles Pa PATH=./20_newsgroups/rec.motorcycles/0008656
+ID=KSb4IoMB8d3s9MT9vmq4 TXT=ryan_cousi PATH=./20_newsgroups/rec.motorcycles/0008471
+ID=Kib4IoMB8d3s9MT9vmq4 TXT=jlevine@rd PATH=./20_newsgroups/rec.motorcycles/0008906
+ID=OCb4IoMB8d3s9MT9vmq4 TXT=For sale:
+ PATH=./20_newsgroups/rec.motorcycles/0008125
+ID=TSb4IoMB8d3s9MT9vmq4 TXT=> 	If any  PATH=./20_newsgroups/rec.motorcycles/0008931
+ID=Uib4IoMB8d3s9MT9vmq5 TXT=I can't th PATH=./20_newsgroups/rec.motorcycles/0008170
+ID=Yib4IoMB8d3s9MT9vmq5 TXT=>>So how d PATH=./20_newsgroups/rec.motorcycles/0008607
+ID=Yyb4IoMB8d3s9MT9vmq5 TXT=kevin.l.st PATH=./20_newsgroups/rec.motorcycles/0008706
+ID=Zyb4IoMB8d3s9MT9vmq5 TXT=In article PATH=./20_newsgroups/rec.motorcycles/0008396
+ID=hib4IoMB8d3s9MT9vmq5 TXT=Ed's headi PATH=./20_newsgroups/rec.motorcycles/0008034
+ID=oSb4IoMB8d3s9MT9vmq5 TXT=  <jlp.733 PATH=./20_newsgroups/rec.motorcycles/0008094
+ID=vCb4IoMB8d3s9MT9vmq5 TXT=Yo, did an PATH=./20_newsgroups/rec.motorcycles/0008140
+ID=vib4IoMB8d3s9MT9vmq5 TXT=In article PATH=./20_newsgroups/rec.motorcycles/0008226
+ID=0ib4IoMB8d3s9MT9vmq5 TXT=In rec.mot PATH=./20_newsgroups/rec.motorcycles/0008211
+ID=9ib4IoMB8d3s9MT9vmq5 TXT=Yesterday, PATH=./20_newsgroups/rec.motorcycles/0008914
+ID=Dyb4IoMB8d3s9MT9vmu5 TXT=I'm a bike PATH=./20_newsgroups/rec.motorcycles/0008208
+ID=Iyb4IoMB8d3s9MT9vmu5 TXT=In article PATH=./20_newsgroups/rec.motorcycles/0008590
+ID=aib4IoMB8d3s9MT9v2sJ TXT=why does m PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0003711
+ID=sib4IoMB8d3s9MT9v2sJ TXT=On Thu, 22 PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0003708
+ID=yCb4IoMB8d3s9MT9v2sJ TXT=I posted t PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0003927
+ID=yyb4IoMB8d3s9MT9v2sJ TXT=In article PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0003428
+ID=zSb4IoMB8d3s9MT9v2sJ TXT=*** On 04- PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0003665
+ID=8Cb4IoMB8d3s9MT9v2sJ TXT=In article PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0003940
+ID=BCb4IoMB8d3s9MT9v2wJ TXT=Wayne Smit PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0003268
+ID=Cib4IoMB8d3s9MT9v2wJ TXT=In article PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0003285
+ID=Dyb4IoMB8d3s9MT9v2wJ TXT=bgrubb@dan PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0003712
+ID=GCb4IoMB8d3s9MT9v2wJ TXT=	Just want PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0003177
+ID=Hib4IoMB8d3s9MT9v2wJ TXT=da416@clev PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0003896
+ID=Jib4IoMB8d3s9MT9v2wJ TXT=In article PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0003141
+ID=Kyb4IoMB8d3s9MT9v2wJ TXT=In article PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0003283
+ID=Tib4IoMB8d3s9MT9v2wJ TXT=	Hello, I  PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0003532
+ID=eyb4IoMB8d3s9MT9v2wJ TXT=Hi,
+I just PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0003387
+ID=hib4IoMB8d3s9MT9v2wJ TXT=DXB132@psu PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0003201
+ID=pib4IoMB8d3s9MT9v2wJ TXT=wlsmith@va PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0003095
+ID=JCb4IoMB8d3s9MT9v21b TXT=In article PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0003246
+ID=Xyb4IoMB8d3s9MT9v21b TXT=wlsmith@va PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0003148
+ID=ayb4IoMB8d3s9MT9v21b TXT=biernat@rt PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0003713
+ID=byb4IoMB8d3s9MT9v21b TXT=> Another  PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0003017
+ID=dib4IoMB8d3s9MT9v21b TXT=Has anyone PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0003193
+ID=zCb4IoMB8d3s9MT9v21b TXT=rnichols@c PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0003714
+ID=zyb4IoMB8d3s9MT9v21b TXT=Dave (davi PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0003090
+ID=Fyb4IoMB8d3s9MT9v25b TXT=* Attentio PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0003124
+ID=Oib4IoMB8d3s9MT9v25b TXT=>  A quick PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0003319
+ID=Pyb4IoMB8d3s9MT9v25b TXT=Kenneth Ng PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0003212
+ID=Yyb4IoMB8d3s9MT9v25b TXT=What ways  PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0003038
+ID=bCb4IoMB8d3s9MT9v25b TXT=In article PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0001289
+ID=kCb4IoMB8d3s9MT9v25b TXT=Kenneth Ng PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0001188
+ID=3Sb4IoMB8d3s9MT9v25c TXT=IBM, Apple PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0003762
+ID=9yb4IoMB8d3s9MT9v25c TXT=In article PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0001161
+ID=Byb4IoMB8d3s9MT9v29c TXT=In article PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0003278
+ID=ESb4IoMB8d3s9MT9v2-v TXT=In article PATH=./20_newsgroups/comp.sys.ibm.pc.hardware/0003130
+ID=Pib4IoMB8d3s9MT9v2-v TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016379
+ID=SSb4IoMB8d3s9MT9v2-v TXT=Thomas Par PATH=./20_newsgroups/talk.politics.guns/0016976
+ID=VCb4IoMB8d3s9MT9v2-v TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016145
+ID=YCb4IoMB8d3s9MT9v2-v TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016577
+ID=ZSb4IoMB8d3s9MT9v2-v TXT=Jim De Arr PATH=./20_newsgroups/talk.politics.guns/0015998
+ID=bCb4IoMB8d3s9MT9v2-v TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016149
+ID=byb4IoMB8d3s9MT9v2-v TXT=[This is a PATH=./20_newsgroups/talk.politics.guns/0016236
+ID=dib4IoMB8d3s9MT9v2-v TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016965
+ID=wCb4IoMB8d3s9MT9v2-v TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016877
+ID=xib4IoMB8d3s9MT9v2-v TXT=Re: Flamin PATH=./20_newsgroups/talk.politics.guns/0016466
+ID=yCb4IoMB8d3s9MT9v2-v TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016628
+ID=yib4IoMB8d3s9MT9v2-v TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016946
+ID=3Cb4IoMB8d3s9MT9v2-v TXT=dhartung@c PATH=./20_newsgroups/talk.politics.guns/0016975
+ID=BCb4IoMB8d3s9MT9v3Cv TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016071
+ID=Dib4IoMB8d3s9MT9v3Cv TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016828
+ID=Eyb4IoMB8d3s9MT9v3Cv TXT=/ iftccu:t PATH=./20_newsgroups/talk.politics.guns/0016116
+ID=GSb4IoMB8d3s9MT9v3Cv TXT=Mark 'Mark PATH=./20_newsgroups/talk.politics.guns/0016547
+ID=KCb4IoMB8d3s9MT9v3Cv TXT=Mere prese PATH=./20_newsgroups/talk.politics.guns/0016058
+ID=Lib4IoMB8d3s9MT9v3Cv TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016134
+ID=Nib4IoMB8d3s9MT9v3Cv TXT=aj336@clev PATH=./20_newsgroups/talk.politics.guns/0016002
+ID=QCb4IoMB8d3s9MT9v3Cv TXT=In <1993Ap PATH=./20_newsgroups/talk.politics.guns/0016544
+ID=Qyb4IoMB8d3s9MT9v3Cv TXT=        Du PATH=./20_newsgroups/talk.politics.guns/0016004
+ID=Sib4IoMB8d3s9MT9v3Cv TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016404
+ID=Xyb4IoMB8d3s9MT9v3Cv TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016545
+ID=ZCb4IoMB8d3s9MT9v3Cv TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016934
+ID=fib4IoMB8d3s9MT9v3Cv TXT=ndallen@r- PATH=./20_newsgroups/talk.politics.guns/0016861
+ID=mib4IoMB8d3s9MT9v3Cv TXT=american a PATH=./20_newsgroups/talk.politics.guns/0016585
+ID=sib4IoMB8d3s9MT9v3Cv TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016097
+ID=tib4IoMB8d3s9MT9v3Cv TXT=In article PATH=./20_newsgroups/talk.politics.guns/0019646
+ID=wSb4IoMB8d3s9MT9v3Cv TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016137
+ID=xCb4IoMB8d3s9MT9v3Cv TXT=This was p PATH=./20_newsgroups/talk.politics.guns/0016535
+ID=zib4IoMB8d3s9MT9v3Cv TXT=jrm@gnv.if PATH=./20_newsgroups/talk.politics.guns/0016185
+ID=6Cb4IoMB8d3s9MT9v3Cv TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016153
+ID=9Sb4IoMB8d3s9MT9v3Cv TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016005
+ID=_ib4IoMB8d3s9MT9v3Cv TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016652
+ID=ASb4IoMB8d3s9MT9v3Gv TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016457
+ID=Ayb4IoMB8d3s9MT9v3Gv TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016900
+ID=CCb4IoMB8d3s9MT9wHEp TXT=Gun clubs: PATH=./20_newsgroups/talk.politics.guns/0016984
+ID=Eib4IoMB8d3s9MT9wHEp TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016842
+ID=Hib4IoMB8d3s9MT9wHEp TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016658
+ID=Jib4IoMB8d3s9MT9wHEp TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016034
+ID=PSb4IoMB8d3s9MT9wHEp TXT=As quoted  PATH=./20_newsgroups/talk.politics.guns/0016981
+ID=SCb4IoMB8d3s9MT9wHEp TXT=Everyone i PATH=./20_newsgroups/talk.politics.guns/0016925
+ID=UCb4IoMB8d3s9MT9wHEp TXT=irvine@uxh PATH=./20_newsgroups/talk.politics.guns/0016717
+ID=cCb4IoMB8d3s9MT9wHEp TXT=<34AEJ7D@C PATH=./20_newsgroups/talk.politics.guns/0016691
+ID=cyb4IoMB8d3s9MT9wHEp TXT=>In articl PATH=./20_newsgroups/talk.politics.guns/0016420
+ID=fSb4IoMB8d3s9MT9wHEp TXT=fcrary@ucs PATH=./20_newsgroups/talk.politics.guns/0016253
+ID=fyb4IoMB8d3s9MT9wHEp TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016693
+ID=gyb4IoMB8d3s9MT9wHEp TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016505
+ID=hCb4IoMB8d3s9MT9wHEp TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016580
+ID=iCb4IoMB8d3s9MT9wHEp TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016199
+ID=oib4IoMB8d3s9MT9wHEp TXT=Look, folk PATH=./20_newsgroups/talk.politics.guns/0016696
+ID=sCb4IoMB8d3s9MT9wHEp TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016192
+ID=tyb4IoMB8d3s9MT9wHEq TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016426
+ID=0Cb4IoMB8d3s9MT9wHEq TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016649
+ID=0Sb4IoMB8d3s9MT9wHEq TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016392
+ID=1Sb4IoMB8d3s9MT9wHEq TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016172
+ID=4yb4IoMB8d3s9MT9wHEq TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016193
+ID=5ib4IoMB8d3s9MT9wHEq TXT=I have NEV PATH=./20_newsgroups/talk.politics.guns/0016960
+ID=7Cb4IoMB8d3s9MT9wHEq TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016264
+ID=Hib4IoMB8d3s9MT9wHIq TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016926
+ID=Iib4IoMB8d3s9MT9wHIq TXT=Oh Christ, PATH=./20_newsgroups/talk.politics.guns/0016176
+ID=JSb4IoMB8d3s9MT9wHIq TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016346
+ID=Qib4IoMB8d3s9MT9wHIq TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016563
+ID=SSb4IoMB8d3s9MT9wHIq TXT=In article PATH=./20_newsgroups/talk.politics.guns/0019751
+ID=VSb4IoMB8d3s9MT9wHIq TXT=First, I w PATH=./20_newsgroups/talk.politics.guns/0016449
+ID=Vib4IoMB8d3s9MT9wHIq TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016163
+ID=XSb4IoMB8d3s9MT9wHIq TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016692
+ID=YCb4IoMB8d3s9MT9wHIq TXT=papresco@u PATH=./20_newsgroups/talk.politics.guns/0016421
+ID=hCb4IoMB8d3s9MT9wHIq TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016550
+ID=iib4IoMB8d3s9MT9wHIq TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016548
+ID=rib4IoMB8d3s9MT9wHIq TXT=Note: Thes PATH=./20_newsgroups/talk.politics.guns/0016159
+ID=tyb4IoMB8d3s9MT9wHIq TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016864
+ID=1Cb4IoMB8d3s9MT9wHIq TXT=From artic PATH=./20_newsgroups/talk.politics.guns/0016402
+ID=1Sb4IoMB8d3s9MT9wHIq TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016881
+ID=3ib4IoMB8d3s9MT9wHIq TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016152
+ID=4yb4IoMB8d3s9MT9wHIq TXT=gjh@galen. PATH=./20_newsgroups/talk.politics.guns/0016957
+ID=5Cb4IoMB8d3s9MT9wHIq TXT=On a Los A PATH=./20_newsgroups/talk.politics.guns/0016030
+ID=7ib4IoMB8d3s9MT9wHIq TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016029
+ID=7yb4IoMB8d3s9MT9wHIq TXT=|in L.A.,  PATH=./20_newsgroups/talk.politics.guns/0016190
+ID=9yb4IoMB8d3s9MT9wHIq TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016837
+ID=Aib4IoMB8d3s9MT9wHOJ TXT=      The  PATH=./20_newsgroups/talk.politics.guns/0016124
+ID=DSb4IoMB8d3s9MT9wHOJ TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016645
+ID=Dyb4IoMB8d3s9MT9wHOJ TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016873
+ID=Gib4IoMB8d3s9MT9wHOJ TXT=jgd@dixie. PATH=./20_newsgroups/talk.politics.guns/0016757
+ID=Iyb4IoMB8d3s9MT9wHOJ TXT=HADCRJAM@a PATH=./20_newsgroups/talk.politics.guns/0016656
+ID=OCb4IoMB8d3s9MT9wHOJ TXT=In article PATH=./20_newsgroups/talk.politics.guns/0016191
+ID=QCb4IoMB8d3s9MT9wHOJ TXT=This is th PATH=./20_newsgroups/comp.os.ms-windows.misc/0002996
+ID=fCb4IoMB8d3s9MT9wHOJ TXT=In article PATH=./20_newsgroups/comp.os.ms-windows.misc/0002856
+ID=iyb4IoMB8d3s9MT9wHOJ TXT=In article PATH=./20_newsgroups/comp.os.ms-windows.misc/0002311
+ID=nSb4IoMB8d3s9MT9wHOJ TXT=I'm lookin PATH=./20_newsgroups/comp.os.ms-windows.misc/0002099
+ID=2ib4IoMB8d3s9MT9wHOJ TXT=*          PATH=./20_newsgroups/comp.os.ms-windows.misc/0002213
+ID=5ib4IoMB8d3s9MT9wHOJ TXT=In article PATH=./20_newsgroups/comp.os.ms-windows.misc/0002145
+ID=8ib4IoMB8d3s9MT9wHOJ TXT=Because of PATH=./20_newsgroups/comp.os.ms-windows.misc/0002355
+ID=MSb4IoMB8d3s9MT9wHSK TXT=In article PATH=./20_newsgroups/comp.os.ms-windows.misc/0002127
+ID=dSb4IoMB8d3s9MT9wHSK TXT=Forgive me PATH=./20_newsgroups/comp.os.ms-windows.misc/0002378
+ID=uib4IoMB8d3s9MT9wHSK TXT=In article PATH=./20_newsgroups/comp.os.ms-windows.misc/0002150
+ID=wSb4IoMB8d3s9MT9wHSK TXT=In article PATH=./20_newsgroups/comp.os.ms-windows.misc/0002684
+ID=Byb4IoMB8d3s9MT9wHXr TXT=>You're ri PATH=./20_newsgroups/comp.os.ms-windows.misc/0002357
+ID=PSb4IoMB8d3s9MT9wHXr TXT=Since I st PATH=./20_newsgroups/comp.os.ms-windows.misc/0002393
+ID=Sib4IoMB8d3s9MT9wHXr TXT=Tim Glauer PATH=./20_newsgroups/comp.os.ms-windows.misc/0002388
+ID=Syb4IoMB8d3s9MT9wHXr TXT=[stuff del PATH=./20_newsgroups/comp.os.ms-windows.misc/0002163
+ID=aib4IoMB8d3s9MT9wHXr TXT=Microsoft  PATH=./20_newsgroups/comp.os.ms-windows.misc/0002117
+ID=cyb4IoMB8d3s9MT9wHXr TXT=In article PATH=./20_newsgroups/comp.os.ms-windows.misc/0002216
+ID=vib4IoMB8d3s9MT9wHXr TXT=In article PATH=./20_newsgroups/comp.os.ms-windows.misc/0002345
+ID=0ib4IoMB8d3s9MT9wHXr TXT=In article PATH=./20_newsgroups/comp.os.ms-windows.misc/0002167
+ID=Iib4IoMB8d3s9MT9wHbr TXT=In <1t7529 PATH=./20_newsgroups/comp.os.ms-windows.misc/0002328
+ID=Oib4IoMB8d3s9MT9wHbr TXT=I have a p PATH=./20_newsgroups/comp.os.ms-windows.misc/0002224
+ID=PCb4IoMB8d3s9MT9wHbr TXT=In article PATH=./20_newsgroups/comp.os.ms-windows.misc/0002391
+ID=Rib4IoMB8d3s9MT9wHbr TXT=>Microsoft PATH=./20_newsgroups/comp.os.ms-windows.misc/0002118
+ID=vSb4IoMB8d3s9MT9wHbs TXT=In article PATH=./20_newsgroups/comp.os.ms-windows.misc/0002398
+ID=-ib4IoMB8d3s9MT9wXZn TXT=dil.admin@ PATH=./20_newsgroups/comp.os.ms-windows.misc/0002122
+ID=MCb4IoMB8d3s9MT9wXdo TXT=kaldis@rom PATH=./20_newsgroups/talk.politics.misc/0018138
+ID=Pib4IoMB8d3s9MT9wXdo TXT=Joe,
+      PATH=./20_newsgroups/talk.politics.misc/0018301
+ID=QCb4IoMB8d3s9MT9wXdo TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018348
+ID=Sib4IoMB8d3s9MT9wXdo TXT=           PATH=./20_newsgroups/talk.politics.misc/0018095
+ID=ayb4IoMB8d3s9MT9wXdo TXT=From artic PATH=./20_newsgroups/talk.politics.misc/0018776
+ID=dyb4IoMB8d3s9MT9wXdo TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018777
+ID=lCb4IoMB8d3s9MT9wXdo TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018870
+ID=mSb4IoMB8d3s9MT9wXdo TXT=v140pxgt@u PATH=./20_newsgroups/talk.politics.misc/0018810
+ID=oCb4IoMB8d3s9MT9wXdo TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018831
+ID=pib4IoMB8d3s9MT9wXdo TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018383
+ID=xib4IoMB8d3s9MT9wXdo TXT=Fucking ne PATH=./20_newsgroups/talk.politics.misc/0018073
+ID=xyb4IoMB8d3s9MT9wXdo TXT=From artic PATH=./20_newsgroups/talk.politics.misc/0018988
+ID=zSb4IoMB8d3s9MT9wXdo TXT=On 23 Apr  PATH=./20_newsgroups/talk.politics.misc/0018815
+ID=0Sb4IoMB8d3s9MT9wXdo TXT=From artic PATH=./20_newsgroups/talk.politics.misc/0018100
+ID=1yb4IoMB8d3s9MT9wXdo TXT=\input ams PATH=./20_newsgroups/talk.politics.misc/0018752
+ID=5yb4IoMB8d3s9MT9wXdo TXT=papresco@u PATH=./20_newsgroups/talk.politics.misc/0018731
+ID=8Cb4IoMB8d3s9MT9wXdo TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018376
+ID=BSb4IoMB8d3s9MT9wXho TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018651
+ID=Cib4IoMB8d3s9MT9wXho TXT= The follo PATH=./20_newsgroups/talk.politics.misc/0018452
+ID=Dib4IoMB8d3s9MT9wXho TXT=skinner@sp PATH=./20_newsgroups/talk.politics.misc/0018746
+ID=Fyb4IoMB8d3s9MT9wXho TXT=Was Subjec PATH=./20_newsgroups/talk.politics.misc/0018355
+ID=JCb4IoMB8d3s9MT9wXho TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018769
+ID=QSb4IoMB8d3s9MT9wXho TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018495
+ID=Qib4IoMB8d3s9MT9wXho TXT=ece_0028@b PATH=./20_newsgroups/talk.politics.misc/0018474
+ID=TSb4IoMB8d3s9MT9wXho TXT=In <Apr.20 PATH=./20_newsgroups/talk.politics.misc/0018740
+ID=Wyb4IoMB8d3s9MT9wXho TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018753
+ID=Yib4IoMB8d3s9MT9wXho TXT=kkopp@uxh. PATH=./20_newsgroups/talk.politics.misc/0018350
+ID=cib4IoMB8d3s9MT9wXho TXT=steveh@tho PATH=./20_newsgroups/talk.politics.misc/0018825
+ID=dyb4IoMB8d3s9MT9wXho TXT=      Well PATH=./20_newsgroups/talk.politics.misc/0018368
+ID=fSb4IoMB8d3s9MT9wXho TXT=arf@genesi PATH=./20_newsgroups/talk.politics.misc/0018135
+ID=nyb4IoMB8d3s9MT9wXho TXT=           PATH=./20_newsgroups/talk.politics.misc/0018455
+ID=uib4IoMB8d3s9MT9wXho TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018019
+ID=zyb4IoMB8d3s9MT9wXho TXT=SECRET PUR PATH=./20_newsgroups/talk.politics.misc/0018087
+ID=0Sb4IoMB8d3s9MT9wXho TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018518
+ID=3yb4IoMB8d3s9MT9wXjw TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018444
+ID=6Sb4IoMB8d3s9MT9wXjw TXT=hallam@dsc PATH=./20_newsgroups/talk.politics.misc/0018968
+ID=8Cb4IoMB8d3s9MT9wXjw TXT=From artic PATH=./20_newsgroups/talk.politics.misc/0018594
+ID=9Cb4IoMB8d3s9MT9wXjw TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018577
+ID=Aib4IoMB8d3s9MT9wXnw TXT=julie@eddi PATH=./20_newsgroups/talk.politics.misc/0018104
+ID=DCb4IoMB8d3s9MT9wXnw TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018101
+ID=Dib4IoMB8d3s9MT9wXnw TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018868
+ID=Fib4IoMB8d3s9MT9wXnw TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018775
+ID=Gib4IoMB8d3s9MT9wXnw TXT=           PATH=./20_newsgroups/talk.politics.misc/0018197
+ID=Hyb4IoMB8d3s9MT9wXnw TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018259
+ID=LSb4IoMB8d3s9MT9wXnw TXT=Was Subjec PATH=./20_newsgroups/talk.politics.misc/0019162
+ID=Uyb4IoMB8d3s9MT9wXnw TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018920
+ID=WCb4IoMB8d3s9MT9wXnw TXT=f_gautjw@c PATH=./20_newsgroups/talk.politics.misc/0019915
+ID=kyb4IoMB8d3s9MT9wXnw TXT=wws@robert PATH=./20_newsgroups/talk.politics.misc/0018473
+ID=mSb4IoMB8d3s9MT9wXnw TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018380
+ID=uCb4IoMB8d3s9MT9wXnw TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018305
+ID=yib4IoMB8d3s9MT9wXnw TXT=	I was sli PATH=./20_newsgroups/talk.politics.misc/0018980
+ID=9Sb4IoMB8d3s9MT9wXnw TXT=In article PATH=./20_newsgroups/talk.politics.misc/0016264
+ID=_ib4IoMB8d3s9MT9wXnw TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018370
+ID=Cyb4IoMB8d3s9MT9wXrw TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018535
+ID=Fib4IoMB8d3s9MT9wXrw TXT=Patrick To PATH=./20_newsgroups/talk.politics.misc/0018244
+ID=Fyb4IoMB8d3s9MT9wXrw TXT=In <1993Ap PATH=./20_newsgroups/talk.politics.misc/0018277
+ID=Hyb4IoMB8d3s9MT9wXrw TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018121
+ID=PSb4IoMB8d3s9MT9wXrw TXT=tichauer@v PATH=./20_newsgroups/talk.politics.misc/0017555
+ID=XCb4IoMB8d3s9MT9wXrx TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018488
+ID=aCb4IoMB8d3s9MT9wXrx TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018730
+ID=dCb4IoMB8d3s9MT9wXrx TXT=mwilson@nc PATH=./20_newsgroups/talk.politics.misc/0018911
+ID=fCb4IoMB8d3s9MT9wXrx TXT=papresco@u PATH=./20_newsgroups/talk.politics.misc/0016421
+ID=jCb4IoMB8d3s9MT9wXrx TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018523
+ID=jSb4IoMB8d3s9MT9wXrx TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018688
+ID=myb4IoMB8d3s9MT9wXrx TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018583
+ID=vyb4IoMB8d3s9MT9wXrx TXT=Candidate  PATH=./20_newsgroups/talk.politics.misc/0018389
+ID=wCb4IoMB8d3s9MT9wXrx TXT=           PATH=./20_newsgroups/talk.politics.misc/0018963
+ID=xib4IoMB8d3s9MT9wXrx TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018779
+ID=yib4IoMB8d3s9MT9wnpg TXT=           PATH=./20_newsgroups/talk.politics.misc/0018454
+ID=5ib4IoMB8d3s9MT9wnpg TXT=wdstarr@at PATH=./20_newsgroups/talk.politics.misc/0018754
+ID=6Sb4IoMB8d3s9MT9wnpg TXT=From: New  PATH=./20_newsgroups/talk.politics.misc/0018203
+ID=-Sb4IoMB8d3s9MT9wnpg TXT=v140pxgt@u PATH=./20_newsgroups/talk.politics.misc/0018667
+ID=_Cb4IoMB8d3s9MT9wnpg TXT=muellerm@v PATH=./20_newsgroups/talk.politics.misc/0018837
+ID=Ayb4IoMB8d3s9MT9wntg TXT=           PATH=./20_newsgroups/talk.politics.misc/0018288
+ID=Byb4IoMB8d3s9MT9wntg TXT=Who wants  PATH=./20_newsgroups/talk.politics.misc/0018412
+ID=DSb4IoMB8d3s9MT9wntg TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018547
+ID=ECb4IoMB8d3s9MT9wntg TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018471
+ID=Eib4IoMB8d3s9MT9wntg TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018568
+ID=Nib4IoMB8d3s9MT9wntg TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018139
+ID=QCb4IoMB8d3s9MT9wntg TXT=arf@genesi PATH=./20_newsgroups/talk.politics.misc/0018145
+ID=Ryb4IoMB8d3s9MT9wntg TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018226
+ID=SCb4IoMB8d3s9MT9wntg TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018466
+ID=Uyb4IoMB8d3s9MT9wntg TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018527
+ID=YSb4IoMB8d3s9MT9wntg TXT=	Viewing f PATH=./20_newsgroups/talk.politics.misc/0018570
+ID=Zib4IoMB8d3s9MT9wntg TXT=garrett@In PATH=./20_newsgroups/talk.politics.misc/0018069
+ID=cib4IoMB8d3s9MT9wntg TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018602
+ID=jCb4IoMB8d3s9MT9wnth TXT=v140pxgt@u PATH=./20_newsgroups/talk.politics.misc/0018795
+ID=jib4IoMB8d3s9MT9wnth TXT=In article PATH=./20_newsgroups/talk.politics.misc/0018232
+ID=mSb4IoMB8d3s9MT9wnth TXT=Yes - Ever PATH=./20_newsgroups/rec.sport.baseball/0009529
+ID=myb4IoMB8d3s9MT9wnth TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009001
+ID=nib4IoMB8d3s9MT9wnth TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009067
+ID=nyb4IoMB8d3s9MT9wnth TXT=I'm a seas PATH=./20_newsgroups/rec.sport.baseball/0009812
+ID=qib4IoMB8d3s9MT9wnth TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009640
+ID=rCb4IoMB8d3s9MT9wnth TXT=The Angels PATH=./20_newsgroups/rec.sport.baseball/0009142
+ID=vib4IoMB8d3s9MT9wnth TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009941
+ID=zib4IoMB8d3s9MT9wnth TXT=	To all th PATH=./20_newsgroups/rec.sport.baseball/0009298
+ID=1Cb4IoMB8d3s9MT9wnth TXT=	     MLB  PATH=./20_newsgroups/rec.sport.baseball/0009177
+ID=4ib4IoMB8d3s9MT9wnth TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009308
+ID=7Cb4IoMB8d3s9MT9wnth TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009764
+ID=FSb4IoMB8d3s9MT9wnxh TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009873
+ID=Iyb4IoMB8d3s9MT9wnxh TXT=	     MLB  PATH=./20_newsgroups/rec.sport.baseball/0009919
+ID=JSb4IoMB8d3s9MT9wnxh TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009355
+ID=Lib4IoMB8d3s9MT9wnxh TXT=In <C5L068 PATH=./20_newsgroups/rec.sport.baseball/0009762
+ID=Ryb4IoMB8d3s9MT9wnxh TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009759
+ID=SSb4IoMB8d3s9MT9wnxh TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009014
+ID=Zib4IoMB8d3s9MT9wnxh TXT=Like Clint PATH=./20_newsgroups/rec.sport.baseball/0009802
+ID=dCb4IoMB8d3s9MT9wnxh TXT=Dale Steph PATH=./20_newsgroups/rec.sport.baseball/0009630
+ID=mSb4IoMB8d3s9MT9wnxh TXT=nflynn@wvn PATH=./20_newsgroups/rec.sport.baseball/0009493
+ID=uSb4IoMB8d3s9MT9wnxh TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009289
+ID=wib4IoMB8d3s9MT9wny- TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009888
+ID=wyb4IoMB8d3s9MT9wny- TXT=During the PATH=./20_newsgroups/rec.sport.baseball/0009988
+ID=xib4IoMB8d3s9MT9wny- TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009863
+ID=1yb4IoMB8d3s9MT9wny- TXT=I don't kn PATH=./20_newsgroups/rec.sport.baseball/0009158
+ID=2Cb4IoMB8d3s9MT9wny- TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009629
+ID=2yb4IoMB8d3s9MT9wny- TXT=Oops!  I c PATH=./20_newsgroups/rec.sport.baseball/0009188
+ID=4Cb4IoMB8d3s9MT9wny- TXT=	     MLB  PATH=./20_newsgroups/rec.sport.baseball/0009736
+ID=6yb4IoMB8d3s9MT9wny- TXT=I thought  PATH=./20_newsgroups/rec.sport.baseball/0009085
+ID=7Cb4IoMB8d3s9MT9wny- TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009481
+ID=7ib4IoMB8d3s9MT9wny- TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009992
+ID=7yb4IoMB8d3s9MT9wny- TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009804
+ID=8Sb4IoMB8d3s9MT9wny- TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009587
+ID=-yb4IoMB8d3s9MT9wny- TXT=g_waugaman PATH=./20_newsgroups/rec.sport.baseball/0009961
+ID=_ib4IoMB8d3s9MT9wny- TXT=punjabi@le PATH=./20_newsgroups/rec.sport.baseball/0009782
+ID=Aib4IoMB8d3s9MT9wn2- TXT=(Steve Tom PATH=./20_newsgroups/rec.sport.baseball/0009207
+ID=Ayb4IoMB8d3s9MT9wn2- TXT=Just a lit PATH=./20_newsgroups/rec.sport.baseball/0009410
+ID=DCb4IoMB8d3s9MT9wn2- TXT=tedward@cs PATH=./20_newsgroups/rec.sport.baseball/0009414
+ID=DSb4IoMB8d3s9MT9wn2- TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009862
+ID=Fyb4IoMB8d3s9MT9wn2- TXT=gt0523e@pr PATH=./20_newsgroups/rec.sport.baseball/0009622
+ID=Gib4IoMB8d3s9MT9wn2- TXT=There is a PATH=./20_newsgroups/rec.sport.baseball/0009477
+ID=Gyb4IoMB8d3s9MT9wn2- TXT=Having run PATH=./20_newsgroups/rec.sport.baseball/0009153
+ID=Nib4IoMB8d3s9MT9wn2- TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009336
+ID=Oyb4IoMB8d3s9MT9wn2- TXT=The O's ju PATH=./20_newsgroups/rec.sport.baseball/0009031
+ID=RSb4IoMB8d3s9MT9wn2- TXT=Let's look PATH=./20_newsgroups/rec.sport.baseball/0009015
+ID=Uyb4IoMB8d3s9MT9wn2- TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009774
+ID=ayb4IoMB8d3s9MT9wn2_ TXT=(Dale "See PATH=./20_newsgroups/rec.sport.baseball/0009596
+ID=cCb4IoMB8d3s9MT9wn2_ TXT=> I agree, PATH=./20_newsgroups/rec.sport.baseball/0009451
+ID=cSb4IoMB8d3s9MT9wn2_ TXT=	Hello, my PATH=./20_newsgroups/rec.sport.baseball/0009999
+ID=iCb4IoMB8d3s9MT9wn2_ TXT=I personal PATH=./20_newsgroups/rec.sport.baseball/0009160
+ID=jib4IoMB8d3s9MT9wn2_ TXT=NOTE: Satu PATH=./20_newsgroups/rec.sport.baseball/0009476
+ID=myb4IoMB8d3s9MT9wn2_ TXT=kingoz@cam PATH=./20_newsgroups/rec.sport.baseball/0009277
+ID=qCb4IoMB8d3s9MT9wn2_ TXT=Previously PATH=./20_newsgroups/rec.sport.baseball/0009409
+ID=xSb4IoMB8d3s9MT9wn2_ TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009144
+ID=ySb4IoMB8d3s9MT9wn2_ TXT=It's me ag PATH=./20_newsgroups/rec.sport.baseball/0009989
+ID=7Sb4IoMB8d3s9MT9wn2_ TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009358
+ID=Dib4IoMB8d3s9MT9wn6_ TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009489
+ID=Dyb4IoMB8d3s9MT9wn6_ TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009791
+ID=Fyb4IoMB8d3s9MT9wn6_ TXT=	     MLB  PATH=./20_newsgroups/rec.sport.baseball/0009235
+ID=Iib4IoMB8d3s9MT9wn6_ TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009117
+ID=KCb4IoMB8d3s9MT9wn6_ TXT=Since ever PATH=./20_newsgroups/rec.sport.baseball/0009136
+ID=Kib4IoMB8d3s9MT9wn6_ TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009321
+ID=Nib4IoMB8d3s9MT9wn6_ TXT=Chicago Wa PATH=./20_newsgroups/rec.sport.baseball/0009524
+ID=Nyb4IoMB8d3s9MT9wn6_ TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009800
+ID=Oyb4IoMB8d3s9MT9wn6_ TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009854
+ID=Tyb4IoMB8d3s9MT9wn6_ TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009437
+ID=WCb4IoMB8d3s9MT9wn6_ TXT=HEY!!! All PATH=./20_newsgroups/rec.sport.baseball/0009310
+ID=bib4IoMB8d3s9MT9wn6_ TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009775
+ID=hCb4IoMB8d3s9MT9wn6_ TXT=	     MLB  PATH=./20_newsgroups/rec.sport.baseball/0009089
+ID=hib4IoMB8d3s9MT9wn6_ TXT=	The Oriol PATH=./20_newsgroups/rec.sport.baseball/0009000
+ID=iSb4IoMB8d3s9MT9wn6_ TXT=woods@ncar PATH=./20_newsgroups/rec.sport.baseball/0009728
+ID=jSb4IoMB8d3s9MT9wn6_ TXT=Deion Sand PATH=./20_newsgroups/rec.sport.baseball/0009445
+ID=jyb4IoMB8d3s9MT9wn6_ TXT=Somebody w PATH=./20_newsgroups/rec.sport.baseball/0009584
+ID=lyb4IoMB8d3s9MT9wn6_ TXT=TWINS UPDA PATH=./20_newsgroups/rec.sport.baseball/0009786
+ID=oyb4IoMB8d3s9MT9wn6_ TXT=I heard th PATH=./20_newsgroups/rec.sport.baseball/0009998
+ID=uSb4IoMB8d3s9MT9w34I TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009933
+ID=xSb4IoMB8d3s9MT9w34I TXT=  Well, as PATH=./20_newsgroups/rec.sport.baseball/0009034
+ID=xib4IoMB8d3s9MT9w34I TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009616
+ID=yyb4IoMB8d3s9MT9w34I TXT=	     MLB  PATH=./20_newsgroups/rec.sport.baseball/0009636
+ID=zib4IoMB8d3s9MT9w34I TXT=Dave 'Almo PATH=./20_newsgroups/rec.sport.baseball/0009595
+ID=0yb4IoMB8d3s9MT9w34I TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009934
+ID=1Sb4IoMB8d3s9MT9w34I TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009579
+ID=2ib4IoMB8d3s9MT9w34I TXT=>There is  PATH=./20_newsgroups/rec.sport.baseball/0009388
+ID=5Cb4IoMB8d3s9MT9w34I TXT=rauser@fra PATH=./20_newsgroups/rec.sport.baseball/0009063
+ID=5ib4IoMB8d3s9MT9w34I TXT=   Here's  PATH=./20_newsgroups/rec.sport.baseball/0009060
+ID=8ib4IoMB8d3s9MT9w34I TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009265
+ID=9Sb4IoMB8d3s9MT9w34I TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009240
+ID=ESb4IoMB8d3s9MT9w38I TXT=Hell, the  PATH=./20_newsgroups/rec.sport.baseball/0009002
+ID=ISb4IoMB8d3s9MT9w38I TXT=Of all tea PATH=./20_newsgroups/rec.sport.baseball/0009157
+ID=JSb4IoMB8d3s9MT9w38I TXT=I'm sure a PATH=./20_newsgroups/rec.sport.baseball/0009858
+ID=Jib4IoMB8d3s9MT9w38I TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009426
+ID=NSb4IoMB8d3s9MT9w38I TXT=In article PATH=./20_newsgroups/rec.sport.baseball/0009537
+ID=Pib4IoMB8d3s9MT9w38I TXT=     Phila PATH=./20_newsgroups/rec.sport.baseball/0009010
+ID=USb4IoMB8d3s9MT9w38I TXT=>But I lik PATH=./20_newsgroups/rec.sport.baseball/0009055
+ID=Xib4IoMB8d3s9MT9w38I TXT=I have an  PATH=./20_newsgroups/comp.sys.mac.hardware/0004282
+ID=Xyb4IoMB8d3s9MT9w38I TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004811
+ID=YCb4IoMB8d3s9MT9w38I TXT=I need hel PATH=./20_newsgroups/comp.sys.mac.hardware/0004743
+ID=Yib4IoMB8d3s9MT9w38I TXT=Could some PATH=./20_newsgroups/comp.sys.mac.hardware/0004244
+ID=ZCb4IoMB8d3s9MT9w38I TXT=What is th PATH=./20_newsgroups/comp.sys.mac.hardware/0004782
+ID=aib4IoMB8d3s9MT9w38I TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004473
+ID=bib4IoMB8d3s9MT9w38I TXT=In <C5nGII PATH=./20_newsgroups/comp.sys.mac.hardware/0004411
+ID=cSb4IoMB8d3s9MT9w38I TXT=I need to  PATH=./20_newsgroups/comp.sys.mac.hardware/0004097
+ID=dib4IoMB8d3s9MT9w38I TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004000
+ID=dyb4IoMB8d3s9MT9w38I TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004123
+ID=eSb4IoMB8d3s9MT9w38I TXT=ericr@solb PATH=./20_newsgroups/comp.sys.mac.hardware/0004360
+ID=fib4IoMB8d3s9MT9w38I TXT=My Apple 1 PATH=./20_newsgroups/comp.sys.mac.hardware/0004566
+ID=gib4IoMB8d3s9MT9w38I TXT=Hello fell PATH=./20_newsgroups/comp.sys.mac.hardware/0004331
+ID=gyb4IoMB8d3s9MT9w38I TXT=I had the  PATH=./20_newsgroups/comp.sys.mac.hardware/0004248
+ID=iCb4IoMB8d3s9MT9w38I TXT=NS>I am go PATH=./20_newsgroups/comp.sys.mac.hardware/0004527
+ID=kSb4IoMB8d3s9MT9w38I TXT=>If anyone PATH=./20_newsgroups/comp.sys.mac.hardware/0004678
+ID=kib4IoMB8d3s9MT9w38I TXT=From artic PATH=./20_newsgroups/comp.sys.mac.hardware/0004910
+ID=kyb4IoMB8d3s9MT9w38I TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004592
+ID=lib4IoMB8d3s9MT9w38I TXT=Hi!!
+I hav PATH=./20_newsgroups/comp.sys.mac.hardware/0004590
+ID=lyb4IoMB8d3s9MT9w38I TXT=> When the PATH=./20_newsgroups/comp.sys.mac.hardware/0004944
+ID=myb4IoMB8d3s9MT9w38I TXT=EC>It was  PATH=./20_newsgroups/comp.sys.mac.hardware/0004448
+ID=nib4IoMB8d3s9MT9w38I TXT=>In articl PATH=./20_newsgroups/comp.sys.mac.hardware/0004900
+ID=nyb4IoMB8d3s9MT9w38I TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004112
+ID=oSb4IoMB8d3s9MT9w38I TXT=DB>LaserWr PATH=./20_newsgroups/comp.sys.mac.hardware/0004446
+ID=oib4IoMB8d3s9MT9w38I TXT=seanmcd@ac PATH=./20_newsgroups/comp.sys.mac.hardware/0004426
+ID=pSb4IoMB8d3s9MT9w38I TXT=  Since Im PATH=./20_newsgroups/comp.sys.mac.hardware/0004769
+ID=qCb4IoMB8d3s9MT9w38I TXT=Hello. I h PATH=./20_newsgroups/comp.sys.mac.hardware/0004582
+ID=qyb4IoMB8d3s9MT9w38I TXT=I'm a syst PATH=./20_newsgroups/comp.sys.mac.hardware/0004417
+ID=rCb4IoMB8d3s9MT9w38I TXT=I have som PATH=./20_newsgroups/comp.sys.mac.hardware/0004999
+ID=rSb4IoMB8d3s9MT9w38I TXT=Add me to  PATH=./20_newsgroups/comp.sys.mac.hardware/0004725
+ID=rib4IoMB8d3s9MT9w38I TXT=In <C5yDqC PATH=./20_newsgroups/comp.sys.mac.hardware/0004996
+ID=syb4IoMB8d3s9MT9w38I TXT=In <JAS.93 PATH=./20_newsgroups/comp.sys.mac.hardware/0004337
+ID=tyb4IoMB8d3s9MT9w38I TXT=horton@wha PATH=./20_newsgroups/comp.sys.mac.hardware/0004634
+ID=uCb4IoMB8d3s9MT9w38I TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004349
+ID=uSb4IoMB8d3s9MT9w38I TXT=I just got PATH=./20_newsgroups/comp.sys.mac.hardware/0004658
+ID=vCb4IoMB8d3s9MT9w38J TXT=Does NuTek PATH=./20_newsgroups/comp.sys.mac.hardware/0004017
+ID=vib4IoMB8d3s9MT9w38J TXT=DB>LaserWr PATH=./20_newsgroups/comp.sys.mac.hardware/0004692
+ID=wib4IoMB8d3s9MT9w38J TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004072
+ID=xCb4IoMB8d3s9MT9w38J TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004895
+ID=xSb4IoMB8d3s9MT9w38J TXT=Dear Nette PATH=./20_newsgroups/comp.sys.mac.hardware/0004437
+ID=xyb4IoMB8d3s9MT9w38J TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004894
+ID=yib4IoMB8d3s9MT9w38J TXT=> > The el PATH=./20_newsgroups/comp.sys.mac.hardware/0004795
+ID=0Sb4IoMB8d3s9MT9w38J TXT=jmilhoan@m PATH=./20_newsgroups/comp.sys.mac.hardware/0004327
+ID=1Sb4IoMB8d3s9MT9w38J TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004628
+ID=2Sb4IoMB8d3s9MT9w38J TXT=What is th PATH=./20_newsgroups/comp.sys.mac.hardware/0004656
+ID=4yb4IoMB8d3s9MT9w38J TXT=lecates@ba PATH=./20_newsgroups/comp.sys.mac.hardware/0004067
+ID=6Sb4IoMB8d3s9MT9w38J TXT=>pnsf01dw@ PATH=./20_newsgroups/comp.sys.mac.hardware/0004222
+ID=8Sb4IoMB8d3s9MT9w38J TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004739
+ID=-Cb4IoMB8d3s9MT9w38J TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004797
+ID=-ib4IoMB8d3s9MT9w38J TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004103
+ID=Aib4IoMB8d3s9MT9w4AJ TXT=nwcs@utkvx PATH=./20_newsgroups/comp.sys.mac.hardware/0004065
+ID=BSb4IoMB8d3s9MT9w4AJ TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004276
+ID=Cyb4IoMB8d3s9MT9w4AJ TXT=Gregory We PATH=./20_newsgroups/comp.sys.mac.hardware/0004126
+ID=DSb4IoMB8d3s9MT9w4AJ TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004482
+ID=Dib4IoMB8d3s9MT9w4AJ TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004623
+ID=Eib4IoMB8d3s9MT9w4AJ TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004116
+ID=FCb4IoMB8d3s9MT9w4AJ TXT=  eu> Appl PATH=./20_newsgroups/comp.sys.mac.hardware/0004399
+ID=HCb4IoMB8d3s9MT9w4AJ TXT=DB>LaserWr PATH=./20_newsgroups/comp.sys.mac.hardware/0004733
+ID=HSb4IoMB8d3s9MT9w4AJ TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004405
+ID=Hib4IoMB8d3s9MT9w4AJ TXT=Eric.Choi@ PATH=./20_newsgroups/comp.sys.mac.hardware/0004840
+ID=Lib4IoMB8d3s9MT9w4AJ TXT=Hi there!
+ PATH=./20_newsgroups/comp.sys.mac.hardware/0004576
+ID=MSb4IoMB8d3s9MT9w4AJ TXT=Archive-na PATH=./20_newsgroups/comp.sys.mac.hardware/0004643
+ID=Mib4IoMB8d3s9MT9w4AJ TXT=NS>I am go PATH=./20_newsgroups/comp.sys.mac.hardware/0004691
+ID=Nib4IoMB8d3s9MT9w4AJ TXT=I'm having PATH=./20_newsgroups/comp.sys.mac.hardware/0004083
+ID=OCb4IoMB8d3s9MT9w4AJ TXT=I was wond PATH=./20_newsgroups/comp.sys.mac.hardware/0004864
+ID=Pyb4IoMB8d3s9MT9w4AJ TXT=>	I'm also PATH=./20_newsgroups/comp.sys.mac.hardware/0004878
+ID=RSb4IoMB8d3s9MT9w4AJ TXT=I believe  PATH=./20_newsgroups/comp.sys.mac.hardware/0004122
+ID=TSb4IoMB8d3s9MT9w4AJ TXT=demon@desi PATH=./20_newsgroups/comp.sys.mac.hardware/0004857
+ID=VCb4IoMB8d3s9MT9w4AJ TXT=David Tsai PATH=./20_newsgroups/comp.sys.mac.hardware/0004776
+ID=VSb4IoMB8d3s9MT9w4AJ TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004173
+ID=WCb4IoMB8d3s9MT9w4AJ TXT=I have an  PATH=./20_newsgroups/comp.sys.mac.hardware/0004226
+ID=Wib4IoMB8d3s9MT9w4AJ TXT=Sorry if t PATH=./20_newsgroups/comp.sys.mac.hardware/0004359
+ID=XCb4IoMB8d3s9MT9w4AJ TXT=Hi,
+   I h PATH=./20_newsgroups/comp.sys.mac.hardware/0004679
+ID=Xib4IoMB8d3s9MT9w4AJ TXT=NS>I am go PATH=./20_newsgroups/comp.sys.mac.hardware/0004734
+ID=ZSb4IoMB8d3s9MT9w4AJ TXT=EC>It was  PATH=./20_newsgroups/comp.sys.mac.hardware/0004844
+ID=byb4IoMB8d3s9MT9w4AJ TXT=Interestin PATH=./20_newsgroups/comp.sys.mac.hardware/0004930
+ID=dCb4IoMB8d3s9MT9w4AJ TXT=Has anyone PATH=./20_newsgroups/comp.sys.mac.hardware/0004086
+ID=dSb4IoMB8d3s9MT9w4AJ TXT=bcherkas@n PATH=./20_newsgroups/comp.sys.mac.hardware/0004390
+ID=dyb4IoMB8d3s9MT9w4AJ TXT=EC>It was  PATH=./20_newsgroups/comp.sys.mac.hardware/0004526
+ID=eCb4IoMB8d3s9MT9w4AJ TXT=truesdel@i PATH=./20_newsgroups/comp.sys.mac.hardware/0004068
+ID=eSb4IoMB8d3s9MT9w4AJ TXT=David_Anth PATH=./20_newsgroups/comp.sys.mac.hardware/0004463
+ID=fCb4IoMB8d3s9MT9w4AJ TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004193
+ID=fSb4IoMB8d3s9MT9w4AJ TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004164
+ID=fib4IoMB8d3s9MT9w4AJ TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004796
+ID=hib4IoMB8d3s9MT9w4AJ TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004115
+ID=iCb4IoMB8d3s9MT9w4AJ TXT=So what's  PATH=./20_newsgroups/comp.sys.mac.hardware/0004778
+ID=jCb4IoMB8d3s9MT9w4AJ TXT=Dear Mac-f PATH=./20_newsgroups/comp.sys.mac.hardware/0004466
+ID=lCb4IoMB8d3s9MT9w4AJ TXT=I'd like t PATH=./20_newsgroups/comp.sys.mac.hardware/0004886
+ID=mCb4IoMB8d3s9MT9w4AJ TXT=I would re PATH=./20_newsgroups/comp.sys.mac.hardware/0004468
+ID=mib4IoMB8d3s9MT9w4AJ TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004460
+ID=myb4IoMB8d3s9MT9w4AJ TXT=I would li PATH=./20_newsgroups/comp.sys.mac.hardware/0004440
+ID=nyb4IoMB8d3s9MT9w4AJ TXT=tthiel@cs. PATH=./20_newsgroups/comp.sys.mac.hardware/0004908
+ID=oSb4IoMB8d3s9MT9w4AJ TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004210
+ID=pib4IoMB8d3s9MT9w4Ba TXT=> David_A. PATH=./20_newsgroups/comp.sys.mac.hardware/0004659
+ID=qCb4IoMB8d3s9MT9w4Ba TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004960
+ID=qyb4IoMB8d3s9MT9w4Ba TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004186
+ID=rCb4IoMB8d3s9MT9w4Ba TXT=Need an ex PATH=./20_newsgroups/comp.sys.mac.hardware/0004827
+ID=rib4IoMB8d3s9MT9w4Ba TXT=an780@clev PATH=./20_newsgroups/comp.sys.mac.hardware/0004111
+ID=ryb4IoMB8d3s9MT9w4Ba TXT=	I just bo PATH=./20_newsgroups/comp.sys.mac.hardware/0004420
+ID=uSb4IoMB8d3s9MT9w4Ba TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004102
+ID=uib4IoMB8d3s9MT9w4Ba TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004476
+ID=wCb4IoMB8d3s9MT9w4Ba TXT=I heard th PATH=./20_newsgroups/comp.sys.mac.hardware/0004652
+ID=xSb4IoMB8d3s9MT9w4Ba TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004266
+ID=xyb4IoMB8d3s9MT9w4Ba TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004119
+ID=0Sb4IoMB8d3s9MT9w4Ba TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004369
+ID=0ib4IoMB8d3s9MT9w4Ba TXT=I've just  PATH=./20_newsgroups/comp.sys.mac.hardware/0004343
+ID=2Sb4IoMB8d3s9MT9w4Ba TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004046
+ID=2yb4IoMB8d3s9MT9w4Ba TXT=The Duo's  PATH=./20_newsgroups/comp.sys.mac.hardware/0004727
+ID=3ib4IoMB8d3s9MT9w4Ba TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004310
+ID=4Sb4IoMB8d3s9MT9w4Ba TXT=Can the in PATH=./20_newsgroups/comp.sys.mac.hardware/0004770
+ID=5yb4IoMB8d3s9MT9w4Ba TXT=petere@tes PATH=./20_newsgroups/comp.sys.mac.hardware/0004453
+ID=6Sb4IoMB8d3s9MT9w4Ba TXT=Hello Net. PATH=./20_newsgroups/comp.sys.mac.hardware/0004728
+ID=7Sb4IoMB8d3s9MT9w4Ba TXT=  jdsiegel PATH=./20_newsgroups/comp.sys.mac.hardware/0004344
+ID=7ib4IoMB8d3s9MT9w4Ba TXT=I'm in the PATH=./20_newsgroups/comp.sys.mac.hardware/0004485
+ID=9ib4IoMB8d3s9MT9w4Bb TXT=NS>I am go PATH=./20_newsgroups/comp.sys.mac.hardware/0004447
+ID=9yb4IoMB8d3s9MT9w4Bb TXT=> ATTENTIO PATH=./20_newsgroups/comp.sys.mac.hardware/0004544
+ID=-Sb4IoMB8d3s9MT9w4Bb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004854
+ID=-yb4IoMB8d3s9MT9w4Bb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004520
+ID=_Cb4IoMB8d3s9MT9w4Bb TXT=In <1r9oqc PATH=./20_newsgroups/comp.sys.mac.hardware/0004912
+ID=Ayb4IoMB8d3s9MT9w4Fb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004421
+ID=Byb4IoMB8d3s9MT9w4Fb TXT=2545500@je PATH=./20_newsgroups/comp.sys.mac.hardware/0004850
+ID=Cib4IoMB8d3s9MT9w4Fb TXT=EC>It was  PATH=./20_newsgroups/comp.sys.mac.hardware/0004690
+ID=DCb4IoMB8d3s9MT9w4Fb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004257
+ID=Dyb4IoMB8d3s9MT9w4Fb TXT=EC>It was  PATH=./20_newsgroups/comp.sys.mac.hardware/0004962
+ID=ECb4IoMB8d3s9MT9w4Fb TXT=scott@cs.u PATH=./20_newsgroups/comp.sys.mac.hardware/0004883
+ID=Eyb4IoMB8d3s9MT9w4Fb TXT=ferch@ucs. PATH=./20_newsgroups/comp.sys.mac.hardware/0004441
+ID=FSb4IoMB8d3s9MT9w4Fb TXT=> ATTENTIO PATH=./20_newsgroups/comp.sys.mac.hardware/0004239
+ID=HCb4IoMB8d3s9MT9w4Fb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004794
+ID=Kib4IoMB8d3s9MT9w4Fb TXT=EC>It was  PATH=./20_newsgroups/comp.sys.mac.hardware/0004732
+ID=Kyb4IoMB8d3s9MT9w4Fb TXT= aw@camcon PATH=./20_newsgroups/comp.sys.mac.hardware/0004070
+ID=Mib4IoMB8d3s9MT9w4Fb TXT= In artic PATH=./20_newsgroups/comp.sys.mac.hardware/0004534
+ID=Myb4IoMB8d3s9MT9w4Fb TXT=I do not h PATH=./20_newsgroups/comp.sys.mac.hardware/0004207
+ID=OCb4IoMB8d3s9MT9w4Fb TXT=Just my lu PATH=./20_newsgroups/comp.sys.mac.hardware/0004552
+ID=OSb4IoMB8d3s9MT9w4Fb TXT=This model PATH=./20_newsgroups/comp.sys.mac.hardware/0004007
+ID=PCb4IoMB8d3s9MT9w4Fb TXT=In <1993Ap PATH=./20_newsgroups/comp.sys.mac.hardware/0004557
+ID=PSb4IoMB8d3s9MT9w4Fb TXT=I have an  PATH=./20_newsgroups/comp.sys.mac.hardware/0004985
+ID=Pyb4IoMB8d3s9MT9w4Fb TXT=From: push PATH=./20_newsgroups/comp.sys.mac.hardware/0004374
+ID=RCb4IoMB8d3s9MT9w4Fb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004591
+ID=Ryb4IoMB8d3s9MT9w4Fb TXT=>	I wonder PATH=./20_newsgroups/comp.sys.mac.hardware/0004780
+ID=SCb4IoMB8d3s9MT9w4Fb TXT=Nathaniel  PATH=./20_newsgroups/comp.sys.mac.hardware/0004093
+ID=SSb4IoMB8d3s9MT9w4Fb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004675
+ID=Sib4IoMB8d3s9MT9w4Fb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004265
+ID=TCb4IoMB8d3s9MT9w4Fb TXT=I recently PATH=./20_newsgroups/comp.sys.mac.hardware/0004899
+ID=Tyb4IoMB8d3s9MT9w4Fb TXT=Does anyon PATH=./20_newsgroups/comp.sys.mac.hardware/0004640
+ID=Uyb4IoMB8d3s9MT9w4Fb TXT=Bill Higgi PATH=./20_newsgroups/comp.sys.mac.hardware/0004342
+ID=VCb4IoMB8d3s9MT9w4Fb TXT=Could some PATH=./20_newsgroups/comp.sys.mac.hardware/0004031
+ID=WCb4IoMB8d3s9MT9w4Fb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004606
+ID=YSb4IoMB8d3s9MT9w4Fb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004168
+ID=Yib4IoMB8d3s9MT9w4Fb TXT=bredell@td PATH=./20_newsgroups/comp.sys.mac.hardware/0004700
+ID=Zib4IoMB8d3s9MT9w4Fb TXT=> When the PATH=./20_newsgroups/comp.sys.mac.hardware/0004319
+ID=Zyb4IoMB8d3s9MT9w4Fb TXT=This poll  PATH=./20_newsgroups/comp.sys.mac.hardware/0004737
+ID=ayb4IoMB8d3s9MT9w4Fb TXT=tzs@stein2 PATH=./20_newsgroups/comp.sys.mac.hardware/0004255
+ID=cCb4IoMB8d3s9MT9w4Fb TXT=We are hav PATH=./20_newsgroups/comp.sys.mac.hardware/0004832
+ID=cyb4IoMB8d3s9MT9w4Fb TXT=>According PATH=./20_newsgroups/comp.sys.mac.hardware/0004328
+ID=eyb4IoMB8d3s9MT9w4Fb TXT=DB>LaserWr PATH=./20_newsgroups/comp.sys.mac.hardware/0004964
+ID=fCb4IoMB8d3s9MT9w4Fb TXT=David_A._S PATH=./20_newsgroups/comp.sys.mac.hardware/0004601
+ID=hCb4IoMB8d3s9MT9w4Fb TXT=In <daves- PATH=./20_newsgroups/comp.sys.mac.hardware/0004505
+ID=hib4IoMB8d3s9MT9w4Fb TXT=I would li PATH=./20_newsgroups/comp.sys.mac.hardware/0004218
+ID=jCb4IoMB8d3s9MT9w4Fb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004129
+ID=jyb4IoMB8d3s9MT9w4Fb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004428
+ID=kCb4IoMB8d3s9MT9w4Fb TXT=Well folks PATH=./20_newsgroups/comp.sys.mac.hardware/0004106
+ID=lib4IoMB8d3s9MT9w4Fb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004749
+ID=lyb4IoMB8d3s9MT9w4Fb TXT=------ X-p PATH=./20_newsgroups/comp.sys.mac.hardware/0004311
+ID=mCb4IoMB8d3s9MT9w4Fb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004862
+ID=mSb4IoMB8d3s9MT9w4Fb TXT=When is Ap PATH=./20_newsgroups/comp.sys.mac.hardware/0004299
+ID=mib4IoMB8d3s9MT9w4Fb TXT=bredell@td PATH=./20_newsgroups/comp.sys.mac.hardware/0004859
+ID=nCb4IoMB8d3s9MT9w4Fb TXT=  ku> From PATH=./20_newsgroups/comp.sys.mac.hardware/0004346
+ID=nib4IoMB8d3s9MT9w4Fb TXT=I have a 3 PATH=./20_newsgroups/comp.sys.mac.hardware/0004646
+ID=oSb4IoMB8d3s9MT9w4Fb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004651
+ID=pCb4IoMB8d3s9MT9w4Fb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004048
+ID=qyb4IoMB8d3s9MT9w4Fb TXT=NS>I am go PATH=./20_newsgroups/comp.sys.mac.hardware/0004963
+ID=rCb4IoMB8d3s9MT9w4Fb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004275
+ID=rib4IoMB8d3s9MT9w4Fb TXT=> Tae Shin PATH=./20_newsgroups/comp.sys.mac.hardware/0004604
+ID=sSb4IoMB8d3s9MT9w4Fb TXT=Here is th PATH=./20_newsgroups/comp.sys.mac.hardware/0004415
+ID=tCb4IoMB8d3s9MT9w4Fb TXT=I read in  PATH=./20_newsgroups/comp.sys.mac.hardware/0004762
+ID=tib4IoMB8d3s9MT9w4Fb TXT=Does anyon PATH=./20_newsgroups/comp.sys.mac.hardware/0004051
+ID=vyb4IoMB8d3s9MT9w4Fb TXT=I recently PATH=./20_newsgroups/comp.sys.mac.hardware/0004589
+ID=wCb4IoMB8d3s9MT9w4Fb TXT=Is there a PATH=./20_newsgroups/comp.sys.mac.hardware/0004624
+ID=xCb4IoMB8d3s9MT9w4Fb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004973
+ID=xib4IoMB8d3s9MT9w4Fb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004030
+ID=xyb4IoMB8d3s9MT9w4Fb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004650
+ID=zCb4IoMB8d3s9MT9w4Fb TXT=From: push PATH=./20_newsgroups/comp.sys.mac.hardware/0004383
+ID=zib4IoMB8d3s9MT9w4Fb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004705
+ID=zyb4IoMB8d3s9MT9w4Fb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004888
+ID=0yb4IoMB8d3s9MT9w4Fb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004273
+ID=1ib4IoMB8d3s9MT9w4Fb TXT=jek5036@ul PATH=./20_newsgroups/comp.sys.mac.hardware/0004138
+ID=1yb4IoMB8d3s9MT9w4Fb TXT=Hi!
+A whil PATH=./20_newsgroups/comp.sys.mac.hardware/0004475
+ID=2ib4IoMB8d3s9MT9w4Fb TXT=Brian V. H PATH=./20_newsgroups/comp.sys.mac.hardware/0004838
+ID=3Sb4IoMB8d3s9MT9w4Fb TXT=A rep at t PATH=./20_newsgroups/comp.sys.mac.hardware/0004881
+ID=3yb4IoMB8d3s9MT9w4Fb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004493
+ID=4Cb4IoMB8d3s9MT9w4Fb TXT=Here's the PATH=./20_newsgroups/comp.sys.mac.hardware/0004823
+ID=5Cb4IoMB8d3s9MT9w4Fb TXT=Gosh, I wi PATH=./20_newsgroups/comp.sys.mac.hardware/0004496
+ID=5Sb4IoMB8d3s9MT9w4Fb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004214
+ID=5ib4IoMB8d3s9MT9w4Fb TXT=Interestin PATH=./20_newsgroups/comp.sys.mac.hardware/0004529
+ID=6Sb4IoMB8d3s9MT9w4Fb TXT=I am going PATH=./20_newsgroups/comp.sys.mac.hardware/0004076
+ID=7yb4IoMB8d3s9MT9w4Fb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004957
+ID=8Cb4IoMB8d3s9MT9w4Fb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004045
+ID=8Sb4IoMB8d3s9MT9w4Fb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004563
+ID=8ib4IoMB8d3s9MT9w4Fb TXT=Apple Maci PATH=./20_newsgroups/comp.sys.mac.hardware/0004630
+ID=_Sb4IoMB8d3s9MT9w4Fb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004801
+ID=_ib4IoMB8d3s9MT9w4Fb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004486
+ID=ACb4IoMB8d3s9MT9w4Jb TXT=> When the PATH=./20_newsgroups/comp.sys.mac.hardware/0004952
+ID=Aib4IoMB8d3s9MT9w4Jb TXT={Send foll PATH=./20_newsgroups/comp.sys.mac.hardware/0004532
+ID=BSb4IoMB8d3s9MT9w4Jb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004110
+ID=DCb4IoMB8d3s9MT9w4Jb TXT=I would li PATH=./20_newsgroups/comp.sys.mac.hardware/0004127
+ID=Dyb4IoMB8d3s9MT9w4Jb TXT=Hello fell PATH=./20_newsgroups/comp.sys.mac.hardware/0004828
+ID=ESb4IoMB8d3s9MT9w4Jb TXT=The trackb PATH=./20_newsgroups/comp.sys.mac.hardware/0004167
+ID=Eyb4IoMB8d3s9MT9w4Jb TXT=Apple deal PATH=./20_newsgroups/comp.sys.mac.hardware/0004504
+ID=GSb4IoMB8d3s9MT9w4Jb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004049
+ID=Gib4IoMB8d3s9MT9w4Jb TXT=In <1993Ap PATH=./20_newsgroups/comp.sys.mac.hardware/0004234
+ID=Gyb4IoMB8d3s9MT9w4Jb TXT=Apple Maci PATH=./20_newsgroups/comp.sys.mac.hardware/0004012
+ID=ISb4IoMB8d3s9MT9w4Jb TXT=rcs8@po.CW PATH=./20_newsgroups/comp.sys.mac.hardware/0004461
+ID=KCb4IoMB8d3s9MT9w4Jb TXT=We have re PATH=./20_newsgroups/comp.sys.mac.hardware/0004135
+ID=MSb4IoMB8d3s9MT9w4Jb TXT=My company PATH=./20_newsgroups/comp.sys.mac.hardware/0004469
+ID=NCb4IoMB8d3s9MT9w4Jb TXT=I know tha PATH=./20_newsgroups/comp.sys.mac.hardware/0004818
+ID=Nib4IoMB8d3s9MT9w4Jb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004553
+ID=Oib4IoMB8d3s9MT9w4Jb TXT=Several we PATH=./20_newsgroups/comp.sys.mac.hardware/0004649
+ID=Oyb4IoMB8d3s9MT9w4Jb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004925
+ID=QSb4IoMB8d3s9MT9w4Jb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004198
+ID=Qib4IoMB8d3s9MT9w4Jb TXT=In <C52GE9 PATH=./20_newsgroups/comp.sys.mac.hardware/0004113
+ID=Qyb4IoMB8d3s9MT9w4Jb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004625
+ID=Ryb4IoMB8d3s9MT9w4Jb TXT=ubs@carson PATH=./20_newsgroups/comp.sys.mac.hardware/0004462
+ID=TCb4IoMB8d3s9MT9w4Jb TXT=Here's a q PATH=./20_newsgroups/comp.sys.mac.hardware/0004120
+ID=TSb4IoMB8d3s9MT9w4Jb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004264
+ID=Tib4IoMB8d3s9MT9w4Jb TXT=    THe or PATH=./20_newsgroups/comp.sys.mac.hardware/0004829
+ID=USb4IoMB8d3s9MT9w4Jb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004713
+ID=VCb4IoMB8d3s9MT9w4Jb TXT=Sorry, thi PATH=./20_newsgroups/comp.sys.mac.hardware/0004617
+ID=Vyb4IoMB8d3s9MT9w4Jb TXT=Hi-
+Does a PATH=./20_newsgroups/comp.sys.mac.hardware/0004949
+ID=WSb4IoMB8d3s9MT9w4Jb TXT=In a previ PATH=./20_newsgroups/comp.sys.mac.hardware/0004044
+ID=ZCb4IoMB8d3s9MT9w4Jb TXT=My school  PATH=./20_newsgroups/comp.sys.mac.hardware/0004672
+ID=aSb4IoMB8d3s9MT9w4Jb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004274
+ID=dCb4IoMB8d3s9MT9w4Jb TXT=What is th PATH=./20_newsgroups/comp.sys.mac.hardware/0004764
+ID=dSb4IoMB8d3s9MT9w4Jb TXT=Yes, it is PATH=./20_newsgroups/comp.sys.mac.hardware/0004314
+ID=eib4IoMB8d3s9MT9w4Jb TXT=chess@cats PATH=./20_newsgroups/comp.sys.mac.hardware/0004306
+ID=fSb4IoMB8d3s9MT9w4Jb TXT=I purchase PATH=./20_newsgroups/comp.sys.mac.hardware/0004773
+ID=hSb4IoMB8d3s9MT9w4Jb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004407
+ID=jCb4IoMB8d3s9MT9w4Jb TXT=Hi there,
+ PATH=./20_newsgroups/comp.sys.mac.hardware/0004371
+ID=jSb4IoMB8d3s9MT9w4Jb TXT=I heard th PATH=./20_newsgroups/comp.sys.mac.hardware/0004653
+ID=kSb4IoMB8d3s9MT9w4Jb TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004018
+ID=kyb4IoMB8d3s9MT9w4Jb TXT=I've got t PATH=./20_newsgroups/comp.sys.mac.hardware/0004059
+ID=mSb4IoMB8d3s9MT9w4Kk TXT=	Well, I j PATH=./20_newsgroups/comp.sys.mac.hardware/0004064
+ID=nCb4IoMB8d3s9MT9w4Kk TXT=  I went t PATH=./20_newsgroups/comp.sys.mac.hardware/0004324
+ID=nib4IoMB8d3s9MT9w4Kk TXT=Hi-
+Do any PATH=./20_newsgroups/comp.sys.mac.hardware/0004831
+ID=nyb4IoMB8d3s9MT9w4Kk TXT=I have rep PATH=./20_newsgroups/comp.sys.mac.hardware/0004752
+ID=oSb4IoMB8d3s9MT9w4Kk TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004188
+ID=pSb4IoMB8d3s9MT9w4Kk TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004882
+ID=qCb4IoMB8d3s9MT9w4Kk TXT=Hello,
+I s PATH=./20_newsgroups/comp.sys.mac.hardware/0004712
+ID=qSb4IoMB8d3s9MT9w4Kk TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004423
+ID=rSb4IoMB8d3s9MT9w4Kk TXT=A local de PATH=./20_newsgroups/comp.sys.mac.hardware/0004663
+ID=rib4IoMB8d3s9MT9w4Kk TXT=I have a S PATH=./20_newsgroups/comp.sys.mac.hardware/0004825
+ID=sCb4IoMB8d3s9MT9w4Kk TXT=I have hea PATH=./20_newsgroups/comp.sys.mac.hardware/0004774
+ID=sSb4IoMB8d3s9MT9w4Kk TXT=> Another  PATH=./20_newsgroups/comp.sys.mac.hardware/0004011
+ID=tyb4IoMB8d3s9MT9w4Kk TXT=lreiter@ja PATH=./20_newsgroups/comp.sys.mac.hardware/0004205
+ID=wCb4IoMB8d3s9MT9w4Kk TXT=Okay, I do PATH=./20_newsgroups/comp.sys.mac.hardware/0004217
+ID=wib4IoMB8d3s9MT9w4Kk TXT=	I had ask PATH=./20_newsgroups/comp.sys.mac.hardware/0004014
+ID=wyb4IoMB8d3s9MT9w4Kk TXT=In <1993Ap PATH=./20_newsgroups/comp.sys.mac.hardware/0004587
+ID=xib4IoMB8d3s9MT9w4Kk TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004245
+ID=zCb4IoMB8d3s9MT9w4Kk TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004035
+ID=zSb4IoMB8d3s9MT9w4Kk TXT=In <C5sKu0 PATH=./20_newsgroups/comp.sys.mac.hardware/0004790
+ID=zyb4IoMB8d3s9MT9w4Kk TXT=Here's a l PATH=./20_newsgroups/comp.sys.mac.hardware/0004510
+ID=0ib4IoMB8d3s9MT9w4Kk TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004833
+ID=1Sb4IoMB8d3s9MT9w4Kk TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004911
+ID=1ib4IoMB8d3s9MT9w4Kk TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004698
+ID=6Cb4IoMB8d3s9MT9w4Kk TXT=In <5APR19 PATH=./20_newsgroups/comp.sys.mac.hardware/0004109
+ID=7Sb4IoMB8d3s9MT9w4Kk TXT=jebg9667@u PATH=./20_newsgroups/comp.sys.mac.hardware/0004787
+ID=9Cb4IoMB8d3s9MT9w4Kk TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004858
+ID=9yb4IoMB8d3s9MT9w4Kk TXT=For sale:
+ PATH=./20_newsgroups/comp.sys.mac.hardware/0004941
+ID=-yb4IoMB8d3s9MT9w4Kk TXT=DB>LaserWr PATH=./20_newsgroups/comp.sys.mac.hardware/0004528
+ID=ASb4IoMB8d3s9MT9w4Ok TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004015
+ID=Eib4IoMB8d3s9MT9w4Ok TXT=DB>LaserWr PATH=./20_newsgroups/comp.sys.mac.hardware/0004846
+ID=Eyb4IoMB8d3s9MT9w4Ok TXT=NS>I am go PATH=./20_newsgroups/comp.sys.mac.hardware/0004845
+ID=FSb4IoMB8d3s9MT9w4Ok TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004036
+ID=Fib4IoMB8d3s9MT9w4Ok TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004204
+ID=Gib4IoMB8d3s9MT9w4Ok TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004913
+ID=Gyb4IoMB8d3s9MT9w4Ok TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004761
+ID=HSb4IoMB8d3s9MT9w4Ok TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004961
+ID=Hib4IoMB8d3s9MT9w4Ok TXT=Bill Kurla PATH=./20_newsgroups/comp.sys.mac.hardware/0004176
+ID=Hyb4IoMB8d3s9MT9w4Ok TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004082
+ID=ICb4IoMB8d3s9MT9w4Ok TXT=Excerpts f PATH=./20_newsgroups/comp.sys.mac.hardware/0004039
+ID=Jib4IoMB8d3s9MT9w4Ok TXT=Applied En PATH=./20_newsgroups/comp.sys.mac.hardware/0004992
+ID=Jyb4IoMB8d3s9MT9w4Ok TXT=>But Apple PATH=./20_newsgroups/comp.sys.mac.hardware/0004114
+ID=LCb4IoMB8d3s9MT9w4Ok TXT=Hello all! PATH=./20_newsgroups/comp.sys.mac.hardware/0004312
+ID=MSb4IoMB8d3s9MT9w4Ok TXT=In article PATH=./20_newsgroups/comp.sys.mac.hardware/0004588
+ID=SCb4IoMB8d3s9MT9w4Ok TXT=In article PATH=./20_newsgroups/sci.med/0013346
+ID=Syb4IoMB8d3s9MT9w4Ok TXT=aldridge@n PATH=./20_newsgroups/sci.med/0013615
+ID=bSb4IoMB8d3s9MT9w4Ok TXT=In article PATH=./20_newsgroups/sci.med/0013819
+ID=lSb4IoMB8d3s9MT9w4Ok TXT=Archive-na PATH=./20_newsgroups/sci.med/0013117
+ID=oSb4IoMB8d3s9MT9w4Ok TXT=In an arti PATH=./20_newsgroups/sci.med/0013607
+ID=rCb4IoMB8d3s9MT9w4Ok TXT=My wife ha PATH=./20_newsgroups/sci.med/0013228
+ID=rSb4IoMB8d3s9MT9w4Ok TXT=In article PATH=./20_newsgroups/sci.med/0013446
+ID=wSb4IoMB8d3s9MT9w4Ok TXT=heart@acce PATH=./20_newsgroups/sci.med/0013594
+ID=8Sb4IoMB8d3s9MT9w4Ok TXT=---------- PATH=./20_newsgroups/sci.med/0013486
+ID=9yb4IoMB8d3s9MT9w4Ok TXT=A student  PATH=./20_newsgroups/sci.med/0013792
+ID=-Sb4IoMB8d3s9MT9w4Ok TXT=In article PATH=./20_newsgroups/sci.med/0013059
+ID=Dib4IoMB8d3s9MT9w4Sk TXT=Am I justi PATH=./20_newsgroups/sci.med/0013448
+ID=Lib4IoMB8d3s9MT9w4Sk TXT=From artic PATH=./20_newsgroups/sci.med/0013546
+ID=Lyb4IoMB8d3s9MT9w4Sk TXT=In article PATH=./20_newsgroups/sci.med/0013262
+ID=Nyb4IoMB8d3s9MT9w4Sl TXT=rind@enter PATH=./20_newsgroups/sci.med/0013596
+ID=PSb4IoMB8d3s9MT9w4Sl TXT=---------- PATH=./20_newsgroups/sci.med/0013487
+ID=WCb4IoMB8d3s9MT9w4Sl TXT=I know tha PATH=./20_newsgroups/sci.med/0013641
+ID=XSb4IoMB8d3s9MT9w4Sl TXT=JB>  romda PATH=./20_newsgroups/sci.med/0013437
+ID=ZSb4IoMB8d3s9MT9w4Sl TXT=In article PATH=./20_newsgroups/sci.med/0013219
+ID=dyb4IoMB8d3s9MT9w4Sl TXT=[Newsgroup PATH=./20_newsgroups/sci.med/0013366
+ID=gib4IoMB8d3s9MT9w4Sl TXT=KS> From:  PATH=./20_newsgroups/sci.med/0013305
+ID=kCb4IoMB8d3s9MT9w4T8 TXT=---------- PATH=./20_newsgroups/sci.med/0013645
+ID=mCb4IoMB8d3s9MT9w4T8 TXT=Here is a  PATH=./20_newsgroups/sci.med/0013795
+ID=oCb4IoMB8d3s9MT9w4T8 TXT=mryan@stsc PATH=./20_newsgroups/sci.med/0013523
+ID=xCb4IoMB8d3s9MT9w4T8 TXT=GB> From:  PATH=./20_newsgroups/sci.med/0013489
+ID=yyb4IoMB8d3s9MT9w4T8 TXT=I need adv PATH=./20_newsgroups/sci.med/0013200
+ID=zCb4IoMB8d3s9MT9w4T8 TXT=In article PATH=./20_newsgroups/sci.med/0013391
+ID=2Cb4IoMB8d3s9MT9w4T8 TXT=[reply to  PATH=./20_newsgroups/sci.med/0013249
+ID=Kyb4IoMB8d3s9MT9w4X8 TXT=  Ron Roth PATH=./20_newsgroups/sci.med/0013313
+ID=Lib4IoMB8d3s9MT9w4X8 TXT=In article PATH=./20_newsgroups/sci.med/0013223
+ID=eSb4IoMB8d3s9MT9w4X9 TXT=About two  PATH=./20_newsgroups/sci.med/0013838
+ID=kCb4IoMB8d3s9MT9w4X9 TXT=Archive-na PATH=./20_newsgroups/sci.med/0013114
+ID=kSb4IoMB8d3s9MT9w4X9 TXT=In article PATH=./20_newsgroups/sci.med/0013693
+ID=ryb4IoMB8d3s9MT9w4X9 TXT=     The b PATH=./20_newsgroups/sci.med/0013110
+ID=tCb4IoMB8d3s9MT9w4X9 TXT=In article PATH=./20_newsgroups/sci.med/0013479
+ID=1ib4IoMB8d3s9MT9w4X9 TXT=In article PATH=./20_newsgroups/sci.med/0013269
+ID=6ib4IoMB8d3s9MT9w4X9 TXT=In article PATH=./20_newsgroups/sci.med/0013452
+ID=-Cb4IoMB8d3s9MT9w4X9 TXT=In article PATH=./20_newsgroups/sci.med/0013266
+ID=_Sb4IoMB8d3s9MT9w4X9 TXT=dyer@spdcc PATH=./20_newsgroups/sci.med/0013430
+ID=CSb4IoMB8d3s9MT9w4b9 TXT=I'm intere PATH=./20_newsgroups/sci.med/0013893
+ID=JSb4IoMB8d3s9MT9w4b9 TXT=I may not  PATH=./20_newsgroups/sci.med/0013070
+ID=Jyb4IoMB8d3s9MT9w4b9 TXT= To: smith PATH=./20_newsgroups/sci.med/0013626
+ID=Oyb4IoMB8d3s9MT9w4b9 TXT= To: milsh PATH=./20_newsgroups/sci.med/0013625
+ID=SSb4IoMB8d3s9MT9w4b9 TXT=>>Between  PATH=./20_newsgroups/sci.med/0013279
+ID=Vyb4IoMB8d3s9MT9w4b9 TXT=Archive-na PATH=./20_newsgroups/sci.med/0013118
+ID=Zib4IoMB8d3s9MT9w4b9 TXT=I had ankl PATH=./20_newsgroups/sci.med/0013991
+ID=jib4IoMB8d3s9MT9xIZc TXT=In article PATH=./20_newsgroups/sci.med/0013206
+ID=oSb4IoMB8d3s9MT9xIZc TXT=The HumBio PATH=./20_newsgroups/sci.med/0013011
+ID=pSb4IoMB8d3s9MT9xIZc TXT=A friend w PATH=./20_newsgroups/sci.med/0013906
+ID=tyb4IoMB8d3s9MT9xIZc TXT=Avoiding m PATH=./20_newsgroups/sci.med/0013154
+ID=uCb4IoMB8d3s9MT9xIZc TXT= To: turpi PATH=./20_newsgroups/sci.med/0013869
+ID=wib4IoMB8d3s9MT9xIZc TXT=ANNOUNCEME PATH=./20_newsgroups/sci.med/0013794
+ID=8ib4IoMB8d3s9MT9xIZc TXT=banschbach PATH=./20_newsgroups/sci.med/0013682
+ID=Dib4IoMB8d3s9MT9xIdc TXT=Archive-na PATH=./20_newsgroups/rec.autos/0007169
+ID=ESb4IoMB8d3s9MT9xIdc TXT=In article PATH=./20_newsgroups/rec.autos/0007148
+ID=Hyb4IoMB8d3s9MT9xIdc TXT=(I deleted PATH=./20_newsgroups/rec.autos/0007274
+ID=LSb4IoMB8d3s9MT9xIdc TXT=I have bot PATH=./20_newsgroups/rec.autos/0007717
+ID=Pib4IoMB8d3s9MT9xIdc TXT=srihari@ci PATH=./20_newsgroups/rec.autos/0007308
+ID=RCb4IoMB8d3s9MT9xIdc TXT=In article PATH=./20_newsgroups/rec.autos/0007322
+ID=UCb4IoMB8d3s9MT9xIdd TXT=Is clear c PATH=./20_newsgroups/rec.autos/0007192
+ID=YCb4IoMB8d3s9MT9xIdd TXT=tszeto@sne PATH=./20_newsgroups/rec.autos/0007622
+ID=Zyb4IoMB8d3s9MT9xIdd TXT=In a previ PATH=./20_newsgroups/rec.autos/0007929
+ID=eib4IoMB8d3s9MT9xIdd TXT=In article PATH=./20_newsgroups/rec.autos/0007945
+ID=mSb4IoMB8d3s9MT9xIdd TXT=Hi from Au PATH=./20_newsgroups/rec.autos/0007327
+ID=pib4IoMB8d3s9MT9xIdd TXT=In article PATH=./20_newsgroups/rec.autos/0007215
+ID=yib4IoMB8d3s9MT9xIdd TXT=I consulte PATH=./20_newsgroups/rec.autos/0007141
+ID=2ib4IoMB8d3s9MT9xIdd TXT=In article PATH=./20_newsgroups/rec.autos/0007313
+ID=HCb4IoMB8d3s9MT9xIhd TXT=In article PATH=./20_newsgroups/rec.autos/0007084
+ID=Lib4IoMB8d3s9MT9xIhd TXT=In article PATH=./20_newsgroups/rec.autos/0007050
+ID=Syb4IoMB8d3s9MT9xIhd TXT=Mark Monni PATH=./20_newsgroups/rec.autos/0007624
+ID=Tib4IoMB8d3s9MT9xIhd TXT=matmcinn@n PATH=./20_newsgroups/rec.autos/0007966
+ID=WSb4IoMB8d3s9MT9xIhd TXT=In article PATH=./20_newsgroups/rec.autos/0007904
+ID=hib4IoMB8d3s9MT9xIip TXT=In article PATH=./20_newsgroups/rec.autos/0007953
+ID=nSb4IoMB8d3s9MT9xIip TXT=Although n PATH=./20_newsgroups/rec.autos/0007209
+ID=vCb4IoMB8d3s9MT9xIip TXT=In article PATH=./20_newsgroups/rec.autos/0007934
+ID=wyb4IoMB8d3s9MT9xIip TXT=In article PATH=./20_newsgroups/rec.autos/0007273
+ID=5ib4IoMB8d3s9MT9xIip TXT=Howdy,
+I'm PATH=./20_newsgroups/rec.autos/0007143
+ID=9Cb4IoMB8d3s9MT9xIip TXT=tobias@con PATH=./20_newsgroups/rec.autos/0007278
+ID=CSb4IoMB8d3s9MT9xImp TXT=nuet_ke@pt PATH=./20_newsgroups/rec.autos/0007727
+ID=Hib4IoMB8d3s9MT9xImp TXT=In article PATH=./20_newsgroups/rec.autos/0007968
+ID=Iib4IoMB8d3s9MT9xImp TXT=Hi from Au PATH=./20_newsgroups/rec.autos/0007326
+ID=QSb4IoMB8d3s9MT9xImp TXT=mchaffee@d PATH=./20_newsgroups/rec.autos/0007449
+ID=SCb4IoMB8d3s9MT9xImp TXT=In article PATH=./20_newsgroups/rec.autos/0007958
+ID=Yyb4IoMB8d3s9MT9xImp TXT=callison@u PATH=./20_newsgroups/rec.autos/0007746
+ID=byb4IoMB8d3s9MT9xImp TXT=In article PATH=./20_newsgroups/rec.autos/0007125
+ID=lSb4IoMB8d3s9MT9xImp TXT=In article PATH=./20_newsgroups/rec.autos/0007714
+ID=lyb4IoMB8d3s9MT9xImp TXT=parr@acs.u PATH=./20_newsgroups/rec.autos/0007185
+ID=uSb4IoMB8d3s9MT9xImp TXT=In article PATH=./20_newsgroups/rec.autos/0007775
+ID=_Sb4IoMB8d3s9MT9xImq TXT=Archive-na PATH=./20_newsgroups/rec.autos/0007162
+ID=OSb4IoMB8d3s9MT9xIqq TXT=In article PATH=./20_newsgroups/rec.autos/0007112
+ID=jyb4IoMB8d3s9MT9xYoA TXT=In article PATH=./20_newsgroups/rec.autos/0007980
+ID=sSb4IoMB8d3s9MT9xYoA TXT=In article PATH=./20_newsgroups/rec.autos/0007293
+ID=6Sb4IoMB8d3s9MT9xYoA TXT=I know it' PATH=./20_newsgroups/rec.autos/0007110
+ID=9Sb4IoMB8d3s9MT9xYoA TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015482
+ID=BSb4IoMB8d3s9MT9xYsA TXT=I recently PATH=./20_newsgroups/soc.religion.christian/0015753
+ID=CCb4IoMB8d3s9MT9xYsA TXT=Sheila Pat PATH=./20_newsgroups/soc.religion.christian/0015401
+ID=Cyb4IoMB8d3s9MT9xYsA TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015254
+ID=Eib4IoMB8d3s9MT9xYsA TXT=(Well, I'l PATH=./20_newsgroups/soc.religion.christian/0015255
+ID=Fib4IoMB8d3s9MT9xYsA TXT=Bryan Whit PATH=./20_newsgroups/soc.religion.christian/0015977
+ID=ICb4IoMB8d3s9MT9xYsA TXT=Hello ever PATH=./20_newsgroups/soc.religion.christian/0015485
+ID=SSb4IoMB8d3s9MT9xYsA TXT=continuing PATH=./20_newsgroups/soc.religion.christian/0015974
+ID=UCb4IoMB8d3s9MT9xYsA TXT=Ever since PATH=./20_newsgroups/soc.religion.christian/0015880
+ID=XCb4IoMB8d3s9MT9xYsA TXT=Jesus isn' PATH=./20_newsgroups/soc.religion.christian/0015385
+ID=byb4IoMB8d3s9MT9xYsA TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015913
+ID=eCb4IoMB8d3s9MT9xYsA TXT=In the cou PATH=./20_newsgroups/soc.religion.christian/0015827
+ID=eSb4IoMB8d3s9MT9xYsA TXT=  Hello,
+  PATH=./20_newsgroups/soc.religion.christian/0015451
+ID=gCb4IoMB8d3s9MT9xYsA TXT=Coming fro PATH=./20_newsgroups/soc.religion.christian/0015174
+ID=hCb4IoMB8d3s9MT9xYsA TXT=mls@panix. PATH=./20_newsgroups/soc.religion.christian/0015625
+ID=hib4IoMB8d3s9MT9xYsA TXT=[DISCLAIME PATH=./20_newsgroups/soc.religion.christian/0015117
+ID=kSb4IoMB8d3s9MT9xYsA TXT=>Well, I w PATH=./20_newsgroups/soc.religion.christian/0015606
+ID=lCb4IoMB8d3s9MT9xYsA TXT=dhammers@p PATH=./20_newsgroups/soc.religion.christian/0015873
+ID=lyb4IoMB8d3s9MT9xYsA TXT=scott@pris PATH=./20_newsgroups/soc.religion.christian/0015862
+ID=rib4IoMB8d3s9MT9xYsA TXT=     Sorry PATH=./20_newsgroups/soc.religion.christian/0015495
+ID=tCb4IoMB8d3s9MT9xYsA TXT=news@cbnew PATH=./20_newsgroups/soc.religion.christian/0015557
+ID=tib4IoMB8d3s9MT9xYsA TXT=In <May.13 PATH=./20_newsgroups/soc.religion.christian/0015958
+ID=vCb4IoMB8d3s9MT9xYsA TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015018
+ID=xCb4IoMB8d3s9MT9xYsA TXT=From artic PATH=./20_newsgroups/soc.religion.christian/0015951
+ID=0Cb4IoMB8d3s9MT9xYsA TXT=news@cbnew PATH=./20_newsgroups/soc.religion.christian/0015733
+ID=2Sb4IoMB8d3s9MT9xYsA TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015015
+ID=5Sb4IoMB8d3s9MT9xYsB TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015683
+ID=7ib4IoMB8d3s9MT9xYsB TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015810
+ID=8Cb4IoMB8d3s9MT9xYsB TXT=Someone se PATH=./20_newsgroups/soc.religion.christian/0015178
+ID=_Sb4IoMB8d3s9MT9xYsB TXT=dt4%cs@hub PATH=./20_newsgroups/soc.religion.christian/0015724
+ID=Byb4IoMB8d3s9MT9xYwB TXT=	From: dha PATH=./20_newsgroups/soc.religion.christian/0015813
+ID=ESb4IoMB8d3s9MT9xYwB TXT=Woo! So fa PATH=./20_newsgroups/soc.religion.christian/0015614
+ID=Eib4IoMB8d3s9MT9xYwB TXT=dleonar@an PATH=./20_newsgroups/soc.religion.christian/0015199
+ID=Iib4IoMB8d3s9MT9xYwB TXT=  Are ther PATH=./20_newsgroups/soc.religion.christian/0015983
+ID=Iyb4IoMB8d3s9MT9xYwB TXT=Somewhere, PATH=./20_newsgroups/soc.religion.christian/0015567
+ID=JCb4IoMB8d3s9MT9xYwB TXT=vic@mmalt. PATH=./20_newsgroups/soc.religion.christian/0015120
+ID=LCb4IoMB8d3s9MT9xYwB TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015647
+ID=Pib4IoMB8d3s9MT9xYwB TXT= atterlep@ PATH=./20_newsgroups/soc.religion.christian/0015085
+ID=WSb4IoMB8d3s9MT9xYwB TXT=Jason Smit PATH=./20_newsgroups/soc.religion.christian/0015447
+ID=Xyb4IoMB8d3s9MT9xYx6 TXT=easteee@wk PATH=./20_newsgroups/soc.religion.christian/0015579
+ID=Zib4IoMB8d3s9MT9xYx6 TXT=All of the PATH=./20_newsgroups/soc.religion.christian/0015372
+ID=iyb4IoMB8d3s9MT9xYx6 TXT=My brother PATH=./20_newsgroups/soc.religion.christian/0015204
+ID=lyb4IoMB8d3s9MT9xYx6 TXT=The follow PATH=./20_newsgroups/soc.religion.christian/0015610
+ID=qSb4IoMB8d3s9MT9xYx6 TXT=mcovingt@a PATH=./20_newsgroups/soc.religion.christian/0015033
+ID=tib4IoMB8d3s9MT9xYx6 TXT=Heres a ni PATH=./20_newsgroups/soc.religion.christian/0015691
+ID=uSb4IoMB8d3s9MT9xYx6 TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015564
+ID=uyb4IoMB8d3s9MT9xYx6 TXT=Marida Ign PATH=./20_newsgroups/soc.religion.christian/0015608
+ID=yCb4IoMB8d3s9MT9xYx6 TXT=In <Apr.20 PATH=./20_newsgroups/soc.religion.christian/0015188
+ID=yib4IoMB8d3s9MT9xYx6 TXT=>> [ To su PATH=./20_newsgroups/soc.religion.christian/0015654
+ID=0ib4IoMB8d3s9MT9xYx6 TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015722
+ID=1ib4IoMB8d3s9MT9xYx6 TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015627
+ID=3Sb4IoMB8d3s9MT9xYx6 TXT=mserv@moza PATH=./20_newsgroups/soc.religion.christian/0015552
+ID=3yb4IoMB8d3s9MT9xYx6 TXT=>>>>> On 5 PATH=./20_newsgroups/soc.religion.christian/0015527
+ID=4Cb4IoMB8d3s9MT9xYx6 TXT=Mark Ashle PATH=./20_newsgroups/soc.religion.christian/0015534
+ID=6ib4IoMB8d3s9MT9xYx6 TXT=wquinnan@s PATH=./20_newsgroups/soc.religion.christian/0015069
+ID=ASb4IoMB8d3s9MT9xY16 TXT=	I am a go PATH=./20_newsgroups/soc.religion.christian/0015038
+ID=CCb4IoMB8d3s9MT9xY16 TXT=Despite my PATH=./20_newsgroups/soc.religion.christian/0015290
+ID=DSb4IoMB8d3s9MT9xY16 TXT=>Paul Cond PATH=./20_newsgroups/soc.religion.christian/0015359
+ID=ESb4IoMB8d3s9MT9xY16 TXT=>Any attem PATH=./20_newsgroups/soc.religion.christian/0015766
+ID=GSb4IoMB8d3s9MT9xY16 TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015795
+ID=Gyb4IoMB8d3s9MT9xY16 TXT=Someone re PATH=./20_newsgroups/soc.religion.christian/0015685
+ID=HSb4IoMB8d3s9MT9xY16 TXT= hall@vice PATH=./20_newsgroups/soc.religion.christian/0015903
+ID=ICb4IoMB8d3s9MT9xY16 TXT=According  PATH=./20_newsgroups/soc.religion.christian/0015115
+ID=JSb4IoMB8d3s9MT9xY16 TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015481
+ID=KCb4IoMB8d3s9MT9xY16 TXT=Quotes fro PATH=./20_newsgroups/soc.religion.christian/0015869
+ID=LCb4IoMB8d3s9MT9xY16 TXT=  Here's h PATH=./20_newsgroups/soc.religion.christian/0015071
+ID=NSb4IoMB8d3s9MT9xY16 TXT=Andrew - c PATH=./20_newsgroups/soc.religion.christian/0015914
+ID=PSb4IoMB8d3s9MT9xY16 TXT=I sinned.  PATH=./20_newsgroups/soc.religion.christian/0015506
+ID=RSb4IoMB8d3s9MT9xY16 TXT=Note: I am PATH=./20_newsgroups/soc.religion.christian/0015517
+ID=UCb4IoMB8d3s9MT9xY16 TXT=I've been  PATH=./20_newsgroups/soc.religion.christian/0015443
+ID=Vib4IoMB8d3s9MT9xY16 TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015490
+ID=Xib4IoMB8d3s9MT9xY16 TXT=for SRC
+In PATH=./20_newsgroups/soc.religion.christian/0015215
+ID=ZSb4IoMB8d3s9MT9xY16 TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015562
+ID=fSb4IoMB8d3s9MT9xY17 TXT=poram@ihlp PATH=./20_newsgroups/soc.religion.christian/0015751
+ID=mCb4IoMB8d3s9MT9xY17 TXT=Hello all. PATH=./20_newsgroups/soc.religion.christian/0015197
+ID=mib4IoMB8d3s9MT9xY17 TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015045
+ID=nyb4IoMB8d3s9MT9xY17 TXT=[This was  PATH=./20_newsgroups/soc.religion.christian/0015883
+ID=pCb4IoMB8d3s9MT9xY17 TXT=It's like  PATH=./20_newsgroups/soc.religion.christian/0015477
+ID=qib4IoMB8d3s9MT9xY17 TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015822
+ID=rib4IoMB8d3s9MT9xY17 TXT=In <May.14 PATH=./20_newsgroups/soc.religion.christian/0015968
+ID=sib4IoMB8d3s9MT9xY17 TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015559
+ID=syb4IoMB8d3s9MT9xY17 TXT=Being a pa PATH=./20_newsgroups/soc.religion.christian/0015080
+ID=tib4IoMB8d3s9MT9xY17 TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015432
+ID=uib4IoMB8d3s9MT9xY17 TXT=Can a thei PATH=./20_newsgroups/soc.religion.christian/0015321
+ID=wyb4IoMB8d3s9MT9xY17 TXT=I have com PATH=./20_newsgroups/soc.religion.christian/0015006
+ID=xib4IoMB8d3s9MT9xY17 TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015928
+ID=xyb4IoMB8d3s9MT9xY17 TXT=It trouble PATH=./20_newsgroups/soc.religion.christian/0015686
+ID=yyb4IoMB8d3s9MT9xY17 TXT=by028@clev PATH=./20_newsgroups/soc.religion.christian/0015070
+ID=zyb4IoMB8d3s9MT9xY17 TXT=Recently a PATH=./20_newsgroups/soc.religion.christian/0015831
+ID=0Cb4IoMB8d3s9MT9xY17 TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015160
+ID=0yb4IoMB8d3s9MT9xY17 TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015908
+ID=2yb4IoMB8d3s9MT9xY17 TXT=Paul Condi PATH=./20_newsgroups/soc.religion.christian/0015046
+ID=3Cb4IoMB8d3s9MT9xY17 TXT=Can someon PATH=./20_newsgroups/soc.religion.christian/0015584
+ID=6Sb4IoMB8d3s9MT9xY17 TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015285
+ID=Aib4IoMB8d3s9MT9xY57 TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015889
+ID=Dyb4IoMB8d3s9MT9xY57 TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015803
+ID=LSb4IoMB8d3s9MT9xY57 TXT=To what fo PATH=./20_newsgroups/soc.religion.christian/0015331
+ID=MSb4IoMB8d3s9MT9xY57 TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015749
+ID=Oib4IoMB8d3s9MT9xY57 TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015781
+ID=QCb4IoMB8d3s9MT9xY57 TXT=Joe Buehle PATH=./20_newsgroups/soc.religion.christian/0015702
+ID=QSb4IoMB8d3s9MT9xY57 TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015684
+ID=RSb4IoMB8d3s9MT9xY57 TXT=Please rea PATH=./20_newsgroups/soc.religion.christian/0015479
+ID=Syb4IoMB8d3s9MT9xY57 TXT=In the Mon PATH=./20_newsgroups/soc.religion.christian/0015633
+ID=Uib4IoMB8d3s9MT9xY7k TXT=I dreamed  PATH=./20_newsgroups/soc.religion.christian/0015455
+ID=Uyb4IoMB8d3s9MT9xY7k TXT=[Someone a PATH=./20_newsgroups/soc.religion.christian/0015856
+ID=VCb4IoMB8d3s9MT9xY7k TXT=cobb@alexi PATH=./20_newsgroups/soc.religion.christian/0015063
+ID=WCb4IoMB8d3s9MT9xY7k TXT="Michael"  PATH=./20_newsgroups/soc.religion.christian/0015892
+ID=Xyb4IoMB8d3s9MT9xY7k TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015798
+ID=Yib4IoMB8d3s9MT9xY7k TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015317
+ID=aCb4IoMB8d3s9MT9xY7k TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015378
+ID=aSb4IoMB8d3s9MT9xY7k TXT=From artic PATH=./20_newsgroups/soc.religion.christian/0015252
+ID=fCb4IoMB8d3s9MT9xY7k TXT=Here is so PATH=./20_newsgroups/soc.religion.christian/0015446
+ID=gCb4IoMB8d3s9MT9xY7k TXT=I have enr PATH=./20_newsgroups/soc.religion.christian/0015703
+ID=gib4IoMB8d3s9MT9xY7k TXT=Gilligan = PATH=./20_newsgroups/soc.religion.christian/0015003
+ID=lCb4IoMB8d3s9MT9xY7k TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015076
+ID=mib4IoMB8d3s9MT9xY7k TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015611
+ID=nSb4IoMB8d3s9MT9xY7k TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015172
+ID=oCb4IoMB8d3s9MT9xY7k TXT=    I reca PATH=./20_newsgroups/soc.religion.christian/0015906
+ID=oSb4IoMB8d3s9MT9xY7k TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015805
+ID=pCb4IoMB8d3s9MT9xY7k TXT= Library o PATH=./20_newsgroups/soc.religion.christian/0015488
+ID=pyb4IoMB8d3s9MT9xY7k TXT=Note:  I a PATH=./20_newsgroups/soc.religion.christian/0015932
+ID=qCb4IoMB8d3s9MT9xY7k TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015705
+ID=qyb4IoMB8d3s9MT9xY7k TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015885
+ID=tyb4IoMB8d3s9MT9xY7k TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015475
+ID=uib4IoMB8d3s9MT9xY7k TXT=[This is a PATH=./20_newsgroups/soc.religion.christian/0015834
+ID=vyb4IoMB8d3s9MT9xY7k TXT=In article PATH=./20_newsgroups/soc.religion.christian/0015736
+ID=wCb4IoMB8d3s9MT9xY7k TXT=Joe Moore  PATH=./20_newsgroups/soc.religion.christian/0015876
+ID=xib4IoMB8d3s9MT9xY7k TXT=I particip PATH=./20_newsgroups/misc.forsale/0006272
+ID=0ib4IoMB8d3s9MT9xY7k TXT=I have the PATH=./20_newsgroups/misc.forsale/0006558
+ID=8ib4IoMB8d3s9MT9xY7k TXT=********** PATH=./20_newsgroups/misc.forsale/0006127
+ID=8yb4IoMB8d3s9MT9xY7k TXT=Hello fell PATH=./20_newsgroups/misc.forsale/0004331
+ID=ESb4IoMB8d3s9MT9xY_k TXT=	Apple //e PATH=./20_newsgroups/misc.forsale/0006811
+ID=TCb4IoMB8d3s9MT9xY_k TXT=I would li PATH=./20_newsgroups/misc.forsale/0006061
+ID=YCb4IoMB8d3s9MT9xY_k TXT=I have the PATH=./20_newsgroups/misc.forsale/0006885
+ID=hyb4IoMB8d3s9MT9xY_k TXT=The follow PATH=./20_newsgroups/misc.forsale/0006218
+ID=iCb4IoMB8d3s9MT9xY_k TXT=Apple IIgs PATH=./20_newsgroups/misc.forsale/0006481
+ID=myb4IoMB8d3s9MT9xY_k TXT=nyamane@ny PATH=./20_newsgroups/misc.forsale/0006212
+ID=pCb4IoMB8d3s9MT9xY_k TXT=Items for  PATH=./20_newsgroups/misc.forsale/0006351
+ID=qCb4IoMB8d3s9MT9xY_k TXT=Hitachi CD PATH=./20_newsgroups/misc.forsale/0006534
+ID=wSb4IoMB8d3s9MT9xY_k TXT=Hello All, PATH=./20_newsgroups/misc.forsale/0006769
+ID=0Sb4IoMB8d3s9MT9xY_k TXT=Need an ex PATH=./20_newsgroups/misc.forsale/0006402
+ID=3yb4IoMB8d3s9MT9xY_k TXT=I have a b PATH=./20_newsgroups/misc.forsale/0006158
+ID=-yb4IoMB8d3s9MT9xY_l TXT=Reduced Pr PATH=./20_newsgroups/misc.forsale/0006411
+ID=Bib4IoMB8d3s9MT9xZDl TXT=Hello fell PATH=./20_newsgroups/misc.forsale/0006403
+ID=HCb4IoMB8d3s9MT9xZDl TXT=Need an ex PATH=./20_newsgroups/misc.forsale/0004827
+ID=KCb4IoMB8d3s9MT9xZDl TXT=I have the PATH=./20_newsgroups/misc.forsale/0006205
+ID=KSb4IoMB8d3s9MT9xZDl TXT=A bunch of PATH=./20_newsgroups/misc.forsale/0006469
+ID=MSb4IoMB8d3s9MT9xZDl TXT=HARD DRIVE PATH=./20_newsgroups/misc.forsale/0006043
+ID=NSb4IoMB8d3s9MT9xZDl TXT=I have a b PATH=./20_newsgroups/misc.forsale/0006356
+ID=PCb4IoMB8d3s9MT9xZDl TXT=In article PATH=./20_newsgroups/misc.forsale/0006066
+ID=Wyb4IoMB8d3s9MT9xpA3 TXT=Reduced Pr PATH=./20_newsgroups/misc.forsale/0006414
+ID=sib4IoMB8d3s9MT9xpA3 TXT=	Please ta PATH=./20_newsgroups/misc.forsale/0006798
+ID=tSb4IoMB8d3s9MT9xpA3 TXT=Computer E PATH=./20_newsgroups/misc.forsale/0006823
+ID=1Cb4IoMB8d3s9MT9xpA3 TXT=	A friend  PATH=./20_newsgroups/misc.forsale/0006805
+ID=6yb4IoMB8d3s9MT9xpA3 TXT=I have a S PATH=./20_newsgroups/misc.forsale/0006765
+ID=Zyb4IoMB8d3s9MT9xpE3 TXT=Hello fell PATH=./20_newsgroups/misc.forsale/0004828
+ID=cib4IoMB8d3s9MT9xpE3 TXT=Please do  PATH=./20_newsgroups/misc.forsale/0006972
+ID=eyb4IoMB8d3s9MT9xpE3 TXT=I need to  PATH=./20_newsgroups/misc.forsale/0006121
+ID=gSb4IoMB8d3s9MT9xpE3 TXT=I have the PATH=./20_newsgroups/misc.forsale/0006116
+ID=jyb4IoMB8d3s9MT9xpE3 TXT=Items for  PATH=./20_newsgroups/misc.forsale/0006530
+ID=kCb4IoMB8d3s9MT9xpE3 TXT=I have the PATH=./20_newsgroups/misc.forsale/0006390
+ID=7Cb4IoMB8d3s9MT9xpE3 TXT=I have rec PATH=./20_newsgroups/misc.forsale/0006478
+ID=9Sb4IoMB8d3s9MT9xpE3 TXT="Computer  PATH=./20_newsgroups/misc.forsale/0006405
+ID=LCb4IoMB8d3s9MT9xpI3 TXT=I have the PATH=./20_newsgroups/misc.forsale/0006848
+ID=Qib4IoMB8d3s9MT9xpJ6 TXT=  Wanted:  PATH=./20_newsgroups/misc.forsale/0006321
+ID=TSb4IoMB8d3s9MT9xpJ6 TXT=Items for  PATH=./20_newsgroups/misc.forsale/0006808
+ID=UCb4IoMB8d3s9MT9xpJ6 TXT=I particip PATH=./20_newsgroups/misc.forsale/0006539
+ID=Vib4IoMB8d3s9MT9xpJ6 TXT=Selling Pr PATH=./20_newsgroups/misc.forsale/0006529
+ID=Yib4IoMB8d3s9MT9xpJ6 TXT=I have a P PATH=./20_newsgroups/misc.forsale/0006984
+ID=jSb4IoMB8d3s9MT9xpJ6 TXT=In article PATH=./20_newsgroups/alt.atheism/0000278
+ID=kCb4IoMB8d3s9MT9xpJ6 TXT=In article PATH=./20_newsgroups/alt.atheism/0000474
+ID=tCb4IoMB8d3s9MT9xpJ7 TXT=livesey@so PATH=./20_newsgroups/alt.atheism/0000025
+ID=vib4IoMB8d3s9MT9xpJ7 TXT=arromdee@j PATH=./20_newsgroups/alt.atheism/0019567
+ID=vyb4IoMB8d3s9MT9xpJ7 TXT=In article PATH=./20_newsgroups/alt.atheism/0000182
+ID=yib4IoMB8d3s9MT9xpJ7 TXT=In article PATH=./20_newsgroups/alt.atheism/0000444
+ID=3yb4IoMB8d3s9MT9xpJ7 TXT=In article PATH=./20_newsgroups/alt.atheism/0000627
+ID=4yb4IoMB8d3s9MT9xpJ7 TXT=In article PATH=./20_newsgroups/alt.atheism/0000202
+ID=-Cb4IoMB8d3s9MT9xpJ7 TXT=jbrown@bat PATH=./20_newsgroups/alt.atheism/0000749
+ID=-yb4IoMB8d3s9MT9xpJ7 TXT=Someone wr PATH=./20_newsgroups/alt.atheism/0019004
+ID=_Sb4IoMB8d3s9MT9xpJ7 TXT=In article PATH=./20_newsgroups/alt.atheism/0000559
+ID=CSb4IoMB8d3s9MT9xpN7 TXT=In article PATH=./20_newsgroups/alt.atheism/0000772
+ID=Fib4IoMB8d3s9MT9xpN7 TXT=In article PATH=./20_newsgroups/alt.atheism/0000236
+ID=KSb4IoMB8d3s9MT9xpN7 TXT=In article PATH=./20_newsgroups/alt.atheism/0000645
+ID=MSb4IoMB8d3s9MT9xpN7 TXT=In article PATH=./20_newsgroups/alt.atheism/0000164
+ID=Nib4IoMB8d3s9MT9xpN7 TXT=In article PATH=./20_newsgroups/alt.atheism/0000928
+ID=Rib4IoMB8d3s9MT9xpN7 TXT=frank@D012 PATH=./20_newsgroups/alt.atheism/0000915
+ID=Xib4IoMB8d3s9MT9xpN7 TXT=>FROM:   J PATH=./20_newsgroups/alt.atheism/0000093
+ID=dSb4IoMB8d3s9MT9xpN7 TXT=Can a thei PATH=./20_newsgroups/alt.atheism/0019779
+ID=eyb4IoMB8d3s9MT9xpN7 TXT=In article PATH=./20_newsgroups/alt.atheism/0000999
+ID=fCb4IoMB8d3s9MT9xpN7 TXT=In article PATH=./20_newsgroups/alt.atheism/0000744
+ID=gyb4IoMB8d3s9MT9xpN7 TXT=BR> From:  PATH=./20_newsgroups/alt.atheism/0000985
+ID=hyb4IoMB8d3s9MT9xpN7 TXT=In article PATH=./20_newsgroups/alt.atheism/0000781
+ID=qSb4IoMB8d3s9MT9xpN7 TXT=In article PATH=./20_newsgroups/alt.atheism/0000208
+ID=wSb4IoMB8d3s9MT9xpN7 TXT=In article PATH=./20_newsgroups/alt.atheism/0000169
+ID=xyb4IoMB8d3s9MT9xpN7 TXT=In article PATH=./20_newsgroups/alt.atheism/0000946
+ID=yyb4IoMB8d3s9MT9xpN7 TXT=In article PATH=./20_newsgroups/alt.atheism/0000248
+ID=5Sb4IoMB8d3s9MT9xpN7 TXT=In article PATH=./20_newsgroups/alt.atheism/0000177
+ID=6yb4IoMB8d3s9MT9xpN7 TXT=In article PATH=./20_newsgroups/alt.atheism/0000865
+ID=7ib4IoMB8d3s9MT9xpN7 TXT=>DATE:   T PATH=./20_newsgroups/alt.atheism/0000608
+ID=9yb4IoMB8d3s9MT9xpN7 TXT=In article PATH=./20_newsgroups/alt.atheism/0000689
+ID=FCb4IoMB8d3s9MT9xpR8 TXT=In article PATH=./20_newsgroups/alt.atheism/0000082
+ID=JCb4IoMB8d3s9MT9xpR8 TXT=On Tue, 20 PATH=./20_newsgroups/alt.atheism/0000910
+ID=LCb4IoMB8d3s9MT9xpR8 TXT=kcochran@n PATH=./20_newsgroups/alt.atheism/0000312
+ID=QCb4IoMB8d3s9MT9xpTe TXT=My last re PATH=./20_newsgroups/alt.atheism/0000475
+ID=Vib4IoMB8d3s9MT9xpTe TXT=In article PATH=./20_newsgroups/alt.atheism/0000136
+ID=Wyb4IoMB8d3s9MT9xpTe TXT=Someone wr PATH=./20_newsgroups/alt.atheism/0000021
+ID=ZCb4IoMB8d3s9MT9xpTe TXT=In article PATH=./20_newsgroups/alt.atheism/0000036
+ID=bSb4IoMB8d3s9MT9xpTe TXT=In article PATH=./20_newsgroups/alt.atheism/0000819
+ID=fCb4IoMB8d3s9MT9xpTe TXT=In article PATH=./20_newsgroups/alt.atheism/0000561
+ID=hCb4IoMB8d3s9MT9xpTe TXT=In article PATH=./20_newsgroups/alt.atheism/0000638
+ID=kib4IoMB8d3s9MT9xpTe TXT=From: jbro PATH=./20_newsgroups/alt.atheism/0000545
+ID=lCb4IoMB8d3s9MT9xpTe TXT=arromdee@j PATH=./20_newsgroups/alt.atheism/0000920
+ID=mCb4IoMB8d3s9MT9xpTe TXT=In article PATH=./20_newsgroups/alt.atheism/0000069
+ID=mSb4IoMB8d3s9MT9xpTe TXT=mccullou@w PATH=./20_newsgroups/alt.atheism/0000502
+ID=pyb4IoMB8d3s9MT9xpTe TXT=acooper@ma PATH=./20_newsgroups/alt.atheism/0000695
+ID=syb4IoMB8d3s9MT9xpTe TXT=Bill Conne PATH=./20_newsgroups/alt.atheism/0000821
+ID=wCb4IoMB8d3s9MT9xpTe TXT=John E. Ki PATH=./20_newsgroups/alt.atheism/0000855
+ID=wib4IoMB8d3s9MT9xpTe TXT=In <1993Ap PATH=./20_newsgroups/alt.atheism/0000201
+ID=wyb4IoMB8d3s9MT9xpTe TXT=In article PATH=./20_newsgroups/alt.atheism/0000452
+ID=xSb4IoMB8d3s9MT9xpTe TXT=In article PATH=./20_newsgroups/alt.atheism/0000007
+ID=xib4IoMB8d3s9MT9xpTe TXT=In article PATH=./20_newsgroups/alt.atheism/0000945
+ID=ySb4IoMB8d3s9MT9xpTe TXT=Archive-na PATH=./20_newsgroups/alt.atheism/0000204
+ID=1yb4IoMB8d3s9MT9xpTe TXT=Archive-na PATH=./20_newsgroups/alt.atheism/0000203
+ID=2Cb4IoMB8d3s9MT9xpTe TXT=	Your natu PATH=./20_newsgroups/alt.atheism/0000795
+ID=8ib4IoMB8d3s9MT9xpTe TXT=In article PATH=./20_newsgroups/alt.atheism/0000167
+ID=_yb4IoMB8d3s9MT9xpTe TXT=snm6394@ul PATH=./20_newsgroups/alt.atheism/0000070
+ID=ASb4IoMB8d3s9MT9xpXe TXT=New in thi PATH=./20_newsgroups/alt.atheism/0000186
+ID=ECb4IoMB8d3s9MT9xpXe TXT=In article PATH=./20_newsgroups/alt.atheism/0000180
+ID=ESb4IoMB8d3s9MT9xpXe TXT=In article PATH=./20_newsgroups/alt.atheism/0000168
+ID=Fib4IoMB8d3s9MT9xpXe TXT=In article PATH=./20_newsgroups/alt.atheism/0000047
+ID=ICb4IoMB8d3s9MT9xpXe TXT=In article PATH=./20_newsgroups/alt.atheism/0000890
+ID=OCb4IoMB8d3s9MT9xpXf TXT=Archive-na PATH=./20_newsgroups/alt.atheism/0000001
+ID=Ryb4IoMB8d3s9MT9xpXf TXT=In article PATH=./20_newsgroups/alt.atheism/0000633
+ID=Tyb4IoMB8d3s9MT9xpXf TXT=In article PATH=./20_newsgroups/alt.atheism/0000600
+ID=YCb4IoMB8d3s9MT9xpXf TXT=mmwang@ado PATH=./20_newsgroups/alt.atheism/0000118
+ID=Yib4IoMB8d3s9MT9xpXf TXT=bobbe@vice PATH=./20_newsgroups/alt.atheism/0000295
+ID=Yyb4IoMB8d3s9MT9xpXf TXT=In article PATH=./20_newsgroups/alt.atheism/0000917
+ID=cyb4IoMB8d3s9MT9xpXf TXT=Dan Schaer PATH=./20_newsgroups/alt.atheism/0000977
+ID=fSb4IoMB8d3s9MT9xpXf TXT=In article PATH=./20_newsgroups/alt.atheism/0000163
+ID=mCb4IoMB8d3s9MT9xpXf TXT=Mark McCul PATH=./20_newsgroups/alt.atheism/0000701
+ID=oyb4IoMB8d3s9MT9xpXf TXT=In article PATH=./20_newsgroups/alt.atheism/0019319
+ID=ryb4IoMB8d3s9MT9xpXf TXT=arromdee@j PATH=./20_newsgroups/alt.atheism/0000745
+ID=sCb4IoMB8d3s9MT9xpXf TXT=In article PATH=./20_newsgroups/alt.atheism/0000019
+ID=uib4IoMB8d3s9MT9xpXf TXT=In article PATH=./20_newsgroups/alt.atheism/0000100
+ID=xSb4IoMB8d3s9MT9xpXf TXT=In <114127 PATH=./20_newsgroups/alt.atheism/0000128
+ID=zCb4IoMB8d3s9MT9xpXf TXT=Bruce Sale PATH=./20_newsgroups/alt.atheism/0000728
+ID=zyb4IoMB8d3s9MT9xpXf TXT=James Hoga PATH=./20_newsgroups/alt.atheism/0000432
+ID=1yb4IoMB8d3s9MT9xpXf TXT=  The rece PATH=./20_newsgroups/alt.atheism/0000670
+ID=4Cb4IoMB8d3s9MT9xpXf TXT=In article PATH=./20_newsgroups/alt.atheism/0000175
+ID=6ib4IoMB8d3s9MT9xpXf TXT=In article PATH=./20_newsgroups/alt.atheism/0000826
+ID=FSb4IoMB8d3s9MT9xpbf TXT=In article PATH=./20_newsgroups/alt.atheism/0000143
+ID=ICb4IoMB8d3s9MT9xpbf TXT=Once again PATH=./20_newsgroups/alt.atheism/0000476
+ID=OCb4IoMB8d3s9MT9x5Y8 TXT=This is fa PATH=./20_newsgroups/alt.atheism/0000593
+ID=OSb4IoMB8d3s9MT9x5Y8 TXT=In article PATH=./20_newsgroups/alt.atheism/0000273
+ID=Pyb4IoMB8d3s9MT9x5Y8 TXT=In article PATH=./20_newsgroups/alt.atheism/0000174
+ID=Vib4IoMB8d3s9MT9x5Y9 TXT=mangoe@cs. PATH=./20_newsgroups/alt.atheism/0000185
+ID=Vyb4IoMB8d3s9MT9x5Y9 TXT=In article PATH=./20_newsgroups/alt.atheism/0000817
+ID=WSb4IoMB8d3s9MT9x5Y9 TXT=bil@okcfor PATH=./20_newsgroups/alt.atheism/0000930
+ID=ayb4IoMB8d3s9MT9x5Y9 TXT=mangoe@cs. PATH=./20_newsgroups/alt.atheism/0000184
+ID=bCb4IoMB8d3s9MT9x5Y9 TXT=In article PATH=./20_newsgroups/alt.atheism/0000520
+ID=byb4IoMB8d3s9MT9x5Y9 TXT=In article PATH=./20_newsgroups/alt.atheism/0000190
+1535 Documents
