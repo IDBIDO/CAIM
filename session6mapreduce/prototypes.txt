@@ -1,0 +1,10 @@
+CLASS0:around+1.0 detail+1.0 enhanc+1.0 galaxi+1.0 group+1.0 optic+1.0 presenc+1.0 resolut+1.0 spectral+1.0 toward+1.0 
+CLASS1:cluster+1.0 complet+1.0 constant+1.0 electron+1.0 galaxi+1.0 global+1.0 involv+1.0 matter+1.0 moreov+1.0 particl+1.0 report+1.0 scenario+1.0 univers+1.0 
+CLASS2:along+1.0 be+1.0 complet+1.0 finit+1.0 furthermor+1.0 particl+1.0 represent+1.0 shown+1.0 
+CLASS3:address+1.0 analyt+1.0 behavior+1.0 critic+1.0 futur+1.0 global+1.0 key+1.0 role+1.0 spatial+1.0 
+CLASS4:along+1.0 art+1.0 be+1.0 context+1.0 critic+1.0 domain+1.0 establish+1.0 flow+1.0 much+1.0 practic+1.0 
+CLASS5:account+1.0 across+1.0 constant+1.0 electron+1.0 matter+1.0 optic+1.0 particl+1.0 
+CLASS6:analyt+1.0 either+1.0 free+1.0 often+1.0 shown+1.0 
+CLASS7:distanc+1.0 finit+1.0 free+1.0 larger+1.0 
+CLASS8:around+1.0 best+1.0 distanc+1.0 free+1.0 futur+1.0 galaxi+1.0 group+1.0 light+1.0 scenario+1.0 sim+1.0 sinc+1.0 stellar+1.0 
+CLASS9:across+1.0 becaus+1.0 complet+1.0 doe+1.0 establish+1.0 impact+1.0 less+1.0 often+1.0 role+1.0 univers+1.0 

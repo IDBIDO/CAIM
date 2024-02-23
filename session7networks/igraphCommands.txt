@@ -1,0 +1,10 @@
+g <- read.graph("graph.txt", format="edgelist")
+V(g)
+E(g)
+
+er_graph <- erdos.renyi.game(100, 2/100)
+ws_graph <- watts.strogatz.game(1, 100, 4, 0.05)
+ba_graph <- barabasi.game(100)
+
+
+

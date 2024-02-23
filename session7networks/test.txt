@@ -1,0 +1,9 @@
+0 1
+1 2
+2 3
+
+prPB=page.rank(network)$vector
+for (i in 1: length(prPB)){
+    prPB[i] <- prPB[i]*500
+}
+plot(network, vertex.size= c(prPB))

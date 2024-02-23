@@ -1,0 +1,10 @@
+CLASS0:analyt+1.0 becaus+1.0 common+1.0 detail+1.0 distanc+1.0 domain+1.0 finit+1.0 global+1.0 precis+1.0 tool+1.0 
+CLASS1:context+1.0 frequenc+1.0 furthermor+1.0 futur+1.0 global+1.0 impact+1.0 key+1.0 particl+1.0 probabl+1.0 spatial+1.0 tool+1.0 variabl+1.0 
+CLASS2:account+1.0 among+1.0 continu+1.0 enhanc+1.0 group+1.0 often+1.0 robust+1.0 
+CLASS3:open+1.0 scenario+1.0 scheme+1.0 separ+1.0 variabl+1.0 
+CLASS4:account+1.0 becaus+1.0 cluster+1.0 enhanc+1.0 galaxi+1.0 open+1.0 reveal+1.0 sinc+1.0 typic+1.0 
+CLASS5:across+1.0 among+1.0 critic+1.0 group+1.0 open+1.0 support+1.0 
+CLASS6:account+1.0 address+1.0 along+1.0 flow+1.0 frequenc+1.0 part+1.0 particl+1.0 spatial+1.0 spectral+1.0 variabl+1.0 variat+1.0 veloc+1.0 wave+1.0 
+CLASS7:be+1.0 key+1.0 minim+1.0 precis+1.0 shown+1.0 spatial+1.0 support+1.0 
+CLASS8:full+1.0 futur+1.0 light+1.0 part+1.0 separ+1.0 shown+1.0 
+CLASS9:constant+1.0 free+1.0 part+1.0 separ+1.0 univers+1.0 

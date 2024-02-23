@@ -1,0 +1,76 @@
+* Ejecute los comandos en orden en RStudio
+
+TASK 1:
+> library(igraph)
+
+> C <- NULL
+> L <- NULL
+> clustering_coefficient <- c()
+> average_shortest_path <- c()
+
+# probabilidades
+> p <- c(0, 0.00004, 0.0001, 0.00033, 0.00067,
+        0.001, 0.0033, 0.0067, 0.01,0.033, 0.067, 0.1, 0.33, 0.67,
+        1)
+
+> for (i in 1:length(p)) {
+    
+    graph <- watts.strogatz.game(1, 8000, 4, p[i])
+    
+    if (i != 1) {
+        clustering_coefficient[i] <- c(transitivity(graph) / C)
+        average_shortest_path[i] <- c(average.path.length(graph) / L)
+    }
+    else { 
+        C <- transitivity(graph)
+        L <- average.path.length(graph)
+        clustering_coefficients <- c(1)     #C(1)/C(1)
+        average_shortest_path <- c(1)       #L(1)/L(1)
+    }
+    
+}
+
+> paste(c("Clustering Coefficients: ", clustering_coefficients), collapse=" ")
+> paste(c("Average Shortest Path: ", average_shortest_path), collapse=" ")
+
+> plot(p, clustering_coefficients, col="red", pch=0,
+     log="x", xlab="P", ylab="")
+>points(p, average_shortest_path, col="blue", pch=0)
+
+
+TASK2:
+> library(igraph)
+
+# leer y dibujamos el grafo
+> graph <- read.graph("edges.txt", directed = FALSE)
+> plot(graph)
+
+# numero de nodos:
+> length(V(graph))
+
+# numero de aristas:
+> length(E(graph)
+
+# diametro
+> diameter(graph)
+
+# transitivity
+> transitivity(graph)
+
+# degree distribution histogram
+> hist(degree.distribution(graph))
+
+# graph with node size proportional to pagerank
+> prPB=page.rank(graph)$vector
+> for (i in 1: length(prPB)){               #escalamos pagerank para que se vea
+    prPB[i] <- prPB[i]*500
+   }
+> plot(graph, vertex.size= c(prPB))
+
+# graph with communities
+> comm <- walktrap.community(graph)
+> plot(comm, graph)
+
+# size of communities
+> plot(sizes(comm))
+
