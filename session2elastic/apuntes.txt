@@ -1,0 +1,45 @@
+Stremming -> normalizar textos 
+1. convertir texto en tokens.
+
+python3 IndexFilesPreprocess.py --index novels_whitespace --path /home/he/Desktop/caim/session1ESZipfHeaps/novels --token whitespace
+python3 IndexFilesPreprocess.py --index novels_whitespace --path ./novels --token whitespace
+python3 IndexFilesPreprocess.py --index news --path /novels --token whitespace
+
+python3 IndexFilesPreprocess.py --index novels_letter --path ./novels --token letter
+
+
+python3 IndexFilesPreprocess.py --index 20news_letter --path ./20_newsgroups --token letter --filter lowercase asciifolding stop snowball
+
+
+box plot
+
+python3 TFIDFViewer.py --index 20news_letter --file ./20_newsgroups/alt.atheism/0000000 ./20_newsgroups/alt.atheism/0000000
+
+python3 TFIDFViewer.py --index 20news_letter --file ./20_newsgroups/alt.atheism/0000000 ./20_newsgroups/sci.electronics/0001566
+
+python3 TFIDFViewer.py --index 20news_letter --file ./20_newsgroups/soc.religion.christian/0015000 ./20_newsgroups/talk.politics.mideast/0016011
+
+
+python3 TFIDFViewer.py --index novels_letter --file ./novels/DickensAChristmasCarol.txt ./novels/DickensGreatExpectations.txt
+python3 TFIDFViewer.py --index novels --file ./novels/DickensAChristmasCarol.txt ./novels/DickensGreatExpectations.txt
+
+
+TOKENIZER -> standard tokenizer, 
+
+cargar los indices de newletter para una meor analisis. 
+Lo tekenizamos, y hacemos stemming. 
+
+IndexFilesPreprocess-> hace tokenizacion y filtrado 
+--token opciones
+con countpy miramos como varia el numero de parabla a medida que variamos "opciones"
+
+coger el tokenizer mas agressivo, y activar filtros: lowercase, asciifolfing.
+
+contestar preguntas elegiendo los filtros sabiamente.
+
+Tipos de filtros:   
+    - snowball: hace un stem de un idioma con Snowball-generated stemmer
+    - porter stem: hace un stem del ingles muy agressivo (elimina sufijos)
+    - kstem: hace un stem menos agresivo que porter stem
+
+Para los filtros intentar buscar la mejor combinación de filtros posibles.
